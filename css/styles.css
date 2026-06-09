@@ -7,7 +7,7 @@ body {
 	text-align: center;
 }
 #sidebar {
-	background-color: #db8e72;
+	background-color: #ff0000;
 	padding-top: 20px;
 	padding-bottom: 20px;
 	border-bottom-left-radius: 10px;
@@ -47,7 +47,7 @@ body {
 	color: white;
 }
 #gallery-container {
-	background-color: #db8e72;
+	background-color: #ff0000;
 	border-bottom-left-radius: 10px;
 	border-bottom-right-radius: 10px;
 	padding-bottom: 10px;
@@ -311,7 +311,7 @@ a:hover, a:active {
 @media (max-width: 767px) {
 	/* Small devices (tablets, 768px and less) */
 	body {
-		background-color: #db8e72;
+		background-color: #ff0000;
 	}
 	#gallery {
 		padding: 0;
