@@ -205,7 +205,7 @@ a:hover, a:active {
 	border-color: #d5cbbf;
 }
 #tags-dropdown {
-	background-color: #edd7cc;
+	background-color: #d5cbbf;
 }
 .tag-dropdown-button {
 	float: left;
@@ -217,7 +217,7 @@ a:hover, a:active {
 	border-color: #d5cbbf;
 }
 #datepicker-dropdown {
-	background-color: #edd7cc;
+	background-color: #d5cbbf;
 	font-weight: bold;
 	padding: 3px 10px 3px 10px;
 	width: 190px;
@@ -267,7 +267,7 @@ a:hover, a:active {
 	color: white;
 }
 .show-all-button-active {
-	background-color: #9c4848;
+	background-color: #e7d998;
 }
 .show-all-button-active:hover {
 	background-color: #d5cbbf;
