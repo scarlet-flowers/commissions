@@ -204,10 +204,10 @@ a:hover, a:active {
 	background-color: #d5cbbf;
 	border-color: #d5cbbf;
 }
-#e7d998s-dropdown {
+#tags-dropdown {
 	background-color: #edd7cc;
 }
-.e7d998-dropdown-button {
+.tag-dropdown-button {
 	float: left;
 	margin-left: 10px;
 }
