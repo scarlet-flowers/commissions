@@ -95,13 +95,6 @@ function getModalDescText(image) {
 		text += "<strong><a href='"+image.artist_url+"' data-bs-toggle='tooltip' data-bs-placement='right' title='"+image.artist_url+"' target='_blank'>Artist's Page</a></strong><br/>";
 	}
 
-	if (image.art_url == null) {
-		text += "Artwork was not posted publicly.<br/>";
-	}
-	else {
-		text += "<strong><a href='"+image.art_url+"' data-bs-toggle='tooltip' data-bs-placement='right' title='"+image.art_url+"' target='_blank'>Art Source</a></strong><br/>";
-	}
-
 	text += "<br/><strong>Description:</strong><br/>" + image.desc + "<br/>";
 
 	text += "<br/>[" + image.date_str + "]<br/>";
