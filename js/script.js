@@ -252,9 +252,9 @@ function translateWord(word) {
 
 // Create date picker dropdown
 function createDatePickerDropdown() {
-	// Start the counter at 2021
+	// Start the counter at 2020
 	var year_dropdown_HTML = "<option selected value='None'>None</option>";
-	for (var i = 2021; i <= new Date().getFullYear(); i += 1) {
+	for (var i = 2020; i <= new Date().getFullYear(); i += 1) {
 		year_dropdown_HTML += "<option value='"+i+"'>"+i+"</option>";
 	}
 	$("#year").html(year_dropdown_HTML);
