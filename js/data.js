@@ -58,10 +58,10 @@ var data = {
 		{
 			src: ["https://cdn.imgchest.com/files/c5b5268b89cc.png"],
 			thumbnail: "https://cdn.imgchest.com/files/69349c5dce36.png",
-			title: "A birthday gift from my friend, Silent. A fun comic that references some of my personal interests, like ballroom dancing or DDR.",
+			title: "Birthday Comic",
 			artist: "Siren",
 			artist_url: "https://x.com/ladylawga",
-			desc: "A birthday gift from my friend, Silent.",
+			desc: "A birthday gift from my friend, Silent. A fun comic that references some of my personal interests, like ballroom dancing or DDR.",
 			date_str: "September 2023",
 			tags: ["Fire Emblem", "Chrom", "Female Robin", "Lucina", "Male Morgan", "Exalt Family", "Gift", "Comic"],
 			hidden: false
