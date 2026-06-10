@@ -34,6 +34,50 @@ var data = {
 			hidden: false
 		},		
 		{
+			src: ["https://cdn.imgchest.com/files/6e57cf4cfd2b.png"],
+			thumbnail: "https://cdn.imgchest.com/files/838c55c9d4c3.png",
+			title: "Summer Chrobin and Robin",
+			artist: "Siren",
+			artist_url: "https://x.com/ladylawga",
+			desc: "A birthday gift from my friend, Silent. A cute scene of Chrom and Robin enjoying their beach date.",
+			date_str: "",
+			tags: ["Fire Emblem", "Chrom", "Female Robin", "Chrobin", "Gift"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/56d5c7dfaccd.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4aaeb05af7eb.png",
+			title: "Family Outing",			
+			artist: "Siren",
+			artist_url: "https://x.com/ladylawga",
+			desc: "A birthday gift from my friend, Silent. While Chrom and Robin have enjoying their moment of peace, Morgan is causing a bit of chaos for his sister in the background.",
+			date_str: "",
+			tags: ["Fire Emblem", "Chrom", "Female Robin", "Lucina", "Male Morgan", "Exalt Family", "Gift"],
+			hidden: false
+		},		
+		{
+			src: ["https://cdn.imgchest.com/files/c5b5268b89cc.png"],
+			thumbnail: "https://cdn.imgchest.com/files/69349c5dce36.png",
+			title: "A birthday gift from my friend, Silent. A fun comic that references some of my personal interests, like ballroom dancing or DDR.",
+			artist: "Siren",
+			artist_url: "https://x.com/ladylawga",
+			desc: "A birthday gift from my friend, Silent.",
+			date_str: "",
+			tags: ["Fire Emblem", "Chrom", "Female Robin", "Lucina", "Male Morgan", "Exalt Family", "Gift", "Comic"],
+			hidden: false
+		},	
+		{
+			src: ["https://cdn.imgchest.com/files/3e7b1d2017c8.png"],
+			thumbnail: "https://cdn.imgchest.com/files/6eb9e9ee6aed.png",
+			title: "Dorothea and Lorenz",
+			artist: "Siren",
+			artist_url: "https://x.com/ladylawga",
+			desc: "A birthday gift from my friend, Silent. As a funny backstory, I used to refer to this ship as Lorenzthea, which was misinterpreted as Lorenz and Lysithea. So when I received a fully colored illustration of Lorenz and Lysithea, I was very confused. Thankfully, Siren was gracious enough to do a quick re-do. From there onwards, I call the ship Dororenz instead haha.",
+			date_str: "Februrary 2021",
+			tags: ["Fire Emblem 3H", "Dorothea", "Lorenz", "Dororenz", "Gift"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",
