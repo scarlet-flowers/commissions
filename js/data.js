@@ -40,7 +40,7 @@ var data = {
 			artist: "Siren",
 			artist_url: "https://x.com/ladylawga",
 			desc: "A birthday gift from my friend, Silent. A cute scene of Chrom and Robin enjoying their beach date.",
-			date_str: "",
+			date_str: "September 2020",
 			tags: ["Fire Emblem", "Chrom", "Female Robin", "Chrobin", "Gift"],
 			hidden: false
 		},
@@ -51,7 +51,7 @@ var data = {
 			artist: "Siren",
 			artist_url: "https://x.com/ladylawga",
 			desc: "A birthday gift from my friend, Silent. While Chrom and Robin have enjoying their moment of peace, Morgan is causing a bit of chaos for his sister in the background.",
-			date_str: "",
+			date_str: "September 2022",
 			tags: ["Fire Emblem", "Chrom", "Female Robin", "Lucina", "Male Morgan", "Exalt Family", "Gift"],
 			hidden: false
 		},		
@@ -62,7 +62,7 @@ var data = {
 			artist: "Siren",
 			artist_url: "https://x.com/ladylawga",
 			desc: "A birthday gift from my friend, Silent.",
-			date_str: "",
+			date_str: "September 2023",
 			tags: ["Fire Emblem", "Chrom", "Female Robin", "Lucina", "Male Morgan", "Exalt Family", "Gift", "Comic"],
 			hidden: false
 		},	
@@ -73,7 +73,7 @@ var data = {
 			artist: "Siren",
 			artist_url: "https://x.com/ladylawga",
 			desc: "A birthday gift from my friend, Silent. As a funny backstory, I used to refer to this ship as Lorenzthea, which was misinterpreted as Lorenz and Lysithea. So when I received a fully colored illustration of Lorenz and Lysithea, I was very confused. Thankfully, Siren was gracious enough to do a quick re-do. From there onwards, I call the ship Dororenz instead haha.",
-			date_str: "Februrary 2021",
+			date_str: "September 2021",
 			tags: ["Fire Emblem 3H", "Dorothea", "Lorenz", "Dororenz", "Gift"],
 			hidden: false
 		},
