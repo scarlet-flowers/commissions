@@ -19,7 +19,7 @@ var data = {
 			artist_url: "https://bsky.app/profile/adelleein.bsky.social",
 			desc: "One of the very first commissions I ever got, which was done for a donation rally. The commission depicts my preferred final classes for Lucina and Inigo, which is Great Lord and Bow Knight respectively. The flower petals around Lucina are a reference to the skill Ignis. The bow sprite is Dignified Bow, and the sword sprite is Skuld.",
 			date_str: "August 2020",
-			tags: ["Fire Emblem", "Lucina", "Inigo", "Lucinigo", "Adelleein"],
+			tags: ["Fire Emblem", "Lucina", "Inigo", "Lucinigo", "SFW", "Adelleein"],
 			hidden: false
 		},
 		{
@@ -30,7 +30,7 @@ var data = {
 			artist_url: "https://bsky.app/profile/adelleein.bsky.social",
 			desc: "One of the very first commissions I ever got, which was done for a donation rally. The commission depicts my preferred final classes for Morgan and Severa, which is Grandmaster and Dark Flier respectively. The green tome sprite is Excalibur.",
 			date_str: "August 2020",
-			tags: ["Fire Emblem", "Severa", "Male Morgan", "Sevimorgan", "Adelleein"],
+			tags: ["Fire Emblem", "Severa", "Male Morgan", "Sevimorgan", "SFW", "Adelleein"],
 			hidden: false
 		},		
 		{
