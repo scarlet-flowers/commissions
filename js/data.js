@@ -133,6 +133,28 @@ var data = {
 			hidden: false
 		},	
 		{
+			src: ["https://cdn.imgchest.com/files/6d7702a670bb.png"],
+			thumbnail: "https://cdn.imgchest.com/files/e653b68b2e89.png",
+			title: "Len's Biggest Fan",
+			artist: "MissDash",
+			artist_url: "https://bsky.app/profile/missdash.bsky.social",
+			desc: "Done as a request for CYL10. MMJ Kaito would absolutely have this fan of MMJ Len, haha.",
+			date_str: "February 2026",
+			tags: ["Vocaloid", "KAITO", "Kagamine Len", "KaiLen"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/36165dae0109.png"],
+			thumbnail: "https://cdn.imgchest.com/files/e653b68b2e89.png",
+			title: "Ebi Jail",
+			artist: "Waaaaven",
+			artist_url: "https://x.com/waaaaven?s=20",
+			desc: "A commission I got after 2 grueling days of non-stop tiering for Len's World Link. Waaaaven was also right there with me in the server, listening to Hitorinbo Envy on endless loop. In the end, it was all worth it as I finished at T25.",
+			date_str: "September 2025",
+			tags: ["Vocaloid", "Kagamine Len"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/4cc6292a41fb.JPG"],
 			thumbnail: "https://cdn.imgchest.com/files/7441337574e8.png",
 			title: "Revolutionary Boy Lorenz",
