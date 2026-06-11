@@ -21,7 +21,40 @@ var data = {
 			date_str: "",
 			tags: [""],
 			hidden: true
+		},	
+		{
+			src: ["https://cdn.imgchest.com/files/ef6fa370bb85.png"],
+			thumbnail: "https://cdn.imgchest.com/files/78734ff6a632.png",
+			title: "Super Mario Chrobin",
+			artist: "Moccha Kofii",
+			artist_url: "https://x.com/moccha_kofii",
+			desc: "Chrom and Robin as iconic video game couples. Because Robin's red palette gave her blonde hair, and Peach also had a red palette that gave her a red dress, those colors were used. And since we're in the realm of Smash Ultimate, Chrom Mii (whose body type more closely replicates Mario's) is here to steal Chrom's girl.",
+			date_str: "February 2024",
+			tags: ["Fire Emblem", "Chrom", "Female Robin", "Chrobin", "Super Mario Brothers"],
+			hidden: true
 		},
+		{
+			src: ["https://cdn.imgchest.com/files/5706d10e5145.png"],
+			thumbnail: "https://cdn.imgchest.com/files/f32db6474a45.png",
+			title: "Legend of Chrobin",
+			artist: "Moccha Kofii",
+			artist_url: "https://x.com/moccha_kofii",
+			desc: "Chrom and Robin as iconic video game couples. The parallels between Zelda who became a dragon in Tears of the Kingdom and Robin who becomes Grima in a bad timeline was not lost on me. It was also very easy to incorporate Chrom's brand into the design of his right arm.",
+			date_str: "February 2024",
+			tags: ["Fire Emblem", "Chrom", "Female Robin", "Chrobin", "Legend of Zelda"],
+			hidden: false
+		},		
+		{
+			src: ["https://cdn.imgchest.com/files/1a3d128f2b85.png"],
+			thumbnail: "https://cdn.imgchest.com/files/fa2f9101eb79.png",
+			title: "Chrobin the Hedgehogs",
+			artist: "Moccha Kofii",
+			artist_url: "https://x.com/moccha_kofii",
+			desc: "Chrom and Robin as iconic video game couples. I was initially considering using the Sonic Boom outfits, but the Murder of Sonic was such a great game that I had to go with that one instead. I love how Moccha drew the background, giving it an incredibly stylistic slant that is just so fitting for something from the Sonic series.",
+			date_str: "February 2024",
+			tags: ["Fire Emblem", "Chrom", "Female Robin", "Chrobin", "Sonic the Hedgehog"],
+			hidden: false
+		},					
 		{
 			src: ["https://cdn.imgchest.com/files/3f62056e63b3.png"],
 			thumbnail: "https://cdn.imgchest.com/files/bbf05808f341.png",
@@ -228,7 +261,7 @@ var data = {
 			artist_url: "https://bsky.app/profile/missdash.bsky.social",
 			desc: "Done as a request for CYL10. MMJ Kaito would absolutely have this fan of MMJ Len, haha.",
 			date_str: "February 2026",
-			tags: ["Vocaloid", "KAITO", "Kagamine Len", "KaiLen"],
+			tags: ["Vocaloid", "KAITO", "Kagamine Len", "KaiLen", "Request"],
 			hidden: false
 		},
 		{
@@ -242,6 +275,28 @@ var data = {
 			tags: ["Vocaloid", "Kagamine Len"],
 			hidden: false
 		},
+		{
+			src: ["https://cdn.imgchest.com/files/0a12b922f97e.png"],
+			thumbnail: "https://cdn.imgchest.com/files/62235e8a9400.png",
+			title: "Bring it on, Fake Heart!",
+			artist: "Mango",
+			artist_url: "https://x.com/mgosketches",
+			desc: "A commission of Kagamine Len in his outfit from the song 'Fake Heart,' while doing the iconic fist heart pose from the song 'Bring it On.' I'm obssessed with his outfit from 'Fake Heart,' and I'm also jazzed that this has (as of 2026) still been the only non-Miku song commissioned for a Project Sekai anniversary. Hopefully we can get more Kagamine bangers.",
+			date_str: "December 2024",
+			tags: ["Vocaloid", "Kagamine Len"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/4d28cc110931.png"],
+			thumbnail: "https://cdn.imgchest.com/files/5e560aa14eab.png",
+			title: "Becoming the Protagonist",
+			artist: "Moccha Kofii",
+			artist_url: "https://x.com/moccha_kofii",
+			desc: "A commission to celebrate the results of the 2024 Magical Mirai contest. Not only did a non-Miku song win for the first time, but it was a Len song no less! The piece draws parallels between the song "Main Character," which was performed in 2019, and the song "Superhero," which was the song that won the contest.",
+			date_str: "August 2024",
+			tags: ["Vocaloid", "Kagamine Len"],
+			hidden: false
+		},		
 		{
 			src: ["https://cdn.imgchest.com/files/a8f299864a58.png"],
 			thumbnail: "https://cdn.imgchest.com/files/b8a85635190b.png",
@@ -283,7 +338,7 @@ var data = {
 			artist_url: "https://x.com/_anachaga",
 			desc: "A gift from my friend, ZX!",
 			date_str: "March 2022",
-			tags: ["Fire Emblem", "Female Robin"],
+			tags: ["Fire Emblem", "Female Robin", "Gift"],
 			hidden: false
 		},					
 		{
