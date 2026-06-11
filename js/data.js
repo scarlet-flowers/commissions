@@ -94,7 +94,7 @@ var data = {
 			title: "Winter Lucina and Morgan",
 			artist: "Majibomber",
 			artist_url: "https://x.com/majibomber",
-			desc: "Celebrating Christmas with a commission of Lucina and Morgan dressed as their ancestors, Marth and Elice. Background (which is a FEH asset) was added by me!",
+			desc: "Celebrating Christmas with a commission of Lucina and Morgan dressed as their ancestors, Marth and Elice. Background (which is a FEH asset) was added by me! As an aside, this is a period of time where I wasn't consistent with Morgan's eye color hence the blue eyes despite my personal preference for brown eyes on him.",
 			date_str: "December 2020",
 			tags: ["Fire Emblem", "Lucina", "Male Morgan", "Exalt Family"],
 			hidden: false
