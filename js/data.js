@@ -78,6 +78,28 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/5fd89d608dbc.jpeg"],
+			thumbnail: "https://cdn.imgchest.com/files/e0d5192a814b.png",
+			title: "New Years Chrom and Morgan",
+			artist: "Vallurite",
+			artist_url: "https://x.com/Vallurite?s=20",
+			desc: "Chrom and Morgan are ringing in the New Year with their wonderful new kimonos. And they're not alone, as Chrom has Robin on his hagiota and Morgan has Lucina on his karuta card. Chrom and Lucina's kimonos are based on their design from the Daily Life of Heroes manga, while Morgan and Robin's are my own design. And of course, I couldn't resist giving Morgan the kagami mochi accessory for the cheeky connection to oranges.",
+			date_str: "January 2021",
+			tags: ["Fire Emblem", "Male Morgan", "Chrom", "Exalt Family"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/37e6483f71a0.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4136e13d6fda.png",
+			title: "Winter Lucina and Morgan",
+			artist: "Majibomber",
+			artist_url: "https://x.com/majibomber",
+			desc: "Celebrating Christmas with a commission of Lucina and Morgan dressed as their ancestors, Marth and Elice. Background (which is a FEH asset) was added by me!",
+			date_str: "December 2020",
+			tags: ["Fire Emblem", "Lucina", "Male Morgan", "Exalt Family"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/4fae0933463d.png"],
 			thumbnail: "https://cdn.imgchest.com/files/28e76c5c8006.png",
 			title: "Taking After Our Parents",
