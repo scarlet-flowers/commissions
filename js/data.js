@@ -8,7 +8,7 @@ var data = {
 			artist_url: null,
 			desc: "Do not delete this. You can use this to set the order the tags show up in the dropdown.",
 			date_str: "Beginning of Time",
-			tags: ["Fire Emblem", "Chrom", "Female Robin", "Lucina", "Male Morgan", "Inigo", "Severa", "Male Robin", "Sumia", "Cynthia", "Female Morgan", "Virion", "Olivia", "Gaius", "Cordelia", "Vaike", "Lissa", "Frederick", "Cherche", "Soleil", "Caeldori", "Ophelia", "Damien", "Chrobin", "Exalt Family", "Lucinigo", "Sevimorgan", "Robmia", "Owainthia", "Geromorgan", "Viriolivia", "Gaiusdelia", "Vaikessa", "Chercherick", "Roleswap AU", "Modern AU", "Vocaloid", "Kagamine Len"],
+			tags: ["Fire Emblem", "Chrom", "Female Robin", "Lucina", "Male Morgan", "Inigo", "Severa", "Male Robin", "Sumia", "Cynthia", "Female Morgan", "Owain", "Gerome", "Virion", "Olivia", "Gaius", "Cordelia", "Vaike", "Lissa", "Frederick", "Cherche", "Soleil", "Caeldori", "Ophelia", "Damien", "Chrobin", "Exalt Family", "Lucinigo", "Sevimorgan", "Robmia", "Owainthia", "Geromorgan", "Viriolivia", "Gaiusdelia", "Vaikessa", "Chercherick", "Roleswap AU", "Modern AU", "Vocaloid", "Kagamine Len"],
 			hidden: true
 		},	
 		{
@@ -33,6 +33,28 @@ var data = {
 			tags: ["Fire Emblem", "Male Morgan", "Owain"],
 			hidden: false
 		},		
+		{
+			src: ["https://cdn.imgchest.com/files/1bb3093d16ef.png"],
+			thumbnail: "https://cdn.imgchest.com/files/c52f7f947077.png",
+			title: "The Three Mask-eteers",
+			artist: "Riidi",
+			artist_url: "https://x.com/m_riidi",
+			desc: "A commission of Inigo, Gerome, and Lucina dressed as Roy, Marcus, and Lilina respectively. A little more customization went into Lucina's outfit to reference Robin as her mother.",
+			date_str: "April 2021",
+			tags: ["Fire Emblem", "Inigo", "Gerome", "Lucina"],
+			hidden: false
+		},		
+		{
+			src: ["https://cdn.imgchest.com/files/91df7ce44b5d.png"],
+			thumbnail: "https://cdn.imgchest.com/files/9693ae8fec50.png",
+			title: "The New Pegasus Trio",
+			artist: "Riidi",
+			artist_url: "https://x.com/m_riidi",
+			desc: "A commission of Cynthia, Severa, and Morgan dressed as Palla, Catria, and Est respectively.",
+			date_str: "April 2021",
+			tags: ["Fire Emblem", "Cynthia", "Severa", "Female Morgan"],
+			hidden: false
+		},				
 		{
 			src: ["https://cdn.imgchest.com/files/38401c923291.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/be1c2540adfd.png",
