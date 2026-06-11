@@ -55,6 +55,28 @@ var data = {
 			tags: ["Fire Emblem", "Male Robin", "Sumia", "Robmia"],
 			hidden: false
 		},
+			{
+			src: ["https://cdn.imgchest.com/files/d86446cb9c0a.png"],
+			thumbnail: "https://cdn.imgchest.com/files/01c79a434cd9.png",
+			title: "Learning from Dad - Inigo Side",
+			artist: "EdithSotoArt",
+			artist_url: "https://x.com/EdithSotoArt",
+			desc: "Since Lucina inherited her genius from her mother, Inigo thought to impress her by showing off his own tactical prowess. However, chess is a little harder than he expected… Thankfully, his father is a patient teacher, especially when he has his cup of tea to sip on while waiting for Inigo to make his next move.",
+			date_str: "March 2021",
+			tags: ["Fire Emblem", "Virion", "Inigo", "Lucina", "Viriolivia", "Lucinigo"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/f1b9e6767d6b.png"],
+			thumbnail: "https://cdn.imgchest.com/files/d12741cc6e9f.png",
+			title: "Learning from Dad - Severa Side",
+			artist: "EdithSotoArt",
+			artist_url: "https://x.com/EdithSotoArt",
+			desc: "While Severa would sooner die than touch a bug, bug-themed cookies were an acceptable enough substitute. After all, the way to a person’s heart is through their stomach… or so her daddy says. And with his help, there was no way she could fail to win Morgan’s favor!",
+			date_str: "March 2021",
+			tags: ["Fire Emblem", "Gaius", "Cordelia", "Male Morgan", "Gaiusdelia", "Sevimorgan"],
+			hidden: false
+		},
 		{
 			src: ["https://cdn.imgchest.com/files/4fae0933463d.png"],
 			thumbnail: "https://cdn.imgchest.com/files/28e76c5c8006.png",
