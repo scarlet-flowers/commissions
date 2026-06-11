@@ -515,7 +515,14 @@ function searchCheck(search_str, image_index, images) {
 	var year = $("#year").val();
 	var month = $("#month").val();
 	var date_picked = year != "None" || month != "None";
-	var date_matched = images[image_index].date_str && (images[image_index].date_str.includes(year) || images[image_index].date_str.includes(month));
+	var date_matched = false;
+
+	if (year != "None" && month != "None") {
+		date_matched = images[image_index].date_str && images[image_index].date_str.includes(year) && images[image_index].date_str.includes(month);
+	}
+	else {
+		date_matched = images[image_index].date_str && (images[image_index].date_str.includes(year) || images[image_index].date_str.includes(month));
+	}
 
 	if (search_str == "") {
 		if (date_picked && date_matched) {
