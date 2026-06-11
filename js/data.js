@@ -78,6 +78,72 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/f1ea7100c60f.png"],
+			thumbnail: "https://cdn.imgchest.com/files/f1ea7100c60f.png",
+			title: "Chrom - Confusion",
+			artist: "Rita",
+			artist_url: "https://x.com/_anachaga",
+			desc: "An emote of Chrom being confused (referred to as Chromfusion). Pairs with the Female Robin one.",
+			date_str: "February 2021",
+			tags: ["Fire Emblem", "Chrom"],
+			hidden: false
+		},			
+		{
+			src: ["https://cdn.imgchest.com/files/dca93862517f.png"],
+			thumbnail: "https://cdn.imgchest.com/files/dca93862517f.png",
+			title: "F!Robin - I See!",
+			artist: "Rita",
+			artist_url: "https://x.com/_anachaga",
+			desc: "A emote of Robin doing the 'naruhodo!' pose. Pairs with the Chrom one.",
+			date_str: "February 2021",
+			tags: ["Fire Emblem", "Female Robin"],
+			hidden: false
+		},			
+		{
+			src: ["https://cdn.imgchest.com/files/6206c261de4d.png"],
+			thumbnail: "https://cdn.imgchest.com/files/6206c261de4d.png",
+			title: "Lucina - Cool Cry",
+			artist: "Rita",
+			artist_url: "https://x.com/_anachaga",
+			desc: "An emote of Lucina with sunglasses crying while doing double fingerguns.",
+			date_str: "February 2021",
+			tags: ["Fire Emblem", "Lucina"],
+			hidden: false
+		},			
+		{
+			src: ["https://cdn.imgchest.com/files/2e5268fd9de4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/2e5268fd9de4.png",
+			title: "M!Morgan - Smug",
+			artist: "Rita",
+			artist_url: "https://x.com/_anachaga",
+			desc: "An emote of Morgan being smug.",
+			date_str: "February 2021",
+			tags: ["Fire Emblem", "Male Morgan"],
+			hidden: false
+		},			
+		{
+			src: ["https://cdn.imgchest.com/files/2114c03b4b16.png"],
+			thumbnail: "https://cdn.imgchest.com/files/2114c03b4b16.png",
+			title: "Sumia - Bashful",
+			artist: "Rita",
+			artist_url: "https://x.com/_anachaga",
+			desc: "An emote of Sumia being bashful, as requested by my boyfriend. Pairs with the Male Robin one.",
+			date_str: "February 2021",
+			tags: ["Fire Emblem", "Sumia"],
+			hidden: false
+		},			
+		{
+			src: ["https://cdn.imgchest.com/files/7f59881310e6.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7f59881310e6.png",
+			title: "M!Robin - Sheepish",
+			artist: "Rita",
+			artist_url: "https://x.com/_anachaga",
+			desc: "An emote of Robin laughing while embarrassed, as requested by my boyfriend. Pairs with the Sumia one.",
+			date_str: "February 2021",
+			tags: ["Fire Emblem", "Male Robin"],
+			hidden: false
+		},					
+		{
 			src: ["https://cdn.imgchest.com/files/5fd89d608dbc.jpeg"],
 			thumbnail: "https://cdn.imgchest.com/files/e0d5192a814b.png",
 			title: "New Years Chrom and Morgan",
@@ -165,6 +231,17 @@ var data = {
 			tags: ["Fire Emblem 3H", "Dorothea", "Lorenz", "Dororenz", "Gift"],
 			hidden: false
 		},
+		{
+			src: ["https://cdn.imgchest.com/files/56105ab2cc8b.png"],
+			thumbnail: "https://cdn.imgchest.com/files/56105ab2cc8b.png",
+			title: "Robin Skill Issue",
+			artist: "Rita",
+			artist_url: "https://x.com/_anachaga",
+			desc: "A gift from my friend, ZX!",
+			date_str: "March 2022",
+			tags: ["Fire Emblem", "Female Robin"],
+			hidden: false
+		},					
 		{
 			src: ["https://cdn.imgchest.com/files/6e57cf4cfd2b.png"],
 			thumbnail: "https://cdn.imgchest.com/files/838c55c9d4c3.png",
