@@ -182,7 +182,7 @@ var data = {
 			title: "Family Outing",			
 			artist: "Siren",
 			artist_url: "https://x.com/ladylawga",
-			desc: "A birthday gift from my friend, Silent. While Chrom and Robin have enjoying their moment of peace, Morgan is causing a bit of chaos for his sister in the background.",
+			desc: "A birthday gift from my friend, Silent. While Chrom and Robin are enjoying their moment of peace, Morgan is causing a bit of chaos for his sister in the background.",
 			date_str: "September 2022",
 			tags: ["Fire Emblem", "Chrom", "Female Robin", "Lucina", "Male Morgan", "Exalt Family", "Gift"],
 			hidden: false
