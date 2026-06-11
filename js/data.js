@@ -221,6 +221,17 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/a8f299864a58.png"],
+			thumbnail: "https://cdn.imgchest.com/files/b8a85635190b.png",
+			title: "Lavie Lavie Chu~",
+			artist: "Huyandere",
+			artist_url: "https://x.com/huyandere",
+			desc: "A commission of Elm as Lavie from the Surii song, Lavie. The overlap betwen Elm and the character in the song was too strong to ignore.",
+			date_str: "October 2023",
+			tags: ["Fire Emblem Heroes", "Elm", "Vocaloid"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/7b1b0790e72f.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7089b23c9a23.png",
 			title: "Chase and Wuya Redraw",
