@@ -221,6 +221,17 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/7b1b0790e72f.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7089b23c9a23.png",
+			title: "Chase and Wuya Redraw",
+			artist: "Marcsedano",
+			artist_url: "https://www.deviantart.com/marcsedano",
+			desc: "A commission of my favorite villainous duo from Xiaolin Showdown. This is actually a redraw of a scene in S3 Ep12. I was flabbergasted when I realized that Chase had his hands around Wuya's waist lmao and had to draw attention to it.",
+			date_str: "May 2022",
+			tags: ["Xiaolin Showdown", "Chase Young", "Wuya", "Chuya"],
+			hidden: false
+		},		
+		{
 			src: ["https://cdn.imgchest.com/files/4cc6292a41fb.JPG"],
 			thumbnail: "https://cdn.imgchest.com/files/7441337574e8.png",
 			title: "Revolutionary Boy Lorenz",
