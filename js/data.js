@@ -102,7 +102,7 @@ var data = {
 		{
 			src: ["https://cdn.imgchest.com/files/4fae0933463d.png"],
 			thumbnail: "https://cdn.imgchest.com/files/28e76c5c8006.png",
-			title: "Taking After Our Parents",
+			title: "Taking After Their Parents",
 			artist: "Nootnootles",
 			artist_url: "https://x.com/nootnootles",
 			desc: "A commission I got from a friend of mine of the Morgans taking after their parents. Male Morgan is holding Falchion while female Morgan is holding Luna. Some of the details on female Morgan are also based on my boyfriend's preferences, such as having glasses or holding a Piranha 'flower.'",
@@ -132,6 +132,17 @@ var data = {
 			tags: ["Fire Emblem", "Severa", "Male Morgan", "Sevimorgan"],
 			hidden: false
 		},	
+		{
+			src: ["https://cdn.imgchest.com/files/4cc6292a41fb.JPG"],
+			thumbnail: "https://cdn.imgchest.com/files/7441337574e8.png",
+			title: "Revolutionary Boy Lorenz",
+			artist: "micstheMD",
+			artist_url: "https://x.com/micstheMD?s=20",
+			desc: "This was actually a 'gift' of sorts from my friend Miso as a prize for a little contest we held among our friends. Originally, I had a more ambitious idea of the 'dance' scene from the movie with pre-timeskip Dorothea and Lorenz dancing and their post-timeskip selves in the reflection of the water, but I scaled it back to fit the budget I had.",
+			date_str: "September 2021",
+			tags: ["Fire Emblem 3H", "Dorothea", "Lorenz", "Dororenz", "Gift"],
+			hidden: false
+		},
 		{
 			src: ["https://cdn.imgchest.com/files/6e57cf4cfd2b.png"],
 			thumbnail: "https://cdn.imgchest.com/files/838c55c9d4c3.png",
