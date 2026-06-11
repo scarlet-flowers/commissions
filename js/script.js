@@ -259,15 +259,15 @@ function translateWord(word) {
 
 // Create date picker dropdown
 function createDatePickerDropdown() {
-	// Start the counter at 2021
+	// Start the counter at 2020
 	var year_dropdown_HTML = "<option selected value='None'>None</option>";
-	for (var i = 2021; i <= new Date().getFullYear(); i += 1) {
+	for (var i = 2020; i <= new Date().getFullYear(); i += 1) {
 		year_dropdown_HTML += "<option value='"+i+"'>"+i+"</option>";
 	}
 	$("#year").html(year_dropdown_HTML);
 
 	var month_dropdown_HTML = "<option selected value='None'>None</option>";
-	var months = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
+	var months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
 	for (var i = 0; i < months.length; i += 1) {
 		month_dropdown_HTML += "<option value='"+months[i]+"'>"+months[i]+"</option>";
 	}
@@ -521,8 +521,8 @@ function intersect(a, b) {
 function searchCheck(search_str, image_index, images) {
 	var year = $("#year").val();
 	var month = $("#month").val();
-	var date_picked = year != "None" && month != "None";
-	var date_matched = images[image_index].date_str && images[image_index].date_str.includes(year) && images[image_index].date_str.includes(month);
+	var date_picked = year != "None" || month != "None";
+	var date_matched = images[image_index].date_str && (images[image_index].date_str.includes(year) || images[image_index].date_str.includes(month));
 
 	if (search_str == "") {
 		if (date_picked && date_matched) {
