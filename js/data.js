@@ -145,7 +145,7 @@ var data = {
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/36165dae0109.png"],
-			thumbnail: "https://cdn.imgchest.com/files/e653b68b2e89.png",
+			thumbnail: "https://cdn.imgchest.com/files/b49b80ce57c4.png",
 			title: "Ebi Jail",
 			artist: "Waaaaven",
 			artist_url: "https://x.com/waaaaven?s=20",
