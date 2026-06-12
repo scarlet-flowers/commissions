@@ -8,7 +8,7 @@ var data = {
 			artist_url: null,
 			desc: "Do not delete this. You can use this to set the order the tags show up in the dropdown.",
 			date_str: "Beginning of Time",
-			tags: ["Fire Emblem", "Chrom", "Female Robin", "Lucina", "Male Morgan", "Inigo", "Severa", "Male Robin", "Sumia", "Cynthia", "Female Morgan", "Owain", "Gerome", "Virion", "Olivia", "Gaius", "Cordelia", "Vaike", "Lissa", "Frederick", "Cherche", "Soleil", "Caeldori", "Ophelia", "Damien", "Chrobin", "Exalt Family", "Lucinigo", "Sevimorgan", "Robmia", "Owainthia", "Geromorgan", "Viriolivia", "Gaiusdelia", "Vaikessa", "Chercherick", "Roleswap AU", "Modern AU", "Vocaloid", "Kagamine Len"],
+			tags: ["Fire Emblem", "Chrom", "Female Robin", "Lucina", "Male Morgan", "Inigo", "Severa", "Male Robin", "Sumia", "Cynthia", "Female Morgan", "Owain", "Gerome", "Virion", "Olivia", "Gaius", "Cordelia", "Vaike", "Lissa", "Frederick", "Cherche", "Soleil", "Caeldori", "Ophelia", "Damien", "Chrobin", "Exalt Family", "Lucinigo", "Sevimorgan", "Robmia", "Violet Family", "Owainthia", "Geromorgan", "Viriolivia", "Gaiusdelia", "Vaikessa", "Chercherick", "Roleswap AU", "Modern AU", "Vocaloid", "Kagamine Len"],
 			hidden: true
 		},	
 		{
@@ -22,6 +22,28 @@ var data = {
 			tags: [""],
 			hidden: true
 		},
+		{
+			src: ["https://cdn.imgchest.com/files/e38f05d46308.png"],
+			thumbnail: "https://cdn.imgchest.com/files/87c7456b23c2.png",
+			title: "Violet Family Picnic",
+			artist: "ArayaEjiri",
+			artist_url: "https://x.com/ArayaEjiri",
+			desc: "A scene of the Violet family enjoying a family picnic.",
+			date_str: "May 2025",
+			tags: ["Fire Emblem", "Male Morgan", "Sumia", "Cynthia", "Female Morgan", "Owain", "Gerome", "Ophelia", "Damien", "Violet Family", "Owanthia", "Geromorgan"],
+			hidden: false
+		},		
+		{
+			src: ["https://cdn.imgchest.com/files/b6aec78d7548.png"],
+			thumbnail: "https://cdn.imgchest.com/files/a18d463d1ece.png",
+			title: "Exalt Family Christmas",
+			artist: "ArayaEjiri",
+			artist_url: "https://x.com/ArayaEjiri",
+			desc: "A scene of the Exalt family enjoying their Christmas eve.",
+			date_str: "December 2024",
+			tags: ["Fire Emblem", "Chrom", "Female Robin", "Lucina", "Inigo", "Male Morgan", "Severa", "Caeldori", "Soleil", "Exalt Family", "Lucinigo", "Sevimorgan"],
+			hidden: false
+		},				
 		{
 			src: ["https://cdn.imgchest.com/files/627af6568ee9.png"],
 			thumbnail: "https://cdn.imgchest.com/files/c539a4b0718e.png",
