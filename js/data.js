@@ -31,7 +31,7 @@ var data = {
 			desc: "Chrom and Robin as iconic video game couples. Because Robin's red palette gave her blonde hair, and Peach also had a red palette that gave her a red dress, those colors were used. And since we're in the realm of Smash Ultimate, Chrom Mii (whose body type more closely replicates Mario's) is here to steal Chrom's girl.",
 			date_str: "February 2024",
 			tags: ["Fire Emblem", "Chrom", "Female Robin", "Chrobin", "Super Mario Brothers"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/5706d10e5145.png"],
