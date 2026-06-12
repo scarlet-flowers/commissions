@@ -292,7 +292,7 @@ var data = {
 			title: "Becoming the Protagonist",
 			artist: "Moccha Kofii",
 			artist_url: "https://x.com/moccha_kofii",
-			desc: "A commission to celebrate the results of the 2024 Magical Mirai contest. Not only did a non-Miku song win for the first time, but it was a Len song no less! The piece draws parallels between the song "Main Character," which was performed in 2019, and the song "Superhero," which was the song that won the contest.",
+			desc: "A commission to celebrate the results of the 2024 Magical Mirai contest. Not only did a non-Miku song win for the first time, but it was a Len song no less! The piece draws parallels between the song \"Main Character,\" which was performed in 2019, and the song \"Superhero,\" which was the song that won the contest.",
 			date_str: "August 2024",
 			tags: ["Vocaloid", "Kagamine Len"],
 			hidden: false
