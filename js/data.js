@@ -386,6 +386,17 @@ var data = {
 			hidden: false
 		},		
 		{
+			src: ["https://cdn.imgchest.com/files/eba67a1f9fd9.png"],
+			thumbnail: "https://cdn.imgchest.com/files/0c3c873f5e22.png",
+			title: "Vanan'Ice Request",
+			artist: "CupofColors",
+			artist_url: "https://bsky.app/profile/cupofcolors.bsky.social",
+			desc: "Done as a request for CYL10. One of my favorite trios ever.",
+			date_str: "April 2026",
+			tags: ["Vocaloid", "KAITO", "Kagamine Len", "Kamui Gakupo", "Vanan'Ice"],
+			hidden: false
+		},		
+		{
 			src: ["https://cdn.imgchest.com/files/be0dd33535ee.png"],
 			thumbnail: "https://cdn.imgchest.com/files/1ad0cd0b11b7.png",
 			title: "Flavor Foley KaiLen",
