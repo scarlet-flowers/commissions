@@ -43,6 +43,72 @@ var data = {
 			date_str: "December 2024",
 			tags: ["Fire Emblem", "Chrom", "Female Robin", "Lucina", "Inigo", "Male Morgan", "Severa", "Caeldori", "Soleil", "Exalt Family", "Lucinigo", "Sevimorgan"],
 			hidden: false
+		},			
+		{
+			src: ["https://cdn.imgchest.com/files/df8f198bc12e.png"],
+			thumbnail: "https://cdn.imgchest.com/files/5f5c2afc566c.png",
+			title: "Chrom - Prince",
+			artist: "camiCR",
+			artist_url: "https://x.com/camilitroxCR",
+			desc: "An emote of Chrom extending his hand in a princely manner. Pairs with the female Robin one",
+			date_str: "January 2022",
+			tags: ["Fire Emblem", "Chrom"],
+			hidden: false
+		},		
+		{
+			src: ["https://cdn.imgchest.com/files/321547aca5e8.png"],
+			thumbnail: "https://cdn.imgchest.com/files/321547aca5e8.png",
+			title: "F!Robin - Wow",
+			artist: "camiCR",
+			artist_url: "https://x.com/camilitroxCR",
+			desc: "An emote of Robin swooning over something. Pairs with the Chrom one.",
+			date_str: "January 2022",
+			tags: ["Fire Emblem", "Female Robin"],
+			hidden: false
+		},		
+		{
+			src: ["https://cdn.imgchest.com/files/8c8451a7773a.png"],
+			thumbnail: "https://cdn.imgchest.com/files/8c8451a7773a.png",
+			title: "Lucina - Disapproval",
+			artist: "camiCR",
+			artist_url: "https://x.com/camilitroxCR",
+			desc: "An emote of Lucina giving a thumbs down. Pairs with the male Morgan one. (I only just now noticed that Lucina is missing her brand as well, lol, so I manually added it myself.)",
+			date_str: "January 2022",
+			tags: ["Fire Emblem", "Lucina"],
+			hidden: false
+		},		
+		{
+			src: ["https://cdn.imgchest.com/files/cfbb29529a8d.png"],
+			thumbnail: "https://cdn.imgchest.com/files/cfbb29529a8d.png",
+			title: "M!Morgan - Approval",
+			artist: "camiCR",
+			artist_url: "https://x.com/camilitroxCR",
+			desc: "An emote of Morgan giving a thumbs up. Pairs with the Lucina one.",
+			date_str: "January 2022",
+			tags: ["Fire Emblem", "Male Morgan"],
+			hidden: false
+		},		
+		{
+			src: ["https://cdn.imgchest.com/files/90a79dc6426b.png","https://cdn.imgchest.com/files/bd01b9c576ba.png"],
+			thumbnail: "https://cdn.imgchest.com/files/90a79dc6426b.png",
+			title: "Cynthia - Excited",
+			artist: "camiCR",
+			artist_url: "https://x.com/camilitroxCR",
+			desc: "An emote of Cynthia being excited. This is a reference to a Luffy expression, as requested by my boyfriend.",
+			date_str: "January 2022",
+			tags: ["Fire Emblem", "Cynthia"],
+			hidden: false
+		},		
+		{
+			src: ["https://cdn.imgchest.com/files/b9e20f600f5c.png"],
+			thumbnail: "https://cdn.imgchest.com/files/b9e20f600f5c.png",
+			title: "F!Morgan - Sour",
+			artist: "camiCR",
+			artist_url: "https://x.com/camilitroxCR",
+			desc: "An emote of Morgan making a sour face. This is a reference to a Luffy expression, as requested by my boyfriend.",
+			date_str: "January 2022",
+			tags: ["Fire Emblem", "Female Morgan"],
+			hidden: false
 		},				
 		{
 			src: ["https://cdn.imgchest.com/files/627af6568ee9.png"],
@@ -182,7 +248,7 @@ var data = {
 			title: "Chrom - Confusion",
 			artist: "Rita",
 			artist_url: "https://x.com/_anachaga",
-			desc: "An emote of Chrom being confused (referred to as Chromfusion). Pairs with the Female Robin one.",
+			desc: "An emote of Chrom being confused (referred to as Chromfusion). Pairs with the female Robin one.",
 			date_str: "February 2021",
 			tags: ["Fire Emblem", "Chrom"],
 			hidden: false
@@ -226,7 +292,7 @@ var data = {
 			title: "Sumia - Bashful",
 			artist: "Rita",
 			artist_url: "https://x.com/_anachaga",
-			desc: "An emote of Sumia being bashful, as requested by my boyfriend. Pairs with the Male Robin one.",
+			desc: "An emote of Sumia being bashful, as requested by my boyfriend. Pairs with the male Robin one.",
 			date_str: "February 2021",
 			tags: ["Fire Emblem", "Sumia"],
 			hidden: false
@@ -451,6 +517,17 @@ var data = {
 			tags: ["Fire Emblem", "Female Robin", "Gift"],
 			hidden: false
 		},					
+		{
+			src: ["https://cdn.imgchest.com/files/cfff7c580b47.png"],
+			thumbnail: "https://cdn.imgchest.com/files/cfff7c580b47.png",
+			title: "Robin Headpat",
+			artist: "DeliiChan5",
+			artist_url: null,
+			desc: "A gift from DarthMarth of Robin receiving a headpat from Chrom.",
+			date_str: "December 2021",
+			tags: ["Fire Emblem", "Female Robin", "Chrobin"],
+			hidden: false
+		},		
 		{
 			src: ["https://cdn.imgchest.com/files/7e143c96d8a0.png"],
 			thumbnail: "https://cdn.imgchest.com/files/02c298f91b18.png",
