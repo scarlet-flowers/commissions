@@ -252,7 +252,7 @@ var data = {
 			date_str: "August 2020",
 			tags: ["Fire Emblem", "Severa", "Male Morgan", "Sevimorgan"],
 			hidden: false
-		},	
+		},		
 		{
 			src: ["https://cdn.imgchest.com/files/6d7702a670bb.png"],
 			thumbnail: "https://cdn.imgchest.com/files/e653b68b2e89.png",
@@ -265,6 +265,17 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/6e66faedbf16.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/2b56e849490f.png",
+			title: "Sonamydow Heart Hands",
+			artist: "Kiioki11",
+			artist_url: "https://x.com/Kiioki11",
+			desc: "A request I made for Sonic, Amy, and Shadow to make heart hands together.",
+			date_str: "Janurary 2026",
+			tags: ["Sonic the Hedgehog", "Sonic", "Amy Rose", "Shadow", "Sonamydow", "Request"],
+			hidden: false
+		},		
+		{
 			src: ["https://cdn.imgchest.com/files/36165dae0109.png"],
 			thumbnail: "https://cdn.imgchest.com/files/b49b80ce57c4.png",
 			title: "Ebi Jail",
@@ -273,6 +284,17 @@ var data = {
 			desc: "A commission I got after 2 grueling days of non-stop tiering for Len's World Link. Waaaaven was also right there with me in the server, listening to Hitorinbo Envy on endless loop. In the end, it was all worth it as I finished at T25.",
 			date_str: "September 2025",
 			tags: ["Vocaloid", "Kagamine Len"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/dd608d55d10f.png"],
+			thumbnail: "https://cdn.imgchest.com/files/deb650b7b8b5.png",
+			title: "Monitoring Hajime",
+			artist: "Yoshituber",
+			artist_url: "https://x.com/yoshituber",
+			desc: "Monitoring but make it KomaHina. This specific image references the part where Miku is standing outside of the person's door with a holographic bouquet and veil, which was re-interpreted as a ringbox for Nagito.",
+			date_str: "April 2025",
+			tags: ["Dangan Ronpa", "Komaeda Nagito", "KomaHina"],
 			hidden: false
 		},
 		{
@@ -292,7 +314,7 @@ var data = {
 			title: "Becoming the Protagonist",
 			artist: "Moccha Kofii",
 			artist_url: "https://x.com/moccha_kofii",
-			desc: "A commission to celebrate the results of the 2024 Magical Mirai contest. Not only did a non-Miku song win for the first time, but it was a Len song no less! The piece draws parallels between the song \"Main Character,\" which was performed in 2019, and the song \"Superhero,\" which was the song that won the contest.",
+			desc: "A commission to celebrate the results of the 2024 Magical Mirai contest. Not only did a non-Miku song win for the first time, but it was a Len song no less! The piece draws parallels between the song 'Main Character,' which was performed in 2019, and the song 'Superhero,' which was the song that won the contest.",
 			date_str: "August 2024",
 			tags: ["Vocaloid", "Kagamine Len"],
 			hidden: false
