@@ -94,7 +94,7 @@ var data = {
 			title: "Cynthia - Excited",
 			artist: "camiCR",
 			artist_url: "https://x.com/camilitroxCR",
-			desc: "An emote of Cynthia being excited. This is a reference to a Luffy expression, as requested by my boyfriend.",
+			desc: "An emote of Cynthia being excited. This is a reference to a Luffy expression, as requested by my boyfriend. One version is my headcanon of her as having brown hair and the other version is his headcanon of her having purple hair.",
 			date_str: "January 2022",
 			tags: ["Fire Emblem", "Cynthia"],
 			hidden: false
