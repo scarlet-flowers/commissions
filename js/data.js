@@ -254,6 +254,39 @@ var data = {
 			hidden: false
 		},		
 		{
+			src: ["https://cdn.imgchest.com/files/80989f8549d0.png"],
+			thumbnail: "https://cdn.imgchest.com/files/aa2871bf95df.png",
+			title: "The Prince of Darkness",
+			artist: "Lucas/Sun",
+			artist_url: "https://x.com/ultimatesun_",
+			desc: "A commission done by my friend of Len as Ralsei. As for the rest of the Fun Gang, I would pick Miku as Kris and Rin as Susie.",
+			date_str: "May 2026",
+			tags: ["Vocaloid", "Kagamine Len", "Deltarune"],
+			hidden: false
+		},				
+		{
+			src: ["https://cdn.imgchest.com/files/813cdea78d64.png", "https://cdn.imgchest.com/files/4ff392ac8b00.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4f2c1cb25400.png",
+			title: "Pombon and Litten",
+			artist: "Melt/Ed",
+			artist_url: "https://x.com/meltt_ed",
+			desc: "Based on IRL shenanigans with my dog and cat, haha. First image is with Pombon and Litten's default colors, while the second image is with colors that more closely resemble my pets.",
+			date_str: "April 2026",
+			tags: ["Pokemon", "Pombom", "Litten"],
+			hidden: false
+		},		
+		{
+			src: ["https://cdn.imgchest.com/files/be0dd33535ee.png"],
+			thumbnail: "https://cdn.imgchest.com/files/1ad0cd0b11b7.png",
+			title: "Flavor Foley KaiLen",
+			artist: "Fusenryo2",
+			artist_url: "https://x.com/fusenryo2",
+			desc: "A chance encounter between Electric Weekend Zone Kaito and Ego Renegade Boy Len.",
+			date_str: "February 2026",
+			tags: ["Vocaloid", "Kagamine Len", "KAITO", "KaiLen"],
+			hidden: false
+		},			
+		{
 			src: ["https://cdn.imgchest.com/files/6d7702a670bb.png"],
 			thumbnail: "https://cdn.imgchest.com/files/e653b68b2e89.png",
 			title: "Len's Biggest Fan",
