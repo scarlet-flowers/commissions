@@ -386,6 +386,17 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/4c24d50ab133.png"],
+			thumbnail: "https://cdn.imgchest.com/files/23c61867cf2b.png",
+			title: "Flyway KaiLen",
+			artist: "Legi",
+			artist_url: "https://bsky.app/profile/homestar.bsky.social",
+			desc: "A birthday gift from my boyfriend of Kaito and Len in their Flyway outfits from the Magical Mirai concert. As a bit of a troll, this pose is specifically referencing a shot from the fan animation for Twiddlefinger, a song that we had a bit of brainrot over.",
+			date_str: "September 2025",
+			tags: ["Vocaloid", "Kagamine Len", "KAITO", "KaiLen", "Gift"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/56105ab2cc8b.png"],
 			thumbnail: "https://cdn.imgchest.com/files/56105ab2cc8b.png",
 			title: "Robin Skill Issue",
@@ -396,6 +407,28 @@ var data = {
 			tags: ["Fire Emblem", "Female Robin", "Gift"],
 			hidden: false
 		},					
+		{
+			src: ["https://cdn.imgchest.com/files/7e143c96d8a0.png"],
+			thumbnail: "https://cdn.imgchest.com/files/02c298f91b18.png",
+			title: "Chrom with a Burger",
+			artist: "SugarBunGaius",
+			artist_url: "https://x.com/sugarbungaius",
+			desc: "A gift from my friend, Miso, of Chrom with my boyfriend's favorite food, a burger.",
+			date_str: "July 2021",
+			tags: ["Fire Emblem", "Chrom", "Gift"],
+			hidden: false
+		},		
+		{
+			src: ["https://cdn.imgchest.com/files/05f2cf416e38.png"],
+			thumbnail: "https://cdn.imgchest.com/files/b6cc97f90e08.png",
+			title: "Robin with Boba Tea",
+			artist: "SugarBunGaius",
+			artist_url: "https://x.com/sugarbungaius",
+			desc: "A gift from my friend, Miso, of Robin with my favorite food, boba tea.",
+			date_str: "July 2021",
+			tags: ["Fire Emblem", "Female Robin", "Gift"],
+			hidden: false
+		},				
 		{
 			src: ["https://cdn.imgchest.com/files/6e57cf4cfd2b.png"],
 			thumbnail: "https://cdn.imgchest.com/files/838c55c9d4c3.png",
