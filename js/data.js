@@ -149,7 +149,7 @@ var data = {
 			title: "Imitation Black Chrobin",
 			artist: "HaruAki",
 			artist_url: "https://x.com/scl_HaruAki",
-			desc: "As a major Vanan'Ice fan, it was a dream come true to get to see Chrom and Robin drawn by the HaruAki, especially since I was unsure if she would take non-OC requests. Definitely one of my absolute favorite commissions ever.",
+			desc: "As a major Vanan'Ice fan, it was a dream come true to get to see Chrom and Robin drawn by the HaruAki, especially since I was unsure if she would take non-OC requests. Naturally, I had to request them dressed as Kaito and Len from 'IMITATION Black,' as who else would know these outfits better than HaruAki herself? Definitely one of my absolute favorite commissions ever.",
 			date_str: "July 2021",
 			tags: ["Fire Emblem", "Chrom", "Female Robin", "Chrobin", "Vocaloid"],
 			hidden: true
