@@ -45,6 +45,39 @@ var data = {
 			hidden: false
 		},			
 		{
+			src: ["https://cdn.imgchest.com/files/ef6fa370bb85.png"],
+			thumbnail: "https://cdn.imgchest.com/files/78734ff6a632.png",
+			title: "Super Mario Chrobin",
+			artist: "Moccha Kofii",
+			artist_url: "https://x.com/moccha_kofii",
+			desc: "Chrom and Robin as iconic video game couples. Because Robin's red palette gave her blonde hair, and Peach also had a red palette that gave her a red dress, those colors were used. And since we're in the realm of Smash Ultimate, Chrom Mii (whose body type more closely replicates Mario's) is here to steal Chrom's girl.",
+			date_str: "February 2024",
+			tags: ["Fire Emblem", "Chrom", "Female Robin", "Chrobin", "Super Mario Brothers"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/5706d10e5145.png"],
+			thumbnail: "https://cdn.imgchest.com/files/f32db6474a45.png",
+			title: "Legend of Chrobin",
+			artist: "Moccha Kofii",
+			artist_url: "https://x.com/moccha_kofii",
+			desc: "Chrom and Robin as iconic video game couples. The parallels between Zelda who became a dragon in Tears of the Kingdom and Robin who becomes Grima in a bad timeline was not lost on me. It was also very easy to incorporate Chrom's brand into the design of his right arm.",
+			date_str: "February 2024",
+			tags: ["Fire Emblem", "Chrom", "Female Robin", "Chrobin", "Legend of Zelda"],
+			hidden: false
+		},		
+		{
+			src: ["https://cdn.imgchest.com/files/1a3d128f2b85.png"],
+			thumbnail: "https://cdn.imgchest.com/files/fa2f9101eb79.png",
+			title: "Chrobin the Hedgehogs",
+			artist: "Moccha Kofii",
+			artist_url: "https://x.com/moccha_kofii",
+			desc: "Chrom and Robin as iconic video game couples. I was initially considering using the Sonic Boom outfits, but the Murder of Sonic was such a great game that I had to go with that one instead. I love how Moccha drew the background, giving it an incredibly stylistic slant that is just so fitting for something from the Sonic series.",
+			date_str: "February 2024",
+			tags: ["Fire Emblem", "Chrom", "Female Robin", "Chrobin", "Sonic the Hedgehog"],
+			hidden: false
+		},						
+		{
 			src: ["https://cdn.imgchest.com/files/df8f198bc12e.png"],
 			thumbnail: "https://cdn.imgchest.com/files/5f5c2afc566c.png",
 			title: "Chrom - Prince",
@@ -111,6 +144,17 @@ var data = {
 			hidden: false
 		},				
 		{
+			src: ["https://cdn.imgchest.com/files/0720edc532b5.png"],
+			thumbnail: "https://cdn.imgchest.com/files/8d2c09898d43.png",
+			title: "Imitation Black Chrobin",
+			artist: "HaruAki",
+			artist_url: "https://x.com/scl_HaruAki",
+			desc: "As a major Vanan'Ice fan, it was a dream come true to get to see Chrom and Robin drawn by the HaruAki, especially since I was unsure if she would take non-OC requests. Definitely one of my absolute favorite commissions ever.",
+			date_str: "July 2021",
+			tags: ["Fire Emblem", "Chrom", "Female Robin", "Chrobin", "Vocaloid"],
+			hidden: true
+		},		
+		{
 			src: ["https://cdn.imgchest.com/files/627af6568ee9.png"],
 			thumbnail: "https://cdn.imgchest.com/files/c539a4b0718e.png",
 			title: "Mother's Pendant",
@@ -131,40 +175,7 @@ var data = {
 			date_str: "June 2021",
 			tags: ["Fire Emblem", "Chrom", "Male Morgan", "Exalt Family"],
 			hidden: false
-		},		
-		{
-			src: ["https://cdn.imgchest.com/files/ef6fa370bb85.png"],
-			thumbnail: "https://cdn.imgchest.com/files/78734ff6a632.png",
-			title: "Super Mario Chrobin",
-			artist: "Moccha Kofii",
-			artist_url: "https://x.com/moccha_kofii",
-			desc: "Chrom and Robin as iconic video game couples. Because Robin's red palette gave her blonde hair, and Peach also had a red palette that gave her a red dress, those colors were used. And since we're in the realm of Smash Ultimate, Chrom Mii (whose body type more closely replicates Mario's) is here to steal Chrom's girl.",
-			date_str: "February 2024",
-			tags: ["Fire Emblem", "Chrom", "Female Robin", "Chrobin", "Super Mario Brothers"],
-			hidden: false
-		},
-		{
-			src: ["https://cdn.imgchest.com/files/5706d10e5145.png"],
-			thumbnail: "https://cdn.imgchest.com/files/f32db6474a45.png",
-			title: "Legend of Chrobin",
-			artist: "Moccha Kofii",
-			artist_url: "https://x.com/moccha_kofii",
-			desc: "Chrom and Robin as iconic video game couples. The parallels between Zelda who became a dragon in Tears of the Kingdom and Robin who becomes Grima in a bad timeline was not lost on me. It was also very easy to incorporate Chrom's brand into the design of his right arm.",
-			date_str: "February 2024",
-			tags: ["Fire Emblem", "Chrom", "Female Robin", "Chrobin", "Legend of Zelda"],
-			hidden: false
-		},		
-		{
-			src: ["https://cdn.imgchest.com/files/1a3d128f2b85.png"],
-			thumbnail: "https://cdn.imgchest.com/files/fa2f9101eb79.png",
-			title: "Chrobin the Hedgehogs",
-			artist: "Moccha Kofii",
-			artist_url: "https://x.com/moccha_kofii",
-			desc: "Chrom and Robin as iconic video game couples. I was initially considering using the Sonic Boom outfits, but the Murder of Sonic was such a great game that I had to go with that one instead. I love how Moccha drew the background, giving it an incredibly stylistic slant that is just so fitting for something from the Sonic series.",
-			date_str: "February 2024",
-			tags: ["Fire Emblem", "Chrom", "Female Robin", "Chrobin", "Sonic the Hedgehog"],
-			hidden: false
-		},					
+		},			
 		{
 			src: ["https://cdn.imgchest.com/files/3f62056e63b3.png"],
 			thumbnail: "https://cdn.imgchest.com/files/bbf05808f341.png",
@@ -393,7 +404,7 @@ var data = {
 			artist_url: "https://bsky.app/profile/cupofcolors.bsky.social",
 			desc: "Done as a request for CYL10. One of my favorite trios ever.",
 			date_str: "April 2026",
-			tags: ["Vocaloid", "KAITO", "Kagamine Len", "Kamui Gakupo", "Vanan'Ice"],
+			tags: ["Vocaloid", "KAITO", "Kagamine Len", "Kamui Gakupo", "Vanan'Ice", "Request"],
 			hidden: false
 		},		
 		{
@@ -536,7 +547,7 @@ var data = {
 			artist_url: null,
 			desc: "A gift from DarthMarth of Robin receiving a headpat from Chrom.",
 			date_str: "December 2021",
-			tags: ["Fire Emblem", "Female Robin", "Chrobin"],
+			tags: ["Fire Emblem", "Female Robin", "Chrobin", "Gift"],
 			hidden: false
 		},		
 		{
