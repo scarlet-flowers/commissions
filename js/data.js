@@ -21,7 +21,7 @@ var data = {
 			date_str: "",
 			tags: [""],
 			hidden: true
-		},	
+		},
 		{
 			src: ["https://cdn.imgchest.com/files/ef6fa370bb85.png"],
 			thumbnail: "https://cdn.imgchest.com/files/78734ff6a632.png",
@@ -261,7 +261,7 @@ var data = {
 			artist_url: "https://bsky.app/profile/missdash.bsky.social",
 			desc: "Done as a request for CYL10. MMJ Kaito would absolutely have this fan of MMJ Len, haha.",
 			date_str: "February 2026",
-			tags: ["Vocaloid", "KAITO", "Kagamine Len", "KaiLen", "Request"],
+			tags: ["Vocaloid", "KAITO", "Kagamine Len", "KaiLen"],
 			hidden: false
 		},
 		{
@@ -327,7 +327,7 @@ var data = {
 			artist_url: "https://x.com/micstheMD?s=20",
 			desc: "This was actually a 'gift' of sorts from my friend Miso as a prize for a little contest we held among our friends. Originally, I had a more ambitious idea of the 'dance' scene from the movie with pre-timeskip Dorothea and Lorenz dancing and their post-timeskip selves in the reflection of the water, but I scaled it back to fit the budget I had.",
 			date_str: "September 2021",
-			tags: ["Fire Emblem 3H", "Dorothea", "Lorenz", "Dororenz", "Gift"],
+			tags: ["Fire Emblem 3H", "Dorothea", "Lorenz", "Dororenz"],
 			hidden: false
 		},
 		{
