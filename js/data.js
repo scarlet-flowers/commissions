@@ -23,6 +23,28 @@ var data = {
 			hidden: true
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/627af6568ee9.png"],
+			thumbnail: "https://cdn.imgchest.com/files/c539a4b0718e.png",
+			title: "Mother's Pendant",
+			artist: "Yunah",
+			artist_url: "https://x.com/LordYunaa",
+			desc: "When I saw that Summer Robin had a necklace, my mind immediately went to the pendant that Lucina mentioned receiving from her mother in her Gerome supports. And of course, I had to headcanon around this.",
+			date_str: "July 2021",
+			tags: ["Fire Emblem", "Female Robin", "Lucina", "Exalt Family"],
+			hidden: false
+		},				
+		{
+			src: ["https://cdn.imgchest.com/files/deebbdd822e8.png"],
+			thumbnail: "https://cdn.imgchest.com/files/53a0d502e854.png",
+			title: "Chrom and Morgan have achieved B-ranked support",
+			artist: "natsuB_Bkoge",
+			artist_url: "https://x.com/natsuB_Bkoge",
+			desc: "An angsty piece exploring the relationship between fallen Morgan and Risen King Chrom. They're both shells of their former selves and yet... perhaps they've found some comfort in the invisible ties that still tie them together.",
+			date_str: "June 2021",
+			tags: ["Fire Emblem", "Chrom", "Male Morgan", "Exalt Family"],
+			hidden: false
+		},		
+		{
 			src: ["https://cdn.imgchest.com/files/ef6fa370bb85.png"],
 			thumbnail: "https://cdn.imgchest.com/files/78734ff6a632.png",
 			title: "Super Mario Chrobin",
