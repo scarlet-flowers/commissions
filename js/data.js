@@ -538,7 +538,18 @@ var data = {
 			date_str: "March 2022",
 			tags: ["Fire Emblem", "Female Robin", "Gift"],
 			hidden: false
-		},					
+		},		
+		{
+			src: ["https://cdn.imgchest.com/files/0a634ec73781.png"],
+			thumbnail: "https://cdn.imgchest.com/files/59c8a5292729.png",
+			title: "Hooters Robin and Lucina",
+			artist: "Shugo",
+			artist_url: "https://x.com/hiomaika",
+			desc: "A joint commission with Yoostink and others. Lucina and Robin are hard at work earning tips so that they can +10 Brave Chrom.",
+			date_str: "February 2022",
+			tags: ["Fire Emblem", "Female Robin", "Lucina", "Lissa", "Ophelia", "Leonie", "Noire"],
+			hidden: false
+		},		
 		{
 			src: ["https://cdn.imgchest.com/files/cfff7c580b47.png"],
 			thumbnail: "https://cdn.imgchest.com/files/cfff7c580b47.png",
