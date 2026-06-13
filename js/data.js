@@ -547,7 +547,7 @@ var data = {
 			artist_url: "https://x.com/hiomaika",
 			desc: "A joint commission with Yoostink and others. Lucina and Robin are hard at work earning tips so that they can +10 Brave Chrom.",
 			date_str: "February 2022",
-			tags: ["Fire Emblem", "Female Robin", "Lucina", "Lissa", "Ophelia", "Leonie", "Noire"],
+			tags: ["Fire Emblem", "Female Robin", "Lucina", "Lissa", "Ophelia", "Leonie", "Noire", "Collab"],
 			hidden: false
 		},		
 		{
