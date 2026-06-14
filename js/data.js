@@ -142,7 +142,29 @@ var data = {
 			date_str: "January 2022",
 			tags: ["Fire Emblem", "Female Morgan"],
 			hidden: false
+		},		
+		{
+			src: ["https://cdn.imgchest.com/files/2bbfa35767a0.png"],
+			thumbnail: "https://cdn.imgchest.com/files/5cfb733ce3c3.png",
+			title: "Lucina and Morgan as the Brief siblings",
+			artist: "Nosoiquio",
+			artist_url: "https://x.com/nosoiquio",
+			desc: "Given the obvious parallels between Lucina and Trunks, it only felt fitting to pay homage to two of my favorite characters. And naturally, Morgan had to join his sister. It was an interesting challenge to design a male version of Bulla's outfit that would still be recognizable as hers, considering someone else would be wearing it, but I think I did a good job.",
+			date_str: "September 2021",
+			tags: ["Fire Emblem", "Lucina", "Male Morgan", "Exalt Family", "Dragonball Z"],
+			hidden: false
 		},				
+		{
+			src: ["https://cdn.imgchest.com/files/5eb772bfcbda.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/e19e90a58ec7.png",
+			title: "The King of Plegia and Queen of Ylisse",
+			artist: "Picnicic",
+			artist_url: "https://x.com/picnicic",
+			desc: "A skeb-style commission in which Chrom was born Plegian and Robin was born Ylissean. It was fun to reimagine where their brands would be in this scenario. The background also never ceases to take my breath away.",
+			date_str: "August 2021",
+			tags: ["Fire Emblem", "Chrom", "Female Robin", "Chrobin"],
+			hidden: false
+		},		
 		{
 			src: ["https://cdn.imgchest.com/files/0720edc532b5.png"],
 			thumbnail: "https://cdn.imgchest.com/files/8d2c09898d43.png",
@@ -529,6 +551,17 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/1f585d2561df.png"],
+			thumbnail: "https://cdn.imgchest.com/files/11c1dcf91dbf.png",
+			title: "Family Feud",
+			artist: "Ivan Shinoda",
+			artist_url: "https://x.com/ivanshinoda10",
+			desc: "A collab with Mifi. The idea to do a Family Feud parody was his, and most of the script was done by me. You can also see a lot of the prototype designs that I would later refine for my modern AU designs.",
+			date_str: "March 2023",
+			tags: ["Fire Emblem", "Chrom", "Female Robin", "Male Morgan", "Lucina", "Joker", "Exalt Family", "Collab", "Comic"],
+			hidden: false
+		},		
+		{
 			src: ["https://cdn.imgchest.com/files/e1953b82ba30.png"],
 			thumbnail: "https://cdn.imgchest.com/files/78136ff6bd54.png",
 			title: "Summer Beach Party",
@@ -567,7 +600,7 @@ var data = {
 			title: "Hooters Robin and Lucina",
 			artist: "Shugo",
 			artist_url: "https://x.com/hiomaika",
-			desc: "A joint commission with Yoostink and others. Lucina and Robin are hard at work earning tips so that they can +10 Brave Chrom.",
+			desc: "A collab with Yoostink and others. Lucina and Robin are hard at work earning tips so that they can +10 Brave Chrom.",
 			date_str: "February 2022",
 			tags: ["Fire Emblem", "Female Robin", "Lucina", "Lissa", "Ophelia", "Leonie", "Noire", "Collab"],
 			hidden: false
