@@ -10,18 +10,18 @@ var data = {
 			date_str: "Beginning of Time",
 			tags: ["Fire Emblem", "Chrom", "Female Robin", "Lucina", "Male Morgan", "Inigo", "Severa", "Male Robin", "Sumia", "Cynthia", "Female Morgan", "Owain", "Gerome", "Virion", "Olivia", "Gaius", "Cordelia", "Vaike", "Lissa", "Frederick", "Cherche", "Soleil", "Caeldori", "Ophelia", "Damien", "Chrobin", "Exalt Family", "Lucinigo", "Sevimorgan", "Robmia", "Violet Family", "Owainthia", "Geromorgan", "Viriolivia", "Gaiusdelia", "Vaikessa", "Chercherick", "Roleswap AU", "Modern AU", "Vocaloid", "Kagamine Len"],
 			hidden: true
-		},	
+		},			
 		{
-			src: [""],
-			thumbnail: "",
-			title: "",
-			artist: "",
-			artist_url: "",
-			desc: "",
-			date_str: "",
-			tags: [""],
-			hidden: true
-		},
+			src: ["https://64.media.tumblr.com/ec03a20fbce42b5f6e60080a9555aaa7/8ffb7a42b8e44d5c-58/s1280x1920/8118f0a6de05fd0a5ff83389f3b318c35fb166d8.png"],
+			thumbnail: "https://cdn.imgchest.com/files/c0a69aaabea6.png",
+			title: "Order vs. Chaos",
+			artist: "Daphne",
+			artist_url: "https://bsky.app/profile/daphnecomics.bsky.social",
+			desc: "A skeb-style piece and part of the FE Rally for Gaza. This was the very first commission that I ever got for the roleswap AU, and since it was skeb-style, there are some inconsistencies in Robin's ascended queen outfit that I ironed out with the next commission. There are also some slightly alterations that I did myself, such as the color of Naga!Chrom's coat or re-adding the black sheer around Grima!Robin's arms.",
+			date_str: "March 2024",
+			tags: ["Fire Emblem", "Female Robin", "Chrom", "Chrobin", "Roleswap AU"],
+			hidden: false
+		},		
 		{
 			src: ["https://cdn.imgchest.com/files/e38f05d46308.png"],
 			thumbnail: "https://cdn.imgchest.com/files/87c7456b23c2.png",
