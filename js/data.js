@@ -558,7 +558,7 @@ var data = {
 			artist_url: "https://x.com/ivanshinoda10",
 			desc: "A collab with Mifi. The idea to do a Family Feud parody was his, and most of the script was done by me. You can also see a lot of the prototype designs that I would later refine for my modern AU designs.",
 			date_str: "March 2023",
-			tags: ["Fire Emblem", "Chrom", "Female Robin", "Male Morgan", "Lucina", "Joker", "Exalt Family", "Collab", "Comic"],
+			tags: ["Fire Emblem Collab", "Persona", "Chrom", "Female Robin", "Male Morgan", "Lucina", "Joker", "Exalt Family", "Collab", "Comic"],
 			hidden: false
 		},		
 		{
@@ -569,7 +569,7 @@ var data = {
 			artist_url: "https://x.com/RedKite333?s=20",
 			desc: "A large collab with several other people for a fun beach piece.",
 			date_str: "June 2022",
-			tags: ["Fire Emblem", "Chrom", "Female Robin", "Collab"],
+			tags: ["Fire Emblem Collab", "Chrom", "Female Robin", "Collab"],
 			hidden: false
 		},		
 		{
@@ -580,7 +580,7 @@ var data = {
 			artist_url: "https://x.com/Ly_art01",
 			desc: "A collab with DarthMarth. Robin and Lissa are having a fun sleepover, and gossipping a bit about their crushes. The sleepwear design for Robin was based on her armor break from Warriors.",
 			date_str: "March 2022",
-			tags: ["Fire Emblem", "Female Robin", "Lissa", "Collab"],
+			tags: ["Fire Emblem Collab", "Female Robin", "Lissa", "Collab"],
 			hidden: false
 		},		
 		{
@@ -602,7 +602,7 @@ var data = {
 			artist_url: "https://x.com/hiomaika",
 			desc: "A collab with Yoostink and others. Lucina and Robin are hard at work earning tips so that they can +10 Brave Chrom.",
 			date_str: "February 2022",
-			tags: ["Fire Emblem", "Female Robin", "Lucina", "Lissa", "Ophelia", "Leonie", "Noire", "Collab"],
+			tags: ["Fire Emblem Collab", "Female Robin", "Lucina", "Lissa", "Ophelia", "Leonie", "Noire", "Collab"],
 			hidden: false
 		},		
 		{
