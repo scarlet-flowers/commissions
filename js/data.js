@@ -529,6 +529,28 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/e1953b82ba30.png"],
+			thumbnail: "https://cdn.imgchest.com/files/78136ff6bd54.png",
+			title: "Summer Beach Party",
+			artist: "RedKite",
+			artist_url: "https://x.com/RedKite333?s=20",
+			desc: "A large collab with several other people for a fun beach piece.",
+			date_str: "June 2022",
+			tags: ["Fire Emblem", "Chrom", "Female Robin", "Collab"],
+			hidden: false
+		},		
+		{
+			src: ["https://cdn.imgchest.com/files/756cf2654782.png"],
+			thumbnail: "https://cdn.imgchest.com/files/e7f0111063a1.png",
+			title: "Sleepover Gossip",
+			artist: "Ly_art01",
+			artist_url: "https://x.com/Ly_art01",
+			desc: "A collab with DarthMarth. Robin and Lissa are having a fun sleepover, and gossipping a bit about their crushes. The sleepwear design for Robin was based on her armor break from Warriors.",
+			date_str: "March 2022",
+			tags: ["Fire Emblem", "Female Robin", "Lissa", "Collab"],
+			hidden: false
+		},		
+		{
 			src: ["https://cdn.imgchest.com/files/56105ab2cc8b.png"],
 			thumbnail: "https://cdn.imgchest.com/files/56105ab2cc8b.png",
 			title: "Robin Skill Issue",
