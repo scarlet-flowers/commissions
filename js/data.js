@@ -144,6 +144,17 @@ var data = {
 			hidden: false
 		},		
 		{
+			src: ["https://cdn.imgchest.com/files/abb3e5b59f0f.png", "https://cdn.imgchest.com/files/27258f91813c.png"],
+			thumbnail: "https://cdn.imgchest.com/files/bc0e5ce4d7b9.png",
+			title: "Keyblader Wielder Lucina",
+			artist: "Apticho",
+			artist_url: "https://bsky.app/profile/apticho.bsky.social",
+			desc: "Lucina's design was one that Apticho had already designed on their own, and one that I liked a lot so I went straight to the source to get a commission. Oblivion and Oathkeeper are my absolute favorite keyblades so I wanted Lucina to wield those as well. They have a bit of custom flair to them with the addition of the Mark of Grima and Exalted Brand, as well as the swap from the paopu fruit to an orange and the crown to Tactical Gale. Included is also a 'nort version, since it's almost as if Lucina inherited Robin's hair and color.",
+			date_str: "September 2021",
+			tags: ["Fire Emblem", "Lucina", "Kingdom Hearts"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/2bbfa35767a0.png"],
 			thumbnail: "https://cdn.imgchest.com/files/5cfb733ce3c3.png",
 			title: "Lucina and Morgan as the Brief siblings",
