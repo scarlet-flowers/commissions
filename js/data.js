@@ -23,6 +23,28 @@ var data = {
 			hidden: true
 		},	
 		{
+			src: ["https://cdn.imgchest.com/files/30be445e3e11.png"],
+			thumbnail: "https://cdn.imgchest.com/files/79207c32f653.png",
+			title: "Naga-ified Chrom",
+			artist: "Kyouga",
+			artist_url: "https://x.com/Kyouga05",
+			desc: "My design for a Chrom with Naga's dragon features. I elected to use horns and wings that Tiki/Nowi/Nah have over the one that Naga has just because I like the look of them better.",
+			date_str: "January 2026",
+			tags: ["Fire Emblem", "Chrom", "Roleswap AU"],
+			hidden: false
+		},				
+		{
+			src: ["https://cdn.imgchest.com/files/2b601c441378.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/0361e8cd382b.png",
+			title: "Mutual Disdain",
+			artist: "Yun",
+			artist_url: "https://x.com/YunAfezeria",
+			desc: "A piece depicting the disdain that Risen King Chrom and Ascended Queen Robin have for one another. Robin views him as Grima's mad dog, while Chrom thinks she's nothing more than Naga's puppet. Both think the other is in the more pitable situation, but know deep down inside that they're throwing rocks from a glass window.",
+			date_str: "December 2025",
+			tags: ["Fire Emblem", "Chrom", "Robin", "Chrobin", "Roleswap AU"],
+			hidden: false
+		},				
+		{
 			src: ["https://cdn.imgchest.com/files/713730d422bb.png"],
 			thumbnail: "https://cdn.imgchest.com/files/6c9baa459ebc.png",
 			title: "Returning to the Past",
