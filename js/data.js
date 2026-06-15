@@ -705,6 +705,28 @@ var data = {
 			hidden: false
 		},		
 		{
+			src: ["https://cdn.imgchest.com/files/6088636291a1.png"],
+			thumbnail: "https://cdn.imgchest.com/files/abfcbfaa26a7.png",
+			title: "Hoenn Trainers Chrom and Robin",
+			artist: "Nozukat",
+			artist_url: "https://x.com/nozukat",
+			desc: "A gift from my boyfriend of Chrom and Robin in modified versions of the Hoenn trainers' outfits. Poses are based on the Ace Trainers.",
+			date_str: "September 2021",
+			tags: ["Fire Emblem", "Chrom", "Female Robin", "Chrobin", "Gift"],
+			hidden: false
+		},	
+		{
+			src: ["https://cdn.imgchest.com/files/dfe4852aca20.png"],
+			thumbnail: "https://cdn.imgchest.com/files/8a58f5453c6c.png",
+			title: "Sinnoh Trainers Robin and Sumia",
+			artist: "Nozukat",
+			artist_url: "https://x.com/nozukat",
+			desc: "A gift from my boyfriend of Robin and Sumia in modified versions of the Sinnoh trainers' outfits. Poses are based on the Honeymooners.",
+			date_str: "September 2021",
+			tags: ["Fire Emblem", "Male Robin", "Sumia", "Robmia", "Gift"],
+			hidden: false
+		},			
+		{
 			src: ["https://cdn.imgchest.com/files/7e143c96d8a0.png"],
 			thumbnail: "https://cdn.imgchest.com/files/02c298f91b18.png",
 			title: "Chrom with a Burger",
