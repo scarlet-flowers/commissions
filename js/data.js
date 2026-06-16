@@ -21,7 +21,18 @@ var data = {
 			date_str: "",
 			tags: [""],
 			hidden: true
-		},	
+		},					
+		{
+			src: ["https://cdn.imgchest.com/files/094484f68235.png"],
+			thumbnail: "https://cdn.imgchest.com/files/f7f491283b0c.png",
+			title: "Wonder Duo",
+			artist: "IgniteMix",
+			artist_url: "https://x.com/ignitemix",
+			desc: "When this scene got animated, it really blew up everywhere, and all of the fan art really got me in the mood to get a piece referencing it as well. While they're not quite as extreme as BakuDeku, Severa and Morgan do also have a bit of that tsundere x sunshine dynamic going on which is why I found they were most fitting for this piece.",
+			date_str: "April 2026",
+			tags: ["Fire Emblem", "Male Morgan", "Severa", "My Hero Academia"],
+			hidden: false
+		},			
 		{
 			src: ["https://cdn.imgchest.com/files/30be445e3e11.png"],
 			thumbnail: "https://cdn.imgchest.com/files/79207c32f653.png",
@@ -253,6 +264,17 @@ var data = {
 			tags: ["Fire Emblem", "Female Morgan"],
 			hidden: false
 		},					
+		{
+			src: ["https://cdn.imgchest.com/files/70297827dd06.jpeg"],
+			thumbnail: "https://cdn.imgchest.com/files/0b4333ff627d.png",
+			title: "Male Morgan Request",
+			artist: "t_misaomaru",
+			artist_url: "https://x.com/t_misaomaru",
+			desc: "A request done for me by t_misaomaru. Since it was a request, I didn't specify brown eyes for Morgan, but he looks really cute with blue eyes too.",
+			date_str: "November 2021",
+			tags: ["Fire Emblem", "Male Morgan", "Request"],
+			hidden: false
+		},			
 		{
 			src: ["https://cdn.imgchest.com/files/dfb5ec8f07eb.png"],
 			thumbnail: "https://cdn.imgchest.com/files/3cea0487d647.png",
