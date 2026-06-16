@@ -155,6 +155,17 @@ var data = {
 			hidden: false
 		},				
 		{
+			src: ["https://cdn.imgchest.com/files/47579acaf4bf.png"],
+			thumbnail: "https://cdn.imgchest.com/files/b2adb1e9c56f.png",
+			title: "Day of Devotion",
+			artist: "Fujikawa Akira",
+			artist_url: "https://x.com/a_fjkw",
+			desc: "I'm still in awe that I was able to get a commission from an actual FEH artist, and Fujikawa Akira no less. An absolutely gorgeous and breathtaking piece showing Valentine's Chrom and Robin enjoying themselves at the festival. Basically my profile picture on all socials (bar tumblr).",
+			date_str: "January 2023",
+			tags: ["Fire Emblem", "Chrom", "Female Robin", "Chrobin"],
+			hidden: true
+		},			
+		{
 			src: ["https://cdn.imgchest.com/files/9e0a7a00fe59.png"],
 			thumbnail: "https://cdn.imgchest.com/files/f35da9e72eea.png",
 			title: "Exalt Family as the AskrEmbla Family",
