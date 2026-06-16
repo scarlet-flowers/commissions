@@ -163,7 +163,7 @@ var data = {
 			desc: "I'm still in awe that I was able to get a commission from an actual FEH artist, and Fujikawa Akira no less. An absolutely gorgeous and breathtaking piece showing Valentine's Chrom and Robin enjoying themselves at the festival. Basically my profile picture on all socials (bar tumblr).",
 			date_str: "January 2023",
 			tags: ["Fire Emblem", "Chrom", "Female Robin", "Chrobin"],
-			hidden: true
+			hidden: false
 		},			
 		{
 			src: ["https://cdn.imgchest.com/files/9e0a7a00fe59.png"],
@@ -251,6 +251,17 @@ var data = {
 			desc: "An emote of Morgan making a sour face. This is a reference to a Luffy expression, as requested by my boyfriend.",
 			date_str: "January 2022",
 			tags: ["Fire Emblem", "Female Morgan"],
+			hidden: false
+		},					
+		{
+			src: ["https://cdn.imgchest.com/files/dfb5ec8f07eb.png"],
+			thumbnail: "https://cdn.imgchest.com/files/3cea0487d647.png",
+			title: "Sevimorgan as Joshtelle",
+			artist: "Inkanii",
+			artist_url: "https://x.com/inkanii",
+			desc: "A commission of Severa and Morgan as Estelle and Joshua. Beyond the visual similarities, the windmill scene where Estelle has Joshua feed her reminded me of Severa and Morgan's support, which is why I wanted to reference that with this piece. Although in this case, Severa is the one doing the feeding instead, haha.",
+			date_str: "",
+			tags: ["Fire Emblem", "Male Morgan", "Severa", "Sevimorgan", "Trails in the Sky"],
 			hidden: false
 		},			
 		{
