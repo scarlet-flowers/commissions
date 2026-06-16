@@ -164,7 +164,18 @@ var data = {
 			date_str: "February 2024",
 			tags: ["Fire Emblem", "Chrom", "Female Robin", "Chrobin", "Sonic the Hedgehog"],
 			hidden: false
-		},				
+		},		
+		{
+			src: ["https://cdn.imgchest.com/files/3f1030862f45.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7a327e181613.png",
+			title: "Dual Bloodlines",
+			artist: "Neighbourh",
+			artist_url: "https://x.com/yrfreakyneighbr",
+			desc: "A commission depicting Fallen Morgan grappling with his two bloodlines. It was a big honor to get a commission from Neighbourh himself.",
+			date_str: "June 2023",
+			tags: ["Fire Emblem", "Male Morgan"],
+			hidden: true
+		},		
 		{
 			src: ["https://cdn.imgchest.com/files/47579acaf4bf.png"],
 			thumbnail: "https://cdn.imgchest.com/files/b2adb1e9c56f.png",
