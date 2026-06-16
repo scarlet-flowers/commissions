@@ -153,7 +153,29 @@ var data = {
 			date_str: "February 2024",
 			tags: ["Fire Emblem", "Chrom", "Female Robin", "Chrobin", "Sonic the Hedgehog"],
 			hidden: false
-		},						
+		},				
+		{
+			src: ["https://cdn.imgchest.com/files/9e0a7a00fe59.png"],
+			thumbnail: "https://cdn.imgchest.com/files/f35da9e72eea.png",
+			title: "Exalt Family as the AskrEmbla Family",
+			artist: "Yorey",
+			artist_url: "https://x.com/_yorey_",
+			desc: "Evil white-haired deity falls for a divine blue-haired himbo? More likely than you think. Had to combine my two favorite FE families together since their parallels are too obvious to ignore.",
+			date_str: "December 2022",
+			tags: ["Fire Emblem", "Chrom", "Female Robin", "Lucina", "Male Morgan", "Exalt Family"],
+			hidden: false
+		},				
+		{
+			src: ["https://cdn.imgchest.com/files/d732b9458321.png"],
+			thumbnail: "https://cdn.imgchest.com/files/72e97c43de71.png",
+			title: "Chrobin as Bubbline",
+			artist: "Yannurs (formerly AcrylicStroke)",
+			artist_url: "https://x.com/yannurs_",
+			desc: "A commission of Chrom and Robin as Marshall Lee and Princess Bubblegum. The labcoat and pink turtleneck really suit Robin, in my opinion.",
+			date_str: "July 2022",
+			tags: ["Fire Emblem", "Chrom", "Female Robin", "Chrobin", "Adventure Time"],
+			hidden: false
+		},				
 		{
 			src: ["https://cdn.imgchest.com/files/df8f198bc12e.png"],
 			thumbnail: "https://cdn.imgchest.com/files/5f5c2afc566c.png",
@@ -219,7 +241,18 @@ var data = {
 			date_str: "January 2022",
 			tags: ["Fire Emblem", "Female Morgan"],
 			hidden: false
-		},		
+		},			
+		{
+			src: ["https://cdn.imgchest.com/files/4a7ebf224a96.PNG"],
+			thumbnail: "https://cdn.imgchest.com/files/7fad4b68a503.png",
+			title: "Tea Time with Grandma",
+			artist: "MiddleTide",
+			artist_url: "https://x.com/middletide_art",
+			desc: "A commission of grandma Robin enjoying tea time with her two favorite grandchildren. In the background is a painting based on one of Middletide's own artworks, which is a fun touch.",
+			date_str: "October 2021",
+			tags: ["Fire Emblem", "Female Robin", "Caeldori", "Soleil", "Exalt Family"],
+			hidden: false
+		},			
 		{
 			src: ["https://cdn.imgchest.com/files/abb3e5b59f0f.png", "https://cdn.imgchest.com/files/27258f91813c.png"],
 			thumbnail: "https://cdn.imgchest.com/files/bc0e5ce4d7b9.png",
