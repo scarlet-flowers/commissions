@@ -144,6 +144,17 @@ var data = {
 			hidden: false
 		},				
 		{
+			src: ["https://cdn.imgchest.com/files/8d2ccac787a8.png"],
+			thumbnail: "https://cdn.imgchest.com/files/0b224ebc9b09.png",
+			title: "Valentine's Owain and Cynthia",
+			artist: "Kurumikiri",
+			artist_url: "https://x.com/kurumikiri",
+			desc: "A commission done for the FE Rally for Gaza. This is the first Owainthia piece I've gotten, and also the first time that I solidified my headcanon of Cynthia having purple eyes, similar to how the Morgans have purple eyes in their FEH art. She has to get something from Robin, after all (and I prefer her and Morgan having the same hair color, so eye color it is, haha).",
+			date_str: "March 2024",
+			tags: ["Fire Emblem", "Owain", "Cynthia", "Owainthia"],
+			hidden: false
+		},				
+		{
 			src: ["https://cdn.imgchest.com/files/62b81ef61112.png"],
 			thumbnail: "https://cdn.imgchest.com/files/c0a69aaabea6.png",
 			title: "Order vs. Chaos",
@@ -307,7 +318,7 @@ var data = {
 			date_str: "January 2022",
 			tags: ["Fire Emblem", "Female Morgan"],
 			hidden: false
-		},					
+		},							
 		{
 			src: ["https://cdn.imgchest.com/files/70297827dd06.jpeg"],
 			thumbnail: "https://cdn.imgchest.com/files/0b4333ff627d.png",
@@ -319,6 +330,17 @@ var data = {
 			tags: ["Fire Emblem", "Male Morgan", "Request"],
 			hidden: false
 		},			
+		{
+			src: ["https://cdn.imgchest.com/files/11f1d43f2322.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/a88c96e84f03.png",
+			title: "Fashion runs in the family",
+			artist: "FabiZetha",
+			artist_url: "https://x.com/FabiZetha",
+			desc: "A silly little comic pointing out how Vaike, Owain, and Ophelia all basically have their chests out. Lissa has it rough.",
+			date_str: "October 2021",
+			tags: ["Fire Emblem", "Vaike", "Lissa", "Owain", "Ophelia", "Vaikessa", "Comic"],
+			hidden: false
+		},				
 		{
 			src: ["https://cdn.imgchest.com/files/dfb5ec8f07eb.png"],
 			thumbnail: "https://cdn.imgchest.com/files/3cea0487d647.png",
