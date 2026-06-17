@@ -54,7 +54,29 @@ var data = {
 			date_str: "December 2025",
 			tags: ["Fire Emblem", "Chrom", "Robin", "Chrobin", "Roleswap AU"],
 			hidden: false
-		},				
+		},			
+		{
+			src: ["https://cdn.imgchest.com/files/e38f05d46308.png"],
+			thumbnail: "https://cdn.imgchest.com/files/87c7456b23c2.png",
+			title: "Violet Family Picnic",
+			artist: "ArayaEjiri",
+			artist_url: "https://x.com/ArayaEjiri",
+			desc: "A scene of the Violet family enjoying a family picnic.",
+			date_str: "May 2025",
+			tags: ["Fire Emblem", "Male Morgan", "Sumia", "Cynthia", "Female Morgan", "Owain", "Gerome", "Ophelia", "Damien", "Violet Family", "Owanthia", "Geromorgan"],
+			hidden: false
+		},			
+		{
+			src: ["https://cdn.imgchest.com/files/1625ec55b1dc.jpeg"],
+			thumbnail: "https://cdn.imgchest.com/files/db3d26e726ed.png",
+			title: "Easter Chrom and Lucina",
+			artist: "Hunnymz",
+			artist_url: "https://x.com/hunnymzdraws",
+			desc: "Since her mother couldn't join the festivities, Lucina is excited to show off the egg that she painted in her honor. Meant to be a companion to the Halloween piece.",
+			date_str: "April 2025",
+			tags: ["Fire Emblem", "Chrom", "Lucina", "Female Robin", "Exalt Family"],
+			hidden: false
+		},			
 		{
 			src: ["https://cdn.imgchest.com/files/713730d422bb.png"],
 			thumbnail: "https://cdn.imgchest.com/files/6c9baa459ebc.png",
@@ -76,18 +98,7 @@ var data = {
 			date_str: "January 2025",
 			tags: ["Fire Emblem", "Chrom", "Female Robin", "Naga", "Chrobin", "Roleswap AU"],
 			hidden: false
-		},			
-		{
-			src: ["https://cdn.imgchest.com/files/e38f05d46308.png"],
-			thumbnail: "https://cdn.imgchest.com/files/87c7456b23c2.png",
-			title: "Violet Family Picnic",
-			artist: "ArayaEjiri",
-			artist_url: "https://x.com/ArayaEjiri",
-			desc: "A scene of the Violet family enjoying a family picnic.",
-			date_str: "May 2025",
-			tags: ["Fire Emblem", "Male Morgan", "Sumia", "Cynthia", "Female Morgan", "Owain", "Gerome", "Ophelia", "Damien", "Violet Family", "Owanthia", "Geromorgan"],
-			hidden: false
-		},		
+		},				
 		{
 			src: ["https://cdn.imgchest.com/files/b6aec78d7548.png"],
 			thumbnail: "https://cdn.imgchest.com/files/a18d463d1ece.png",
@@ -98,7 +109,18 @@ var data = {
 			date_str: "December 2024",
 			tags: ["Fire Emblem", "Chrom", "Female Robin", "Lucina", "Inigo", "Male Morgan", "Severa", "Caeldori", "Soleil", "Exalt Family", "Lucinigo", "Sevimorgan"],
 			hidden: false
-		},			
+		},		
+		{
+			src: ["https://cdn.imgchest.com/files/8f7bef716d15.jpg", "https://cdn.imgchest.com/files/8f7bef716d15.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/b0d848444969.png",
+			title: "Halloween Grima and Morgan",
+			artist: "Hunnymz",
+			artist_url: "https://x.com/hunnymzdraws",
+			desc: "Morgan is happy to get to join the festivities, but even happier to be spending time with his mother. Meant to be a companion to the Easter piece. Hunnymz also provided an alternative version, where Morgan's lollipop is even BIGGER.",
+			date_str: "October 2024",
+			tags: ["Fire Emblem", "Female Robin", "Grima", "Male Morgan", "Exalt Family"],
+			hidden: false
+		},							
 		{
 			src: ["https://cdn.imgchest.com/files/314e9550226a.png"],
 			thumbnail: "https://cdn.imgchest.com/files/6d943cd22192.png",
