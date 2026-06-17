@@ -105,9 +105,9 @@ var data = {
 			title: "Exalt Family Christmas",
 			artist: "ArayaEjiri",
 			artist_url: "https://x.com/ArayaEjiri",
-			desc: "A scene of the Exalt family enjoying their Christmas eve.",
+			desc: "A scene of the Exalt family enjoying their Christmas eve. Done in collaboration with Lamprey.",
 			date_str: "December 2024",
-			tags: ["Fire Emblem", "Chrom", "Female Robin", "Lucina", "Inigo", "Male Morgan", "Severa", "Caeldori", "Soleil", "Exalt Family", "Lucinigo", "Sevimorgan"],
+			tags: ["Fire Emblem", "Chrom", "Female Robin", "Lucina", "Inigo", "Male Morgan", "Severa", "Caeldori", "Soleil", "Exalt Family", "Lucinigo", "Sevimorgan", "Collab"],
 			hidden: false
 		},		
 		{
