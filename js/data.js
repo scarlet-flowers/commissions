@@ -208,6 +208,17 @@ var data = {
 			date_str: "July 2022",
 			tags: ["Fire Emblem", "Chrom", "Female Robin", "Chrobin", "Adventure Time"],
 			hidden: false
+		},			
+		{
+			src: ["https://cdn.imgchest.com/files/e38563fbecda.png", "https://cdn.imgchest.com/files/f8ef8812316e.png"],
+			thumbnail: "https://cdn.imgchest.com/files/2b0e1d15b74f.png",
+			title: "Heaven and Hell",
+			artist: "Shugo",
+			artist_url: "https://x.com/hiomaika",
+			desc: "While Valentine’s Robin has found herself unexpectedly swept off her feet by this intimidating (yet oddly gentle) stranger, Valentine’s Chrom has his hands full dealing with this sly demon trying to whisper temptations in his ears. Which do you prefer: heaven or hell?",
+			date_str: "February 2022",
+			tags: ["Fire Emblem", "Chrom", "Female Robin", "Grima", "Chrobin"],
+			hidden: false
 		},				
 		{
 			src: ["https://cdn.imgchest.com/files/df8f198bc12e.png"],
