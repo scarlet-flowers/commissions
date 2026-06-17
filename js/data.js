@@ -358,7 +358,7 @@ var data = {
 			title: "Fashion runs in the family",
 			artist: "FabiZetha",
 			artist_url: "https://x.com/FabiZetha",
-			desc: "A silly little comic pointing out how Vaike, Owain, and Ophelia all basically have their chests out. Lissa has it rough.",
+			desc: "A silly little comic pointing out how Vaike, Owain, and Ophelia all basically have their chests out. Poor Lissa is the only one with any sense of decency in the family.",
 			date_str: "October 2021",
 			tags: ["Fire Emblem", "Vaike", "Lissa", "Owain", "Ophelia", "Vaikessa", "Comic"],
 			hidden: false
