@@ -32,7 +32,29 @@ var data = {
 			date_str: "April 2026",
 			tags: ["Fire Emblem", "Male Morgan", "Severa", "My Hero Academia"],
 			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/c2aee1225c27.png", "https://cdn.imgchest.com/files/8dfe02a18240.png"],
+			thumbnail: "https://cdn.imgchest.com/files/047e8bcbdb71.png",
+			title: "Resplendent Lucina with White Hair",
+			artist: "Capt Carrotcake",
+			artist_url: "https://x.com/CaptCarrotCake",
+			desc: "Done as a request for CYL10. White hair really goes well with her color palette for her resplendent outfit.",
+			date_str: "January 2026",
+			tags: ["Fire Emblem", "Lucina", "Request"],
+			hidden: false
 		},			
+		{
+			src: ["https://cdn.imgchest.com/files/cfc38a289e46.jpg", "https://cdn.imgchest.com/files/ef80a58c1459.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/982130f1fbe2.png",
+			title: "Resplendent Morgan (and Lucina)",
+			artist: "Alterigo60",
+			artist_url: "https://bsky.app/profile/alterigo06.bsky.social",
+			desc: "Done as a request for CYL10. Done in conjunction with Lamprey, as he requested resplendent Brave Lucina and I requested resplendent male Morgan.",
+			date_str: "January 2026",
+			tags: ["Fire Emblem", "Male Morgan", "Lucina", "Exalt Family", "Request", "Collab"],
+			hidden: false
+		},					
 		{
 			src: ["https://cdn.imgchest.com/files/30be445e3e11.png"],
 			thumbnail: "https://cdn.imgchest.com/files/79207c32f653.png",
