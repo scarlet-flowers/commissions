@@ -131,18 +131,7 @@ var data = {
 			date_str: "December 2024",
 			tags: ["Fire Emblem", "Chrom", "Female Robin", "Lucina", "Inigo", "Male Morgan", "Severa", "Caeldori", "Soleil", "Exalt Family", "Lucinigo", "Sevimorgan", "Collab"],
 			hidden: false
-		},		
-		{
-			src: ["https://cdn.imgchest.com/files/8f7bef716d15.jpg", "https://cdn.imgchest.com/files/8f7bef716d15.jpg"],
-			thumbnail: "https://cdn.imgchest.com/files/b0d848444969.png",
-			title: "Halloween Grima and Morgan",
-			artist: "Hunnymz",
-			artist_url: "https://x.com/hunnymzdraws",
-			desc: "Morgan is happy to get to join the festivities, but even happier to be spending time with his mother. Meant to be a companion to the Easter piece. Hunnymz also provided an alternative version, where Morgan's lollipop is even BIGGER.",
-			date_str: "October 2024",
-			tags: ["Fire Emblem", "Female Robin", "Grima", "Male Morgan", "Exalt Family"],
-			hidden: false
-		},							
+		},				
 		{
 			src: ["https://cdn.imgchest.com/files/314e9550226a.png"],
 			thumbnail: "https://cdn.imgchest.com/files/6d943cd22192.png",
@@ -154,6 +143,28 @@ var data = {
 			tags: ["Fire Emblem", "Chrom", "Female Robin", "Grima", "Naga", "Chrobin", "Roleswap AU"],
 			hidden: false
 		},			
+		{
+			src: ["https://cdn.imgchest.com/files/8f7bef716d15.jpg", "https://cdn.imgchest.com/files/8f7bef716d15.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/b0d848444969.png",
+			title: "Halloween Grima and Morgan",
+			artist: "Hunnymz",
+			artist_url: "https://x.com/hunnymzdraws",
+			desc: "Morgan is happy to get to join the festivities, but even happier to be spending time with his mother. Meant to be a companion to the Easter piece. Hunnymz also provided an alternative version, where Morgan's lollipop is even BIGGER.",
+			date_str: "October 2024",
+			tags: ["Fire Emblem", "Female Robin", "Grima", "Male Morgan", "Exalt Family"],
+			hidden: false
+		},				
+		{
+			src: ["https://cdn.imgchest.com/files/cef265640b1b.png"],
+			thumbnail: "https://cdn.imgchest.com/files/f4b1d95457cc.png",
+			title: "Campfire Dinner",
+			artist: "RedKite",
+			artist_url: "https://x.com/RedKite333",
+			desc: "A birthday gift for my friend, Silent, but secretly it was also a gift for myself, teehee. The Muspell lords and their Hel tacticians have taken a trip to Hel and are sampling the 'local cuisine' there. While Chrom seems a little skeptical of this bear meat, Robin and Ike are digging in with gusto. As for Soren? He's had worse.",
+			date_str: "October 2024",
+			tags: ["Fire Emblem", "Chrom", "Female Robin", "Ike", "Soren", "Chrobin", "Ikesoren"],
+			hidden: false
+		},					
 		{
 			src: ["https://cdn.imgchest.com/files/c0e20a9fd19a.png", "https://cdn.imgchest.com/files/27737ba1d95b.png"],
 			thumbnail: "https://cdn.imgchest.com/files/9e527ba23990.png",
@@ -340,7 +351,18 @@ var data = {
 			date_str: "January 2022",
 			tags: ["Fire Emblem", "Female Morgan"],
 			hidden: false
-		},							
+		},			
+		{
+			src: ["https://cdn.imgchest.com/files/2bc4246b5848.png"],
+			thumbnail: "https://cdn.imgchest.com/files/a7bd0915b6f2.png",
+			title: "I say 'Vol,' you say 'Tron!'",
+			artist: "RedKite",
+			artist_url: "https://x.com/RedKite333",
+			desc: "A commission of the Gen2 kids dressed as the Voltron pilots and doing the Haruhi pose. I also mainly chose the colors based on my own preferences (e.g., Owainthia as Klance, the blueberry siblings as Shiro and Pidge, etc.).",
+			date_str: "November 2021",
+			tags: ["Fire Emblem", "Lucina", "Owain", "Cynthia", "Male Morgan", "Female Morgan", "Voltron the Legendary Defender"],
+			hidden: false
+		},				
 		{
 			src: ["https://cdn.imgchest.com/files/70297827dd06.jpeg"],
 			thumbnail: "https://cdn.imgchest.com/files/0b4333ff627d.png",
