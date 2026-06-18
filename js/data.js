@@ -21,7 +21,18 @@ var data = {
 			date_str: "",
 			tags: [""],
 			hidden: true
-		},					
+		},												
+		{
+			src: ["https://cdn.imgchest.com/files/5c238a549fae.png"],
+			thumbnail: "https://cdn.imgchest.com/files/34b90f866ace.png",
+			title: "Summer Shadows Robin",
+			artist: "Anander",
+			artist_url: "https://bsky.app/profile/anander.bsky.social",
+			desc: "A request I made of Anander for Shadows Robin. While looking up references, he also saw Summer Robin's design and decided to combine the two together.",
+			date_str: "April 2026",
+			tags: ["Fire Emblem", "Female Robin", "Request"],
+			hidden: false
+		},				
 		{
 			src: ["https://cdn.imgchest.com/files/094484f68235.png"],
 			thumbnail: "https://cdn.imgchest.com/files/f7f491283b0c.png",
@@ -119,6 +130,17 @@ var data = {
 			desc: "A redraw of that one cipher card with Grima and Chrom. The Risen in the background are also reimagined as the 'Ascendeds', which I envision as corpses that are so perfect that it's near uncanny.",
 			date_str: "January 2025",
 			tags: ["Fire Emblem", "Chrom", "Female Robin", "Naga", "Chrobin", "Roleswap AU"],
+			hidden: false
+		},				
+		{
+			src: ["https://cdn.imgchest.com/files/cdaf656a19a2.png"],
+			thumbnail: "https://cdn.imgchest.com/files/0bca019e1ab0.png",
+			title: "Young Chrobin Request",
+			artist: "Liz",
+			artist_url: "https://x.com/LizSbbp",
+			desc: "A request that my friend, Liz, did for me. They're so adorable!",
+			date_str: "December 2024",
+			tags: ["Fire Emblem", "Chrom", "Female Robin", "Chrobin", "Request"],
 			hidden: false
 		},				
 		{
@@ -482,6 +504,17 @@ var data = {
 			desc: "When I saw that Summer Robin had a necklace, my mind immediately went to the pendant that Lucina mentioned receiving from her mother in her Gerome supports. And of course, I had to headcanon around this.",
 			date_str: "July 2021",
 			tags: ["Fire Emblem", "Female Robin", "Lucina", "Exalt Family"],
+			hidden: false
+		},				
+		{
+			src: ["https://cdn.imgchest.com/files/840da7eb85c5.png"],
+			thumbnail: "https://cdn.imgchest.com/files/574a7f6987f8.png",
+			title: "",
+			artist: "Liz",
+			artist_url: "https://x.com/LizSbbp",
+			desc: "A request that my friend, Liz, did for me years ago. I don't actually remember the exact date was, so I'm just guess-timating.",
+			date_str: "June 2021",
+			tags: ["Fire Emblem", "Chrom", "Female Robin", "Male Morgan", "Exalt Family", "Request"],
 			hidden: false
 		},				
 		{
