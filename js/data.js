@@ -353,6 +353,28 @@ var data = {
 			hidden: false
 		},			
 		{
+			src: ["https://cdn.imgchest.com/files/106b6a1d5b51.png"],
+			thumbnail: "https://cdn.imgchest.com/files/6a6b385d424e.png",
+			title: "Ylissean King Morgan and Plegian Queen Lucina",
+			artist: "LazzleDazzle",
+			artist_url: "https://bsky.app/profile/lazzledazzle.bsky.social",
+			desc: "A commission of Ylissean King Morgan and Plegian Queen Lucina. This was probably the first piece I got with the Mark of Grima on Lucina's shoulder. Fun fact, the tumblr user gurinderstehara actually commissioned theblindarcher for GBA-styled sprites based on this piece.",
+			date_str: "January 2022",
+			tags: ["Fire Emblem", "Lucina", "Male Morgan", "Exalt Family"],
+			hidden: false
+		},						
+		{
+			src: ["https://cdn.imgchest.com/files/955e915a9a54.png", "https://cdn.imgchest.com/files/51255534d108.png"],
+			thumbnail: "https://cdn.imgchest.com/files/c4bfe602d6be.png",
+			title: "Objection!",
+			artist: "Dinzeeyz",
+			artist_url: "https://x.com/d1nnple",
+			desc: "A commission of Lucina, Morgan, and Inigo as Apollo, Trucy, and Klavier respectively. I only realized too late that I should have had Inigo call Lucina 'Fraulein Frowny' instead, lol.",
+			date_str: "December 2021",
+			tags: ["Fire Emblem", "Lucina", "Male Morgan", "Inigo", "Exalt Family", "Lucinigo", "Ace Attorney"],
+			hidden: false
+		},					
+		{
 			src: ["https://cdn.imgchest.com/files/2bc4246b5848.png"],
 			thumbnail: "https://cdn.imgchest.com/files/a7bd0915b6f2.png",
 			title: "I say 'Vol,' you say 'Tron!'",
