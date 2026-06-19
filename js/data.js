@@ -944,18 +944,7 @@ var data = {
 			date_str: "December 2024",
 			tags: ["Vocaloid", "Kagamine Len"],
 			hidden: false
-		},
-		{
-			src: ["https://cdn.imgchest.com/files/81da4e58e69b.jpg"],
-			thumbnail: "https://cdn.imgchest.com/files/0f422b69496b.png",
-			title: "Stage Sekai Lucina and Morgan",
-			artist: "Katarina_Neko",
-			artist_url: "https://x.com/katarina_neko",
-			desc: "A gift from my friend, ZX, of Lucina and Morgan dressed as the Stage Sekailoids!",
-			date_str: "September 2024",
-			tags: ["Fire Emblem", "Lucina", "Male Morgan", "Exalt Family", "Vocaloid", "Gift"],
-			hidden: false
-		},				
+		},		
 		{
 			src: ["https://cdn.imgchest.com/files/4d28cc110931.png"],
 			thumbnail: "https://cdn.imgchest.com/files/5e560aa14eab.png",
@@ -1012,6 +1001,17 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/5abf6cad3b05.png"],
+			thumbnail: "https://cdn.imgchest.com/files/0f2916b8bb47.png",
+			title: "Chrobin Gift",
+			artist: "merylemons",
+			artist_url: "https://x.com/merylemons",
+			desc: "A birthday gift from my friend, Eeby! I've always adored merylemons' style so it was quite the wonderful surprise to get a piece from them.",
+			date_str: "September 2025",
+			tags: ["Fire Emblem", "Chrom", "Female Robin", "Chrobin", "Gift"],
+			hidden: false
+		},					
+		{
 			src: ["https://cdn.imgchest.com/files/eff39437a538.png"],
 			thumbnail: "https://cdn.imgchest.com/files/b012af8ce0f2.png",
 			title: "Summer Robin Gift",
@@ -1021,6 +1021,28 @@ var data = {
 			date_str: "September 2025",
 			tags: ["Fire Emblem", "Female Robin", "Gift"],
 			hidden: true
+		},				
+		{
+			src: ["https://cdn.imgchest.com/files/4b30fd289ee4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/62ba0f681b09.png",
+			title: "A Day in the Life of the Exalt Family",
+			artist: "Loustica",
+			artist_url: "https://bsky.app/profile/loustica-lucia.bsky.social",
+			desc: "A birthday gift from my friend, Silent! Was a pleasant surprise to get a piece from my fellow Chrobin fan, Loustica.",
+			date_str: "September 2024",
+			tags: ["Fire Emblem", "Chrom", "Female Robin", "Lucina", "Male Morgan", "Exalt Family", "Gift"],
+			hidden: false
+		},				
+		{
+			src: ["https://cdn.imgchest.com/files/81da4e58e69b.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/0f422b69496b.png",
+			title: "Stage Sekai Lucina and Morgan",
+			artist: "Katarina_Neko",
+			artist_url: "https://x.com/katarina_neko",
+			desc: "A birthday gift from my friend, ZX, of Lucina and Morgan dressed as the Stage Sekailoids!",
+			date_str: "September 2024",
+			tags: ["Fire Emblem", "Lucina", "Male Morgan", "Exalt Family", "Vocaloid", "Gift"],
+			hidden: false
 		},				
 		{
 			src: ["https://cdn.imgchest.com/files/1f585d2561df.png"],
