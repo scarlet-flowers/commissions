@@ -109,7 +109,7 @@ var data = {
 			date_str: "December 2025",
 			tags: ["Fire Emblem", "Chrom", "Robin", "Chrobin", "Roleswap AU"],
 			hidden: false
-		},			
+		},						
 		{
 			src: ["https://cdn.imgchest.com/files/e38f05d46308.png"],
 			thumbnail: "https://cdn.imgchest.com/files/87c7456b23c2.png",
@@ -946,6 +946,17 @@ var data = {
 			tags: ["Vocaloid", "Kagamine Len", "KAITO", "KaiLen", "Gift"],
 			hidden: false
 		},
+		{
+			src: ["https://cdn.imgchest.com/files/eff39437a538.png"],
+			thumbnail: "https://cdn.imgchest.com/files/b012af8ce0f2.png",
+			title: "Summer Robin Gift",
+			artist: "José Julio",
+			artist_url: "https://bsky.app/profile/josejuliojmz.bsky.social",
+			desc: "A birthday gift from my friend, José! I love how happy she looks.",
+			date_str: "September 2025",
+			tags: ["Fire Emblem", "Female Robin", "Gift"],
+			hidden: true
+		},				
 		{
 			src: ["https://cdn.imgchest.com/files/1f585d2561df.png"],
 			thumbnail: "https://cdn.imgchest.com/files/11c1dcf91dbf.png",
