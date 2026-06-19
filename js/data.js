@@ -920,7 +920,7 @@ var data = {
 			artist_url: "https://bsky.app/profile/homestar.bsky.social",
 			desc: "Done as a CYL9 request. Lorenz and Dorothea absolutely love gossiping about others, haha.",
 			date_str: "January 2025",
-			tags: ["Fire Emblem 3H", "Lorenz", "Dorothea", "Dororenz"],
+			tags: ["Fire Emblem 3H", "Lorenz", "Dorothea", "Dororenz", "Request"],
 			hidden: false
 		},				
 		{
