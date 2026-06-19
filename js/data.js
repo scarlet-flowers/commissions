@@ -240,7 +240,7 @@ var data = {
 			date_str: "October 2024",
 			tags: ["Fire Emblem", "Female Robin", "Grima", "Male Morgan", "Exalt Family"],
 			hidden: false
-		},				
+		},						
 		{
 			src: ["https://cdn.imgchest.com/files/cef265640b1b.png"],
 			thumbnail: "https://cdn.imgchest.com/files/f4b1d95457cc.png",
@@ -1023,6 +1023,17 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/72273af54c3e.png"],
+			thumbnail: "https://cdn.imgchest.com/files/a0aaddb67cbb.png",
+			title: "Summer Chrobin Gift, the Sequel",
+			artist: "Mason",
+			artist_url: "https://bsky.app/profile/misokatsuhaumai.bsky.social",
+			desc: "A gift from my friend, José! Chrom and Robin are enjoying a fun beach date.",
+			date_str: "March 2026",
+			tags: ["Fire Emblem", "Chrom", "Female Robin", "Chrobin", "Gift"],
+			hidden: false
+		},						
+		{
 			src: ["https://cdn.imgchest.com/files/5abf6cad3b05.png"],
 			thumbnail: "https://cdn.imgchest.com/files/0f2916b8bb47.png",
 			title: "Chrobin Gift",
@@ -1067,6 +1078,17 @@ var data = {
 			hidden: false
 		},				
 		{
+			src: ["https://cdn.imgchest.com/files/c5b5268b89cc.png"],
+			thumbnail: "https://cdn.imgchest.com/files/69349c5dce36.png",
+			title: "Birthday Comic",
+			artist: "Siren",
+			artist_url: "https://x.com/ladylawga",
+			desc: "A birthday gift from my friend, Silent. A fun comic that references some of my personal interests, like ballroom dancing or DDR.",
+			date_str: "September 2023",
+			tags: ["Fire Emblem", "Chrom", "Female Robin", "Lucina", "Male Morgan", "Exalt Family", "Gift", "Comic"],
+			hidden: false
+		},			
+		{
 			src: ["https://cdn.imgchest.com/files/1f585d2561df.png"],
 			thumbnail: "https://cdn.imgchest.com/files/11c1dcf91dbf.png",
 			title: "Family Feud",
@@ -1077,6 +1099,28 @@ var data = {
 			tags: ["Fire Emblem Collab", "Persona", "Chrom", "Female Robin", "Male Morgan", "Lucina", "Joker", "Exalt Family", "Collab", "Comic"],
 			hidden: false
 		},		
+		{
+			src: ["https://cdn.imgchest.com/files/7d710918f7b7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/34e5f5270a83.png",
+			title: "Beware the Tactician",
+			artist: "AdamCreyton",
+			artist_url: "https://x.com/AdamCreyton",
+			desc: "A birthday gift from my friend, Miso. He was the one who got me into the swamp of villainess comics, the first of which was... okay it was actually 'The Old Man is Reincarnated as a Villainess' but the second one was 'Beware the Villainess!' So this was a fun callback.",
+			date_str: "September 2022",
+			tags: ["Fire Emblem", "Chrom", "Female Robin", "Chrobin", "Beware the Villainess", "Gift"],
+			hidden: false
+		},				
+		{
+			src: ["https://cdn.imgchest.com/files/56d5c7dfaccd.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4aaeb05af7eb.png",
+			title: "Family Outing",			
+			artist: "Siren",
+			artist_url: "https://x.com/ladylawga",
+			desc: "A birthday gift from my friend, Silent. While Chrom and Robin are enjoying their moment of peace, Morgan is causing a bit of chaos for his sister in the background.",
+			date_str: "September 2022",
+			tags: ["Fire Emblem", "Chrom", "Female Robin", "Lucina", "Male Morgan", "Exalt Family", "Gift"],
+			hidden: false
+		},			
 		{
 			src: ["https://cdn.imgchest.com/files/e1953b82ba30.png"],
 			thumbnail: "https://cdn.imgchest.com/files/78136ff6bd54.png",
@@ -1155,6 +1199,17 @@ var data = {
 			hidden: false
 		},			
 		{
+			src: ["https://cdn.imgchest.com/files/3e7b1d2017c8.png"],
+			thumbnail: "https://cdn.imgchest.com/files/6eb9e9ee6aed.png",
+			title: "Dorothea and Lorenz",
+			artist: "Siren",
+			artist_url: "https://x.com/ladylawga",
+			desc: "A birthday gift from my friend, Silent. As a funny backstory, I used to refer to this ship as Lorenzthea, which was misinterpreted as Lorenz and Lysithea. So when I received a fully colored illustration of Lorenz and Lysithea, I was very confused. Thankfully, Siren was gracious enough to do a quick re-do. From there onwards, I call the ship Dororenz instead haha.",
+			date_str: "September 2021",
+			tags: ["Fire Emblem 3H", "Dorothea", "Lorenz", "Dororenz", "Gift"],
+			hidden: false
+		},			
+		{
 			src: ["https://cdn.imgchest.com/files/7e143c96d8a0.png"],
 			thumbnail: "https://cdn.imgchest.com/files/02c298f91b18.png",
 			title: "Chrom with a Burger",
@@ -1175,49 +1230,16 @@ var data = {
 			date_str: "July 2021",
 			tags: ["Fire Emblem", "Female Robin", "Gift"],
 			hidden: false
-		},				
+		},						
 		{
 			src: ["https://cdn.imgchest.com/files/6e57cf4cfd2b.png"],
 			thumbnail: "https://cdn.imgchest.com/files/838c55c9d4c3.png",
-			title: "Summer Chrobin and Robin",
+			title: "Summer Chrobin Gift",
 			artist: "Siren",
 			artist_url: "https://x.com/ladylawga",
 			desc: "A birthday gift from my friend, Silent. A cute scene of Chrom and Robin enjoying their beach date.",
 			date_str: "September 2020",
 			tags: ["Fire Emblem", "Chrom", "Female Robin", "Chrobin", "Gift"],
-			hidden: false
-		},
-		{
-			src: ["https://cdn.imgchest.com/files/56d5c7dfaccd.png"],
-			thumbnail: "https://cdn.imgchest.com/files/4aaeb05af7eb.png",
-			title: "Family Outing",			
-			artist: "Siren",
-			artist_url: "https://x.com/ladylawga",
-			desc: "A birthday gift from my friend, Silent. While Chrom and Robin are enjoying their moment of peace, Morgan is causing a bit of chaos for his sister in the background.",
-			date_str: "September 2022",
-			tags: ["Fire Emblem", "Chrom", "Female Robin", "Lucina", "Male Morgan", "Exalt Family", "Gift"],
-			hidden: false
-		},		
-		{
-			src: ["https://cdn.imgchest.com/files/c5b5268b89cc.png"],
-			thumbnail: "https://cdn.imgchest.com/files/69349c5dce36.png",
-			title: "Birthday Comic",
-			artist: "Siren",
-			artist_url: "https://x.com/ladylawga",
-			desc: "A birthday gift from my friend, Silent. A fun comic that references some of my personal interests, like ballroom dancing or DDR.",
-			date_str: "September 2023",
-			tags: ["Fire Emblem", "Chrom", "Female Robin", "Lucina", "Male Morgan", "Exalt Family", "Gift", "Comic"],
-			hidden: false
-		},	
-		{
-			src: ["https://cdn.imgchest.com/files/3e7b1d2017c8.png"],
-			thumbnail: "https://cdn.imgchest.com/files/6eb9e9ee6aed.png",
-			title: "Dorothea and Lorenz",
-			artist: "Siren",
-			artist_url: "https://x.com/ladylawga",
-			desc: "A birthday gift from my friend, Silent. As a funny backstory, I used to refer to this ship as Lorenzthea, which was misinterpreted as Lorenz and Lysithea. So when I received a fully colored illustration of Lorenz and Lysithea, I was very confused. Thankfully, Siren was gracious enough to do a quick re-do. From there onwards, I call the ship Dororenz instead haha.",
-			date_str: "September 2021",
-			tags: ["Fire Emblem 3H", "Dorothea", "Lorenz", "Dororenz", "Gift"],
 			hidden: false
 		}
 	]
