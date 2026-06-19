@@ -89,6 +89,17 @@ var data = {
 			hidden: false
 		},				
 		{
+			src: ["https://cdn.imgchest.com/files/632acbef8e48.png"],
+			thumbnail: "https://cdn.imgchest.com/files/8ee2a5242231.png",
+			title: "Morgan's First Kiss",
+			artist: "Huyandere",
+			artist_url: "https://x.com/huyandere",
+			desc: "A gift for my boyfriend. This is a parody of the episode, 'Megan's First Kiss' from Drake and Josh. Gerome's casual outfit was based on my previous comm, while Morgan's casual outfit takes some inspiration from olivinearc's cardigan designs.",
+			date_str: "December 2025",
+			tags: ["Fire Emblem", "Female Morgan", "Gerome", "Cynthia", "Severa", "Geromorgan", "Drake and Josh"],
+			hidden: false
+		},				
+		{
 			src: ["https://cdn.imgchest.com/files/2b601c441378.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/0361e8cd382b.png",
 			title: "Mutual Disdain",
