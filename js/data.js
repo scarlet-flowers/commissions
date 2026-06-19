@@ -8,7 +8,7 @@ var data = {
 			artist_url: null,
 			desc: "Do not delete this. You can use this to set the order the tags show up in the dropdown.",
 			date_str: "Beginning of Time",
-			tags: ["Fire Emblem", "Chrom", "Female Robin", "Lucina", "Male Morgan", "Inigo", "Severa", "Male Robin", "Sumia", "Cynthia", "Female Morgan", "Owain", "Gerome", "Virion", "Olivia", "Gaius", "Cordelia", "Vaike", "Lissa", "Frederick", "Cherche", "Soleil", "Caeldori", "Ophelia", "Damien", "Chrobin", "Exalt Family", "Lucinigo", "Sevimorgan", "Robmia", "Violet Family", "Owainthia", "Geromorgan", "Viriolivia", "Gaiusdelia", "Vaikessa", "Chercherick", "Roleswap AU", "Modern AU", "Vocaloid", "Kagamine Len"],
+			tags: ["Fire Emblem", "Chrom", "Female Robin", "Lucina", "Male Morgan", "Inigo", "Severa", "Male Robin", "Sumia", "Cynthia", "Female Morgan", "Owain", "Gerome", "Virion", "Olivia", "Gaius", "Cordelia", "Vaike", "Lissa", "Frederick", "Cherche", "Soleil", "Caeldori", "Ophelia", "Damien", "Chrobin", "Exalt Family", "Lucinigo", "Sevimorgan", "Robmia", "Violet Family", "Owainthia", "Geromorgan", "Viriolivia", "Gaiusdelia", "Vaikessa", "Chercherick", "Roleswap AU", "Modern AU", "Vocaloid", "Kagamine Len", "KAITO", "Kailen"],
 			hidden: true
 		},		
 		{
