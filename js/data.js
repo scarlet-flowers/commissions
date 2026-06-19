@@ -21,7 +21,7 @@ var data = {
 			date_str: "",
 			tags: [""],
 			hidden: true
-		},												
+		},		
 		{
 			src: ["https://cdn.imgchest.com/files/5c238a549fae.png"],
 			thumbnail: "https://cdn.imgchest.com/files/34b90f866ace.png",
@@ -69,7 +69,7 @@ var data = {
 		{
 			src: ["https://cdn.imgchest.com/files/cfc38a289e46.jpg", "https://cdn.imgchest.com/files/ef80a58c1459.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/982130f1fbe2.png",
-			title: "Resplendent Morgan (and Lucina)",
+			title: "Resplendent Male Morgan (and Lucina)",
 			artist: "Alterigo60",
 			artist_url: "https://bsky.app/profile/alterigo06.bsky.social",
 			desc: "Done as a request for CYL10. Done in conjunction with Lamprey, as he requested resplendent Brave Lucina and I requested resplendent male Morgan.",
@@ -77,6 +77,17 @@ var data = {
 			tags: ["Fire Emblem", "Male Morgan", "Lucina", "Exalt Family", "Request", "Collab"],
 			hidden: false
 		},					
+		{
+			src: ["https://cdn.imgchest.com/files/e27e41e6cf42.png"],
+			thumbnail: "https://cdn.imgchest.com/files/d7d6122917c8.png",
+			title: "Grima and RKC Request",
+			artist: "Hullu",
+			artist_url: "https://x.com/hulluzola",
+			desc: "Done as a request for CYL10. I love the small smirk that Grima is giving Chrom.",
+			date_str: "January 2026",
+			tags: ["Fire Emblem", "Chrom", "Female Robin", "Grima", "Chrobin", "Request"],
+			hidden: false
+		},				
 		{
 			src: ["https://cdn.imgchest.com/files/30be445e3e11.png"],
 			thumbnail: "https://cdn.imgchest.com/files/79207c32f653.png",
@@ -141,6 +152,27 @@ var data = {
 			desc: "The first piece showing Morgan and Lucina's role in this AU. I envision this as the moment that Morgan resolved to travel back in time in an attempt to change his fate. Since his brands are easily hidden by his gloves, I envision the only other thing that he tries to cover up is his hair color, as it is a dead giveaway of his relation to Chrom. And Lucina here is in her Great Lord class, with Geirskögul as her weapon of choice.",
 			date_str: "February 2025",
 			tags: ["Fire Emblem", "Male Morgan", "Lucina", "Exalt Family", "Roleswap AU"],
+			hidden: false
+		},			
+		{
+			src: ["https://cdn.imgchest.com/files/25fe1a55c468.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/d2a5cb726639.png",
+			title: "Resplendent Female Morgan Request",
+			artist: "ElpisofHope",
+			artist_url: "https://x.com/Elpis0fh0pe",
+			desc: "Done as a request for CYL9. This was around the time that female Morgan's resplendent design had been announced, so it was mainly on my mind, lol. This was mostly a request for my boyfriend, as I asked for brown hair and glasses as per his headcanons.",
+			date_str: "January 2025",
+			tags: ["Fire Emblem", "Female Morgan", "Request"],
+			hidden: false
+		},				
+		{
+			src: ["https://cdn.imgchest.com/files/be8ed502b8a6.jpg", "https://cdn.imgchest.com/files/868aba1cce54.jpg", "https://cdn.imgchest.com/files/d79aa607f0d3.jpg", "https://cdn.imgchest.com/files/2d3aea7affa1.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/07513f4bf1d1.png",
+			title: "Victory Screen Request",
+			artist: "Nysus",
+			artist_url: "https://x.com/knightofgoetia",
+			desc: "Done as a request for CYL9. Exalted Chrom and Grandmaster Robin are posed like the Smash victory screen. Nysus also provided quite a few angles, which was a nice surprise!",
+			tags: ["Fire Emblem", "Chrom", "Female Robin", "Chrobin", "Request"],
 			hidden: false
 		},			
 		{
@@ -880,6 +912,17 @@ var data = {
 			tags: ["Dangan Ronpa", "Komaeda Nagito", "KomaHina"],
 			hidden: false
 		},
+		{
+			src: ["https://cdn.imgchest.com/files/dde99ac036c1.png"],
+			thumbnail: "https://cdn.imgchest.com/files/2ed5d48ca6e8.png",
+			title: "Dororenz Request",
+			artist: "Legi",
+			artist_url: "https://bsky.app/profile/homestar.bsky.social",
+			desc: "Done as a CYL9 request. Lorenz and Dorothea absolutely love gossiping about others, haha.",
+			date_str: "January 2025",
+			tags: ["Fire Emblem 3H", "Lorenz", "Dorothea", "Dororenz"],
+			hidden: false
+		},				
 		{
 			src: ["https://cdn.imgchest.com/files/0a12b922f97e.png"],
 			thumbnail: "https://cdn.imgchest.com/files/62235e8a9400.png",
