@@ -383,7 +383,18 @@ var data = {
 			date_str: "February 2022",
 			tags: ["Fire Emblem", "Chrom", "Female Robin", "Grima", "Chrobin"],
 			hidden: false
-		},				
+		},					
+		{
+			src: ["https://cdn.imgchest.com/files/888088c23a6e.png"],
+			thumbnail: "https://cdn.imgchest.com/files/2f270ce1a228.png",
+			title: "Ice Dancing",
+			artist: "ItsToast",
+			artist_url: "https://x.com/oreocorio",
+			desc: "I always adored the ballroom dancing that Virion and Olivia did in their support, and I feel like that would also naturally translate over to ice dancing. They would get 10's across the board, in my humble opinion.",
+			date_str: "February 2022",
+			tags: ["Fire Emblem", "Virion", "Olivia", "Viriolivia"],
+			hidden: false
+		},						
 		{
 			src: ["https://cdn.imgchest.com/files/df8f198bc12e.png"],
 			thumbnail: "https://cdn.imgchest.com/files/5f5c2afc566c.png",
@@ -448,6 +459,17 @@ var data = {
 			desc: "An emote of Morgan making a sour face. This is a reference to a Luffy expression, as requested by my boyfriend.",
 			date_str: "January 2022",
 			tags: ["Fire Emblem", "Female Morgan"],
+			hidden: false
+		},				
+		{
+			src: ["https://cdn.imgchest.com/files/e73c55f4ef3e.png"],
+			thumbnail: "https://cdn.imgchest.com/files/65f66505f6e5.png",
+			title: "Nifl Robin and Muspell Chrom",
+			artist: "DrawingDDoom",
+			artist_url: "https://bsky.app/profile/drawingddoom.bsky.social",
+			desc: "This was a piece that I had commissioned before we got Robin's actual resplendent design. At the time, I was hoping for a Nifl design to match with Chrom's Muspell design. While I would still have preferred that, I can't be mad since there was a point that I expected to not even get a resplendent at all, lol. And Brave Robin brought the ice veins so I was slightly vindicated in some ways, haha.",
+			date_str: "January 2022",
+			tags: ["Fire Emblem", "Chrom", "Female Robin", "Chrobin"],
 			hidden: false
 		},				
 		{
