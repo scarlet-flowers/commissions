@@ -45,6 +45,17 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/4bd09c88d804.png"],
+			thumbnail: "https://cdn.imgchest.com/files/35c1ee23e6d4.png",
+			title: "Kozaki-style Brave Robin",
+			artist: "PeacefulandFlat",
+			artist_url: "https://x.com/peacefulandflat",
+			desc: "As much as I adore Wada Sachiko's art, I do wish we had gotten a full body female Robin art from Kozaki. Thus, I commissioned PeacefulandFlat to emulate Kozaki's style so we could get a peek at what could have been. Pose is a reference to Katarina's Awakening art.",
+			date_str: "February 2026",
+			tags: ["Fire Emblem", "Female Robin"],
+			hidden: false
+		},				
+		{
 			src: ["https://cdn.imgchest.com/files/c2aee1225c27.png", "https://cdn.imgchest.com/files/8dfe02a18240.png"],
 			thumbnail: "https://cdn.imgchest.com/files/047e8bcbdb71.png",
 			title: "Resplendent Lucina with White Hair",
@@ -221,6 +232,17 @@ var data = {
 			hidden: false
 		},				
 		{
+			src: ["https://cdn.imgchest.com/files/a776e2f9dce0.png", "https://cdn.imgchest.com/files/e5d6adada8d3.png"],
+			thumbnail: "https://cdn.imgchest.com/files/695d2f371c2b.png",
+			title: "Damien Portrait",
+			artist: "Lynarc",
+			artist_url: "https://x.com/CM_Lynarc",
+			desc: "The first piece that I got for my Geromorgan fankid, Damien! I followed the same design principle as Fates in which most of his design is based on his father (e.g., wyvern rider, French name, red eyes). As a somewhat inverse of Selkie and Velouria, his hair would change color depending on his mother but the streak would always remain the same color. His bandana mask shares the same pattern as Cherche's headband, and his armor color scheme is based on Frederick's. He also has two pegasus hair clips on his tassel as a nod to Sumia.",
+			date_str: "February 2024",
+			tags: ["Fire Emblem", "Damien"],
+			hidden: false
+		},						
+		{
 			src: ["https://cdn.imgchest.com/files/ef6fa370bb85.png"],
 			thumbnail: "https://cdn.imgchest.com/files/78734ff6a632.png",
 			title: "Super Mario Chrobin",
@@ -296,7 +318,7 @@ var data = {
 			date_str: "July 2022",
 			tags: ["Fire Emblem", "Chrom", "Female Robin", "Chrobin", "Adventure Time"],
 			hidden: false
-		},			
+		},						
 		{
 			src: ["https://cdn.imgchest.com/files/e38563fbecda.png", "https://cdn.imgchest.com/files/f8ef8812316e.png"],
 			thumbnail: "https://cdn.imgchest.com/files/2b0e1d15b74f.png",
@@ -372,6 +394,17 @@ var data = {
 			desc: "An emote of Morgan making a sour face. This is a reference to a Luffy expression, as requested by my boyfriend.",
 			date_str: "January 2022",
 			tags: ["Fire Emblem", "Female Morgan"],
+			hidden: false
+		},					
+		{
+			src: ["https://cdn.imgchest.com/files/8f4d38c6e9e0.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/02aac6e7ef3a.png",
+			title: "Geromorgan as AyaHina",
+			artist: "Astral / Asu",
+			artist_url: "https://x.com/AstralBlooming?s=20",
+			desc: "When commissioning a crossover with another series, I usually pick my absolute favorite characters from that series, but I made an exception here because I thought Ayato and Hinami would best suit Gerome and Morgan. I find it fun that Gerome is still wearing a mask, but only for the lower half of his face now.",
+			date_str: "January 2022",
+			tags: ["Fire Emblem", "Gerome", "Female Morgan", "Geromorgan", "Tokyo Ghoul"],
 			hidden: false
 		},			
 		{
@@ -835,7 +868,7 @@ var data = {
 			date_str: "August 2024",
 			tags: ["Vocaloid", "Kagamine Len"],
 			hidden: false
-		},		
+		},			
 		{
 			src: ["https://cdn.imgchest.com/files/a8f299864a58.png"],
 			thumbnail: "https://cdn.imgchest.com/files/b8a85635190b.png",
