@@ -45,6 +45,17 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/05f08bd14bd2.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/89483ddf8bfb.png",
+			title: "Chrobin Heart Hands Request",
+			artist: "Evomanaphy",
+			artist_url: "https://x.com/EvomanaphyArt",
+			desc: "Done as a request for CYL10. Combined my request with Lamprey's to have Chrom and Robin do heart hands.",
+			date_str: "February 2022",
+			tags: ["Fire Emblem", "Chrom", "Female Robin", "Chrobin", "Request"],
+			hidden: false
+		},				
+		{
 			src: ["https://cdn.imgchest.com/files/4bd09c88d804.png"],
 			thumbnail: "https://cdn.imgchest.com/files/35c1ee23e6d4.png",
 			title: "Kozaki-style Brave Robin",
@@ -934,6 +945,17 @@ var data = {
 			tags: ["Vocaloid", "Kagamine Len"],
 			hidden: false
 		},
+		{
+			src: ["https://cdn.imgchest.com/files/81da4e58e69b.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/0f422b69496b.png",
+			title: "Stage Sekai Lucina and Morgan",
+			artist: "Katarina_Neko",
+			artist_url: "https://x.com/katarina_neko",
+			desc: "A gift from my friend, ZX, of Lucina and Morgan dressed as the Stage Sekailoids!",
+			date_str: "September 2024",
+			tags: ["Fire Emblem", "Lucina", "Male Morgan", "Exalt Family", "Vocaloid", "Gift"],
+			hidden: false
+		},				
 		{
 			src: ["https://cdn.imgchest.com/files/4d28cc110931.png"],
 			thumbnail: "https://cdn.imgchest.com/files/5e560aa14eab.png",
