@@ -406,7 +406,29 @@ var data = {
 			date_str: "January 2022",
 			tags: ["Fire Emblem", "Female Morgan"],
 			hidden: false
-		},					
+		},				
+		{
+			src: ["https://cdn.imgchest.com/files/3c8fd4d04c5a.png"],
+			thumbnail: "https://cdn.imgchest.com/files/942c6261092b.png",
+			title: "CNY Robin",
+			artist: "B_PearlWhite",
+			artist_url: "https://x.com/B_PearlWhite",
+			desc: "Grah, I LOVE putting my favorite characters in my cultural clothing! Robin is celebrating Chinese New Year in style, with Grima as the Chinese dragon. And in the background, instead of the character for fortune (福), I had the Japanese characters for the Chrobin ship name (クロルフ). I had actually marked this Skeb to be private because I wanted to wait until Chinese New Year to post it, but then B_PearlWhite had posted it to their Twitter anyways lol. I don't care, I'm marking the date as February anyways!",
+			date_str: "February 2022",
+			tags: ["Fire Emblem", "Female Robin"],
+			hidden: false
+		},				
+		{
+			src: ["https://cdn.imgchest.com/files/77ed2497832d.png", "https://cdn.imgchest.com/files/36fc473fc84f.png", "https://cdn.imgchest.com/files/86a94f3426d8.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/9256509a0e5e.png",
+			title: "Ready Steady",
+			artist: "Katarina_Neko",
+			artist_url: "https://x.com/katarina_neko",
+			desc: "A commission of Chrom, Robin, and Lucina dressed as Len, Miku, and Rin from the song 'Ready Steady.' Although the Mark of Grima is on the opposite shoulder that I normally headcanon it as, I decided it was fine since I still wanted to show it off. Also featuring Morgan as GigaP, haha. Kat also kindly included a bonus of Morgan as the cameraman.",
+			date_str: "January 2022",
+			tags: ["Fire Emblem", "Chrom", "Female Robin", "Lucina", "Male Morgan", "Exalt Family", "Vocaloid"],
+			hidden: false
+		},				
 		{
 			src: ["https://cdn.imgchest.com/files/8f4d38c6e9e0.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/02aac6e7ef3a.png",
