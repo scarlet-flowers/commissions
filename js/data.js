@@ -155,7 +155,7 @@ var data = {
 			hidden: false
 		},			
 		{
-			src: ["https://cdn.imgchest.com/files/713730d422bb.png"],
+			src: ["https://cdn.imgchest.com/files/2474215042bf.png"],
 			thumbnail: "https://cdn.imgchest.com/files/6c9baa459ebc.png",
 			title: "Returning to the Past",
 			artist: "Project Tiger",
