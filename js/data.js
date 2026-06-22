@@ -372,7 +372,18 @@ var data = {
 			date_str: "July 2022",
 			tags: ["Fire Emblem", "Chrom", "Female Robin", "Chrobin", "Adventure Time"],
 			hidden: false
-		},						
+		},			
+		{
+			src: ["https://cdn.imgchest.com/files/944c740bb7bc.JPG", "https://cdn.imgchest.com/files/eac6dd472d7d.JPG"],
+			thumbnail: "https://cdn.imgchest.com/files/9c03a2dd890d.png",
+			title: "Sweet Dreams",
+			artist: "micstheMD",
+			artist_url: "https://x.com/micstheMD?s=20",
+			desc: "Lucina is sleeping peacefully on her mother's lap. But there seems to be something a little... off about this scene.",
+			date_str: "February 2022",
+			tags: ["Fire Emblem", "Female Robin", "Grima", "Lucina", "Exalt Family"],
+			hidden: false
+		},				
 		{
 			src: ["https://cdn.imgchest.com/files/e38563fbecda.png", "https://cdn.imgchest.com/files/f8ef8812316e.png"],
 			thumbnail: "https://cdn.imgchest.com/files/2b0e1d15b74f.png",
@@ -383,7 +394,18 @@ var data = {
 			date_str: "February 2022",
 			tags: ["Fire Emblem", "Chrom", "Female Robin", "Grima", "Chrobin"],
 			hidden: false
-		},					
+		},		
+		{
+			src: ["https://cdn.imgchest.com/files/06e3db1ba200.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/4c6bc9de52e2.png",
+			title: "Valentine's Lucina and Robin",
+			artist: "Blof_404",
+			artist_url: null,
+			desc: "A commission of Lucina and Robin enjoying the Day of Devotion. Since Morgan couldn't make it, Lucina very thoughtfully prepared a souvenir to bring back for him. Background, which is a FEH asset, was added by me.",
+			date_str: "February 2022",
+			tags: ["Fire Emblem", "Female Robin", "Lucina", "Exalt Family"],
+			hidden: false
+		},				
 		{
 			src: ["https://cdn.imgchest.com/files/888088c23a6e.png"],
 			thumbnail: "https://cdn.imgchest.com/files/2f270ce1a228.png",
@@ -511,7 +533,7 @@ var data = {
 			title: "Ylissean King Morgan and Plegian Queen Lucina",
 			artist: "LazzleDazzle",
 			artist_url: "https://bsky.app/profile/lazzledazzle.bsky.social",
-			desc: "A commission of Ylissean King Morgan and Plegian Queen Lucina. This was probably the first piece I got with the Mark of Grima on Lucina's shoulder. Fun fact, the tumblr user gurinderstehara actually commissioned theblindarcher for GBA-styled sprites based on this piece.",
+			desc: "A commission of Ylissean King Morgan and Plegian Queen Lucina (background added by me). This was probably the first piece I got with the Mark of Grima on Lucina's shoulder. Fun fact, the tumblr user gurinderstehara actually commissioned theblindarcher for GBA-styled sprites based on this piece.",
 			date_str: "January 2022",
 			tags: ["Fire Emblem", "Lucina", "Male Morgan", "Exalt Family"],
 			hidden: false
