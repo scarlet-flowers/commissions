@@ -45,6 +45,17 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/bb64acdc290a.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/0d5f219c5f34.png",
+			title: "Coffee Order",
+			artist: "Python's Bow",
+			artist_url: "https://x.com/pythons_bow/media",
+			desc: "Done as a request for CYL10. Local teen discovers a new coffee addiction.",
+			date_str: "March 2026",
+			tags: ["Fire Emblem", "Male Morgan", "Request"],
+			hidden: false
+		},			
+		{
 			src: ["https://cdn.imgchest.com/files/05f08bd14bd2.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/89483ddf8bfb.png",
 			title: "Chrobin Heart Hands Request",
@@ -1121,6 +1132,17 @@ var data = {
 			tags: ["Fire Emblem Collab", "Persona", "Chrom", "Female Robin", "Male Morgan", "Lucina", "Joker", "Exalt Family", "Collab", "Comic"],
 			hidden: false
 		},		
+		{
+			src: ["https://cdn.imgchest.com/files/9e89f08b8c8b.png"],
+			thumbnail: "https://cdn.imgchest.com/files/67eafa99506d.png",
+			title: "Baking Cookies",
+			artist: "TruJek",
+			artist_url: "https://x.com/true_jek_art",
+			desc: "A gift from Yoostink in exchange for the Hooters collab. A very cute piece of Robin baking some delicious sugar cookies for her fellow Smash roster friends.",
+			date_str: "January 2023",
+			tags: ["Fire Emblem", "Smash Bros", "Female Robin", "Gift"],
+			hidden: false
+		},				
 		{
 			src: ["https://cdn.imgchest.com/files/7d710918f7b7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/34e5f5270a83.png",
