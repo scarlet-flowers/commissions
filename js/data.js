@@ -430,7 +430,7 @@ var data = {
 		},			
 		{
 			src: ["https://cdn.imgchest.com/files/84805b23c3d7.png"],
-			thumbnail: "",
+			thumbnail: "https://cdn.imgchest.com/files/a14acb2dc136.png",
 			title: "Father's Day",
 			artist: "NicoTopin",
 			artist_url: "https://x.com/Nico_squitter",
@@ -441,7 +441,7 @@ var data = {
 		},				
 		{
 			src: ["https://cdn.imgchest.com/files/6b3b8e363c53.png"],
-			thumbnail: "",
+			thumbnail: "https://cdn.imgchest.com/files/2103b06c1e39.png",
 			title: "Mother's Day",
 			artist: "NicoTopin",
 			artist_url: "https://x.com/Nico_squitter",
