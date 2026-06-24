@@ -20,8 +20,8 @@ var data = {
 			desc: "",
 			date_str: "",
 			tags: [""],
-			hidden: true
-		},		
+			hidden: false
+		},				
 		{
 			src: ["https://cdn.imgchest.com/files/5c238a549fae.png"],
 			thumbnail: "https://cdn.imgchest.com/files/34b90f866ace.png",
@@ -280,7 +280,7 @@ var data = {
 			title: "Valentine's Owain and Cynthia",
 			artist: "Kurumikiri",
 			artist_url: "https://x.com/kurumikiri",
-			desc: "A commission done for the FE Rally for Gaza. This is the first Owainthia piece I've gotten, and also the first time that I solidified my headcanon of Cynthia having purple eyes, similar to how the Morgans have purple eyes in their FEH art. She has to get something from Robin, after all (and I prefer her and Morgan having the same hair color, so eye color it is, haha).",
+			desc: "A commission done for the FE Rally for Gaza. This is the first Owainthia piece I've gotten, and also the first time that I solidified my headcanon of Cynthia having purple eyes, similar to how the Morgans have purple eyes in their FEH art. She has to get something from Robin, after all (and I prefer her and Morgan having the same hair color, so eye color it is, haha). If you see purple eyes in older commissions though, that's because I edited it in post.",
 			date_str: "March 2024",
 			tags: ["Fire Emblem", "Owain", "Cynthia", "Owainthia"],
 			hidden: false
@@ -351,6 +351,17 @@ var data = {
 			tags: ["Fire Emblem", "Male Morgan"],
 			hidden: true
 		},		
+		{
+			src: ["https://cdn.imgchest.com/files/aa315f01a865.png"],
+			thumbnail: "https://cdn.imgchest.com/files/b74f43de87ca.png",
+			title: "Ponytail Lucina",
+			artist: "micstheMD",
+			artist_url: "https://x.com/micstheMD?s=20",
+			desc: "A simple request I made of Lucina in a ponytail and Robin's undershirt.",
+			date_str: "January 2023",
+			tags: ["Fire Emblem", "Lucina", "Request"],
+			hidden: true
+		},				
 		{
 			src: ["https://cdn.imgchest.com/files/47579acaf4bf.png"],
 			thumbnail: "https://cdn.imgchest.com/files/b2adb1e9c56f.png",
