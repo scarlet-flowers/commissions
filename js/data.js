@@ -45,6 +45,72 @@ var data = {
 			hidden: false
 		},				
 		{
+			src: ["https://cdn.imgchest.com/files/6f356f2c8fc5.png"],
+			thumbnail: "https://cdn.imgchest.com/files/6a4bbafb1293.png",
+			title: "Morgan Doodle",
+			artist: "OZ",
+			artist_url: "https://x.com/oznooekaki",
+			desc: "A request I made for a doodle of Male Morgan. The date on this is actually not accurate, but I wanted to keep all the requests together.",
+			date_str: "April 2026",
+			tags: ["Fire Emblem", "Male Morgan", "Request"],
+			hidden: false
+		},								
+		{
+			src: ["https://cdn.imgchest.com/files/60a0a3d9d3a2.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/e9f7c46e17dc.png",
+			title: "Severa Doodle",
+			artist: "OZ",
+			artist_url: "https://x.com/oznooekaki",
+			desc: "A request that Lamprey made for a doodle of Severa, to match with MOrgan.",
+			date_str: "April 2026",
+			tags: ["Fire Emblem", "Severa", "Request"],
+			hidden: false
+		},			
+		{
+			src: ["https://cdn.imgchest.com/files/68b72d679724.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/7f8d67318acd.png",
+			title: "Robin Doodle",
+			artist: "OZ",
+			artist_url: "https://x.com/oznooekaki",
+			desc: "A request that Lamprey made for a doodle of Female Robin. I'm glad that OZ caught the detail of the braids on Robin's hair!",
+			date_str: "April 2026",
+			tags: ["Fire Emblem", "Female Robin", "Request"],
+			hidden: false
+		},	
+		{
+			src: ["https://cdn.imgchest.com/files/441137de1353.png"],
+			thumbnail: "https://cdn.imgchest.com/files/805425a38546.png",
+			title: "Chrom Doodle",
+			artist: "OZ",
+			artist_url: "https://x.com/oznooekaki",
+			desc: "A request that I made for a doodle of Chrom to match with Robin.",
+			date_str: "April 2026",
+			tags: ["Fire Emblem", "Chrom", "Request"],
+			hidden: false
+		},	
+		{
+			src: ["https://cdn.imgchest.com/files/91b84ccd6a93.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/b67b4863fb63.png",
+			title: "Inigo Doodle",
+			artist: "OZ",
+			artist_url: "https://x.com/oznooekaki",
+			desc: "A request that I made for a doodle of Inigo, since Lamprey and I figured we might as well round out the group.",
+			date_str: "April 2026",
+			tags: ["Fire Emblem", "Inigo", "Request"],
+			hidden: false
+		},				
+		{
+			src: ["https://cdn.imgchest.com/files/7ea28019a09a.png"],
+			thumbnail: "https://cdn.imgchest.com/files/9606dc13a0b1.png",
+			title: "Lucina Doodle",
+			artist: "OZ",
+			artist_url: "https://x.com/oznooekaki",
+			desc: "A request that Lamprey made for a doodle of Lucina. The brand was added in post by me.",
+			date_str: "April 2026",
+			tags: ["Fire Emblem", "Lucina", "Request"],
+			hidden: false
+		},			
+		{
 			src: ["https://cdn.imgchest.com/files/094484f68235.png"],
 			thumbnail: "https://cdn.imgchest.com/files/f7f491283b0c.png",
 			title: "Wonder Duo",
