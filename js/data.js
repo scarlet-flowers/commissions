@@ -155,6 +155,17 @@ var data = {
 			hidden: false
 		},						
 		{
+			src: ["https://cdn.imgchest.com/files/5648e5cc306b.png"],
+			thumbnail: "https://cdn.imgchest.com/files/1ee84b4e5be6.png",
+			title: "Found You",
+			artist: "aiueOKOSO",
+			artist_url: "https://x.com/aiueOKOSO",
+			desc: "A what-if scenario in Askr where Validar encounters the 'vessel' that had escaped from him all those years ago. But with Chrom at her side and Lucina at his back, Validar won't be getting his way.",
+			date_str: "July 2025",
+			tags: ["Fire Emblem", "Validar", "Chrom", "Female Robin", "Lucina", "Exalt Family"],
+			hidden: false
+		},					
+		{
 			src: ["https://cdn.imgchest.com/files/e38f05d46308.png"],
 			thumbnail: "https://cdn.imgchest.com/files/87c7456b23c2.png",
 			title: "Violet Family Picnic",
@@ -360,8 +371,19 @@ var data = {
 			desc: "A commission depicting Fallen Morgan grappling with his two bloodlines. It was a big honor to get a commission from Neighbourh himself.",
 			date_str: "June 2023",
 			tags: ["Fire Emblem", "Male Morgan"],
-			hidden: true
+			hidden: false
 		},		
+		{
+			src: ["https://cdn.imgchest.com/files/b0fe68c3439d.jpg", "https://cdn.imgchest.com/files/918846b92cea.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/4279de011d7c.png",
+			title: "Hot Springs Lucina",
+			artist: "GzeiDraws",
+			artist_url: "https://bsky.app/profile/gzeidraws.bsky.social",
+			desc: "A gift that I got for Yoostink as a thank you for the Trujek art. Since he loves chocolate milk, I requested for Lucina to be drinking chocolate milk at the hot springs. And next to her is either a tiny wooden mother (as I love also getting gifts for myself, haha) or a tiny wooden husband.",
+			date_str: "January 2023",
+			tags: ["Fire Emblem", "Lucina"],
+			hidden: false
+		},				
 		{
 			src: ["https://cdn.imgchest.com/files/aa315f01a865.png"],
 			thumbnail: "https://cdn.imgchest.com/files/b74f43de87ca.png",
@@ -371,7 +393,7 @@ var data = {
 			desc: "A simple request I made of Lucina in a ponytail and Robin's undershirt.",
 			date_str: "January 2023",
 			tags: ["Fire Emblem", "Lucina", "Request"],
-			hidden: true
+			hidden: false
 		},				
 		{
 			src: ["https://cdn.imgchest.com/files/47579acaf4bf.png"],
@@ -712,7 +734,7 @@ var data = {
 			desc: "As a major Vanan'Ice fan, it was a dream come true to get to see Chrom and Robin drawn by the HaruAki, especially since I was unsure if she would take non-OC requests. Naturally, I had to request them dressed as Kaito and Len from 'IMITATION Black,' as who else would know these outfits better than HaruAki herself? Definitely one of my absolute favorite commissions ever.",
 			date_str: "July 2021",
 			tags: ["Fire Emblem", "Chrom", "Female Robin", "Chrobin", "Vocaloid"],
-			hidden: true
+			hidden: false
 		},		
 		{
 			src: ["https://cdn.imgchest.com/files/627af6568ee9.png"],
@@ -1141,7 +1163,7 @@ var data = {
 			desc: "A birthday gift from my friend, José! I love how happy she looks.",
 			date_str: "September 2025",
 			tags: ["Fire Emblem", "Female Robin", "Gift"],
-			hidden: true
+			hidden: false
 		},				
 		{
 			src: ["https://cdn.imgchest.com/files/4b30fd289ee4.png"],
