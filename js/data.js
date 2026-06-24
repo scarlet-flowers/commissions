@@ -20,6 +20,17 @@ var data = {
 			desc: "",
 			date_str: "",
 			tags: [""],
+			hidden: true
+		},				
+		{
+			src: ["https://cdn.imgchest.com/files/759631e10f42.png"],
+			thumbnail: "https://cdn.imgchest.com/files/154fc82e3f8b.png",
+			title: "Ylissean Queen Robin Icon",
+			artist: "FlamingoPunch",
+			artist_url: "https://x.com/flamingopunch",
+			desc: "An icon commission of my Ylissean Queen Robin design. Irises were selected for the floral background because of the Japanese name for Ylisse being 'Iris.'",
+			date_str: "May 2026",
+			tags: ["Fire Emblem", "Female Robin"],
 			hidden: false
 		},				
 		{
@@ -396,6 +407,39 @@ var data = {
 			hidden: false
 		},			
 		{
+			src: ["https://cdn.imgchest.com/files/84805b23c3d7.png"],
+			thumbnail: "",
+			title: "Father's Day",
+			artist: "NicoTopin",
+			artist_url: "https://x.com/Nico_squitter",
+			desc: "A piece celebrating Father's Day, featuring Chrom and his son (and his son but going through a rebellious phase).",
+			date_str: "June 2022",
+			tags: ["Fire Emblem", "Chrom", "Male Morgan", "Exalt Family"],
+			hidden: false
+		},				
+		{
+			src: ["https://cdn.imgchest.com/files/6b3b8e363c53.png"],
+			thumbnail: "",
+			title: "Mother's Day",
+			artist: "NicoTopin",
+			artist_url: "https://x.com/Nico_squitter",
+			desc: "A piece celebrating Mother's Day, featuring Lucina and her mom (and her mom but evil).",
+			date_str: "May 2022",
+			tags: ["Fire Emblem", "Female Robin", "Lucina", "Grima", "Exalt Family"],
+			hidden: false
+		},				
+		{
+			src: ["https://cdn.imgchest.com/files/8ca8e87329cd.png"],
+			thumbnail: "https://cdn.imgchest.com/files/cf70e54028bc.png",
+			title: "Weapon Refinery",
+			artist: "Mnejing",
+			artist_url: "https://x.com/Mnejing30",
+			desc: "A Patreon request for a sketch of Lucina and Morgan celebrating their weapon refines. I wanted to highlight that both of them share a Plegian effect, which is just more fuel for my Chrobin agenda, haha.",
+			date_str: "March 2022",
+			tags: ["Fire Emblem", "Lucina", "Male Morgan", "Exalt Family"],
+			hidden: false
+		},			
+		{
 			src: ["https://cdn.imgchest.com/files/944c740bb7bc.JPG", "https://cdn.imgchest.com/files/eac6dd472d7d.JPG"],
 			thumbnail: "https://cdn.imgchest.com/files/9c03a2dd890d.png",
 			title: "Sweet Dreams",
@@ -439,6 +483,17 @@ var data = {
 			tags: ["Fire Emblem", "Virion", "Olivia", "Viriolivia"],
 			hidden: false
 		},						
+		{
+			src: ["https://cdn.imgchest.com/files/3c8fd4d04c5a.png"],
+			thumbnail: "https://cdn.imgchest.com/files/942c6261092b.png",
+			title: "CNY Robin",
+			artist: "B_PearlWhite",
+			artist_url: "https://x.com/B_PearlWhite",
+			desc: "Grah, I LOVE putting my favorite characters in my cultural clothing! Robin is celebrating Chinese New Year in style, with Grima as the Chinese dragon. And in the background, instead of the character for fortune (福), I had the Japanese characters for the Chrobin ship name (クロルフ). I had actually marked this Skeb to be private because I wanted to wait until Chinese New Year to post it, but then B_PearlWhite had posted it to their Twitter anyways lol. I don't care, I'm marking the date as February anyways!",
+			date_str: "February 2022",
+			tags: ["Fire Emblem", "Female Robin"],
+			hidden: false
+		},				
 		{
 			src: ["https://cdn.imgchest.com/files/df8f198bc12e.png"],
 			thumbnail: "https://cdn.imgchest.com/files/5f5c2afc566c.png",
@@ -515,18 +570,7 @@ var data = {
 			date_str: "January 2022",
 			tags: ["Fire Emblem", "Chrom", "Female Robin", "Chrobin"],
 			hidden: false
-		},				
-		{
-			src: ["https://cdn.imgchest.com/files/3c8fd4d04c5a.png"],
-			thumbnail: "https://cdn.imgchest.com/files/942c6261092b.png",
-			title: "CNY Robin",
-			artist: "B_PearlWhite",
-			artist_url: "https://x.com/B_PearlWhite",
-			desc: "Grah, I LOVE putting my favorite characters in my cultural clothing! Robin is celebrating Chinese New Year in style, with Grima as the Chinese dragon. And in the background, instead of the character for fortune (福), I had the Japanese characters for the Chrobin ship name (クロルフ). I had actually marked this Skeb to be private because I wanted to wait until Chinese New Year to post it, but then B_PearlWhite had posted it to their Twitter anyways lol. I don't care, I'm marking the date as February anyways!",
-			date_str: "February 2022",
-			tags: ["Fire Emblem", "Female Robin"],
-			hidden: false
-		},				
+		},						
 		{
 			src: ["https://cdn.imgchest.com/files/77ed2497832d.png", "https://cdn.imgchest.com/files/36fc473fc84f.png", "https://cdn.imgchest.com/files/86a94f3426d8.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/9256509a0e5e.png",
