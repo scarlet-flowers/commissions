@@ -493,7 +493,29 @@ var data = {
 			date_str: "July 2022",
 			tags: ["Fire Emblem", "Chrom", "Female Robin", "Chrobin", "Adventure Time"],
 			hidden: false
-		},			
+		},						
+		{
+			src: ["https://cdn.imgchest.com/files/ad0509ba447a.png"],
+			thumbnail: "https://cdn.imgchest.com/files/ef54e974bced.png",
+			title: "With Grandpa Validar",
+			artist: "Trunswicked",
+			artist_url: "https://bsky.app/profile/trunswicked.bsky.social",
+			desc: "A YCH commission. It's meant to be your FEH team with your summoner in the center, but I opted for Validar and his grandchildren instead. All of them have a weapon with some sort of Plegian effect in them, courtesy of grandpa's influence (lol).",
+			date_str: "June 2022",
+			tags: ["Fire Emblem", "Validar", "Lucina", "Cynthia", "Male Morgan", "Female Morgan", "Exalt Family", "Violet Family"],
+			hidden: false
+		},						
+		{
+			src: ["https://cdn.imgchest.com/files/d8659019793f.png"],
+			thumbnail: "https://cdn.imgchest.com/files/154444066f86.png",
+			title: "Submit to Grima",
+			artist: "Squiddlybopbop",
+			artist_url: "https://x.com/squiddlybopbop",
+			desc: "This piece had was actually already in the works by Squiddly but was going to just remain an uncompleted WIP until I paid for it to be finished. I love the Ursula-like vibes that Grima has, and the gorgeous paint style. Definitely the most unconventional 'commission' I've ever done.",
+			date_str: "May 2022",
+			tags: ["Fire Emblem", "Chrom", "Female Robin", "Grima", "Chrobin"],
+			hidden: false
+		},					
 		{
 			src: ["https://cdn.imgchest.com/files/84805b23c3d7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/a14acb2dc136.png",
