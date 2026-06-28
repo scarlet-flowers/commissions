@@ -21,7 +21,7 @@ var data = {
 			date_str: "",
 			tags: [""],
 			hidden: true
-		},				
+		},			
 		{
 			src: ["https://cdn.imgchest.com/files/759631e10f42.png"],
 			thumbnail: "https://cdn.imgchest.com/files/154fc82e3f8b.png",
@@ -139,7 +139,7 @@ var data = {
 			artist: "Evomanaphy",
 			artist_url: "https://x.com/EvomanaphyArt",
 			desc: "Done as a request for CYL10. Combined my request with Lamprey's to have Chrom and Robin do heart hands.",
-			date_str: "February 2022",
+			date_str: "February 2026",
 			tags: ["Fire Emblem", "Chrom", "Female Robin", "Chrobin", "Request"],
 			hidden: false
 		},				
@@ -481,6 +481,17 @@ var data = {
 			desc: "Evil white-haired deity falls for a divine blue-haired himbo? More likely than you think. Had to combine my two favorite FE families together since their parallels are too obvious to ignore.",
 			date_str: "December 2022",
 			tags: ["Fire Emblem", "Chrom", "Female Robin", "Lucina", "Male Morgan", "Exalt Family"],
+			hidden: false
+		},		
+		{
+			src: ["https://cdn.imgchest.com/files/43f287cbdb38.png"],
+			thumbnail: "https://cdn.imgchest.com/files/f2cc7cc28ed7.png",
+			title: "The Shepherd",
+			artist: "Phe",
+			artist_url: "https://x.com/almostphe",
+			desc: "Given that Chrom is the captain of the Shepherds, it only felt fitting to cross him over with my other favorite Shepherd. And of course, Robin also here as the adorable Mikleo plush riding along on his shoulder.",
+			date_str: "December 2022",
+			tags: ["Fire Emblem", "Chrom", "Female Robin", "Chrobin", "Tales of Zestiria"],
 			hidden: false
 		},				
 		{
