@@ -495,6 +495,39 @@ var data = {
 			hidden: false
 		},				
 		{
+			src: ["https://cdn.imgchest.com/files/e3a433f30188.png"],
+			thumbnail: "https://cdn.imgchest.com/files/6c070edea8e4.png",
+			title: "Modern Virion and Olivia",
+			artist: "Shugo",
+			artist_url: "https://x.com/hiomaika",
+			desc: "Naturally, even in a modern AU, Olivia would be a dancer and performer! After a wonderful performance as Satine in Moulin Rouge, she's met backstage by her fiancé with a gorgeous bouquet of flowers. As the CEO of a fabric supply chain, Virion is not one to spare any expense for his loved ones.",
+			date_str: "August 2022",
+			tags: ["Fire Emblem", "virion", "Olivia", "Viriolivia", "Modern AU"],
+			hidden: false
+		},	
+		{
+			src: ["https://cdn.imgchest.com/files/cf7dd31ed89d.png"],
+			thumbnail: "https://cdn.imgchest.com/files/8061f049d16f.png",
+			title: "Modern Reflet and Sumia",
+			artist: "Shugo",
+			artist_url: "https://x.com/hiomaika",
+			desc: "In this AU, the Robins are twins, with male Robin being referred to as Reflet. Reflet is a sports manager who has just signed on with Chrom as his new player, and it was thanks to his recommendation that Reflet has found himself at the 'Flower Fortune' store, face-to-face with the cute florist there.",
+			date_str: "August 2022",
+			tags: ["Fire Emblem", "Male Robin", "Sumia", "Robmia", "Modern AU"],
+			hidden: false
+		},	
+		{
+			src: ["https://cdn.imgchest.com/files/bfcf5e19a903.png"],
+			thumbnail: "https://cdn.imgchest.com/files/26baab069c27.png",
+			title: "Modern Chrom and Robin",
+			artist: "Shugo",
+			artist_url: "https://x.com/hiomaika",
+			desc: "The first commission in my modern AU series! Here, Chrom is a professional tennis player and Robin is a corporate lawyer (reluctantly) working for her father's company. The clothes they're wearing are from Emmeryn and Validar's fashion lines, respectively, which is a big component in the story. And this scene actually depicts their second meeting, as their first meeting was Robin falling asleep on Chrom's shoulder, hehe.",
+			date_str: "August 2022",
+			tags: ["Fire Emblem", "Chrom", "Female Robin", "Chrobin", "Modern AU"],
+			hidden: false
+		},			
+		{
 			src: ["https://cdn.imgchest.com/files/d732b9458321.png"],
 			thumbnail: "https://cdn.imgchest.com/files/72e97c43de71.png",
 			title: "Chrobin as Bubbline",
