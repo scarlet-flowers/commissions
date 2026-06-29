@@ -570,7 +570,18 @@ var data = {
 			date_str: "July 2022",
 			tags: ["Fire Emblem", "Chrom", "Female Robin", "Chrobin", "Adventure Time"],
 			hidden: false
-		},						
+		},			
+		{
+			src: ["https://cdn.imgchest.com/files/c990d89d8841.png"],
+			thumbnail: "https://cdn.imgchest.com/files/0cb0e6a853b4.png",
+			title: "S&M Society",
+			artist: "JanitorBot",
+			artist_url: "https://x.com/JanitorBot",
+			desc: "A fun little comic playing off of Severa and Brady's supports. A horrified Cordelia made them change the name, by the way.",
+			date_str: "May 2022",
+			tags: ["Fire Emblem", "Owain", "Cynthia", "Male Morgan", "Lucina", "Gerome", "Inigo", "Severa", "Female Morgan", "Comic"],
+			hidden: false
+		},				
 		{
 			src: ["https://cdn.imgchest.com/files/ad0509ba447a.png"],
 			thumbnail: "https://cdn.imgchest.com/files/ef54e974bced.png",
