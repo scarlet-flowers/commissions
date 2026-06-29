@@ -495,6 +495,39 @@ var data = {
 			hidden: false
 		},				
 		{
+			src: ["https://cdn.imgchest.com/files/f35643403ae4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/dc8438a9c34c.png",
+			title: "Modern Frederick and Cherche",
+			artist: "Shugo",
+			artist_url: "https://x.com/hiomaika",
+			desc: "While waiting outside for a business meeting between Emmeryn and Virion to conclude, their bodyguards decided to make chitchat to pass the time. And while Frederick is thrilled to have met such a likeminded person, he's not as enthusiastic about Chrom and Lissa's teasing.",
+			date_str: "September 2022",
+			tags: ["Fire Emblem", "Frederick", "Cherche", "Chercherick", "Modern AU"],
+			hidden: false
+		},					
+		{
+			src: ["https://cdn.imgchest.com/files/499626b338ab.png"],
+			thumbnail: "https://cdn.imgchest.com/files/8b9ea4b668e0.png",
+			title: "Modern Gaius and Cordelia",
+			artist: "Shugo",
+			artist_url: "https://x.com/hiomaika",
+			desc: "As a professional wedding planner, Cordelia has naturally also planned out every detail of her own wedding. The only detail she has yet to iron out is who the groom will be. Although she's always hoped that it would be Chrom, she's finding that the silver-tongued patisserie has been occupying more and more of her thoughts lately...",
+			date_str: "September 2022",
+			tags: ["Fire Emblem", "Gaius", "Cordelia", "Gaiusdelia", "Modern AU"],
+			hidden: false
+		},	
+		{
+			src: ["https://cdn.imgchest.com/files/e8a6819da26b.png"],
+			thumbnail: "https://cdn.imgchest.com/files/2d5f3dd3ae0a.png",
+			title: "Modern Vaike and Lissa",
+			artist: "Shugo",
+			artist_url: "https://x.com/hiomaika",
+			desc: "Vaike's always a little reckless on the tennis court, especially when Chrom's his opponent. Luckily, his girlfriend is a trained nurse and there to patch him up, although in exchange he has to face an earful from her each time.",
+			date_str: "August 2022",
+			tags: ["Fire Emblem", "Vaike", "Lissa", "Vaikessa", "Modern AU"],			
+			hidden: false
+		},			
+		{
 			src: ["https://cdn.imgchest.com/files/e3a433f30188.png"],
 			thumbnail: "https://cdn.imgchest.com/files/6c070edea8e4.png",
 			title: "Modern Virion and Olivia",
