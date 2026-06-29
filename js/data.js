@@ -493,7 +493,18 @@ var data = {
 			date_str: "December 2022",
 			tags: ["Fire Emblem", "Chrom", "Female Robin", "Chrobin", "Tales of Zestiria"],
 			hidden: false
-		},				
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/8143b8187085.png"],
+			thumbnail: "https://cdn.imgchest.com/files/c8c97db6edd2.png",
+			title: "Knight in Training",
+			artist: "Memoon",
+			artist_url: "https://x.com/Moonzkt498",
+			desc: "A commission of Caeldori meeting her pegasus for the first time, with her parents by her side.",
+			date_str: "September 2022",
+			tags: ["Fire Emblem", "Male Morgan", "Severa", "Caeldori", "Sevimorgan"],
+			hidden: true
+		},					
 		{
 			src: ["https://cdn.imgchest.com/files/f35643403ae4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/dc8438a9c34c.png",
