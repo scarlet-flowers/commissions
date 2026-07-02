@@ -385,16 +385,16 @@ var data = {
 			hidden: false
 		},			
 		{
-			src: ["https://cdn.imgchest.com/files/908c4bfca181.png"],
-			thumbnail: "https://cdn.imgchest.com/files/c75c5bd0e550.png",
-			title: "Modern Gerome and Morgan",
+			src: ["https://cdn.imgchest.com/files/eef0f471d87e.png"],
+			thumbnail: "https://cdn.imgchest.com/files/20aaad3dd15b.png",
+			title: "Modern Lucina and Inigo",
 			artist: "Shugo",
 			artist_url: "https://x.com/hiomaika",
-			desc: "A joint commission with Lamprey of Gerome and Morgan on the train ride home. Morgan is never one to miss an opportunity for a bit of mischief, especially if it involves finally getting a cutesy picture with Mr. Grumpypants. That photo was one of her most liked posts to date, much to Gerome's chagrin.",
+			desc: "A joint commission with Lamprey of Student President Lucina and Vice President Inigo. Lucina is hard at work, as always, but Inigo is there to provide her with a nice tea break. As a fun bonus, one of the posters in the background is of Shadow Dragon, the play that the drama club will be putting on. The other one is my own reference sheet for their school uniforms.",
 			date_str: "September 2024",
-			tags: ["Fire Emblem", "Gerome", "Female Morgan", "Geromorgan", "Modern AU", "Collab"],
+			tags: ["Fire Emblem", "Inigo", "Lucina", "Lucinigo", "Modern AU", "Collab"],
 			hidden: false
-		},							
+		},			
 		{
 			src: ["https://cdn.imgchest.com/files/c0e20a9fd19a.png", "https://cdn.imgchest.com/files/27737ba1d95b.png"],
 			thumbnail: "https://cdn.imgchest.com/files/9e527ba23990.png",
