@@ -440,6 +440,39 @@ var data = {
 			hidden: false
 		},		
 		{
+			src: [""],
+			thumbnail: "https://cdn.imgchest.com/files/099d1ae61657.png",
+			title: "Limited Durability Falchion...?",
+			artist: "Ivan Shinoda",
+			artist_url: "https://x.com/ivanshinoda10",
+			desc: "A comic commissioned for April Fools!",
+			date_str: "April 2023",
+			tags: ["Fire Emblem", "Lucina", "Male Morgan", "Exalt Family", "Comic"],
+			hidden: false
+		},		
+		{
+			src: ["https://cdn.imgchest.com/files/c97a5fb8dfd0.png"],
+			thumbnail: "https://cdn.imgchest.com/files/1f8cb9534c1a.png",
+			title: "Inherited Duty",
+			artist: "Shan",
+			artist_url: "https://x.com/shan0732",
+			desc: "A piece showing off one of my personal favorite headcanons thanks to the pairings I did in the game. Being the son of Frederick and Cherche, two retainers that are dedicated to their lords, Gerome would naturally take on that role as well for Inigo and Lucina.",
+			date_str: "March 2023",
+			tags: ["Fire Emblem", "Cherche", "Virion", "Chrom", "Frederick", "Gerome", "Lucina", "Inigo"],
+			hidden: false
+		},				
+		{
+			src: ["https://cdn.imgchest.com/files/6a757fdd89ce.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/3491bc235c14.png",
+			title: "Chrobin as Huntlow",
+			artist: "Weeabro_art",
+			artist_url: "https://x.com/weeabro_art",
+			desc: "A cute piece of Chrom and Robin as Hunter and Willow from The Owl House. Chrom is wearing Hunter's Golden Guard outfit, while Robin is wearing Willow's Halloween outfit. Weeabro referred to Chrom as a 'golden retriever' and I can't help but agree, haha.",
+			date_str: "February 2023",
+			tags: ["Fire Emblem", "Chrom", "Female Robin", "Chrobin", "The Owl House"],
+			hidden: false
+		},		
+		{
 			src: ["https://cdn.imgchest.com/files/b0fe68c3439d.jpg", "https://cdn.imgchest.com/files/918846b92cea.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/4279de011d7c.png",
 			title: "Hot Springs Lucina",
