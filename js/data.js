@@ -254,6 +254,28 @@ var data = {
 			hidden: false
 		},			
 		{
+			src: ["https://cdn.imgchest.com/files/3d701a2d3cbc.png"],
+			thumbnail: "https://cdn.imgchest.com/files/9abe232f7f2a.png",
+			title: "Down Boy!",
+			artist: "Alonemistrist",
+			artist_url: "https://x.com/alonemistrist",
+			desc: "I'm not usually one for meme redraws, but I couldn't resist this one because I loved how dynamic it looked. I picked Summer Robin and Spring Chrom for this since I love pairing off these two together.",
+			date_str: "March 2025",
+			tags: ["Fire Emblem", "Chrom", "Female Robin", "Chrobin"],
+			hidden: false
+		},						
+		{
+			src: ["https://cdn.imgchest.com/files/f63d6e0f9e71.png"],
+			thumbnail: "https://cdn.imgchest.com/files/5a6575547854.png",
+			title: "Fire and Ice",
+			artist: "GoodLuckJoy",
+			artist_url: "https://x.com/_goodluckjoy",
+			desc: "A commission of Nifl F!Morgan and Muspell M!Morgan. Their pose is actually based on Rin and Len's V4x art as well, because I can't resist referencing my favorite 'loids.",
+			date_str: "March 2025",
+			tags: ["Fire Emblem", "Male Morgan", "Female Morgan"],
+			hidden: false
+		},					
+		{
 			src: ["https://cdn.imgchest.com/files/2474215042bf.png"],
 			thumbnail: "https://cdn.imgchest.com/files/6c9baa459ebc.png",
 			title: "Returning to the Past",
@@ -440,7 +462,18 @@ var data = {
 			hidden: false
 		},		
 		{
-			src: [""],
+			src: ["https://cdn.imgchest.com/files/d68c7241f45f.png"],
+			thumbnail: "https://cdn.imgchest.com/files/fc2aab658211.png",
+			title: "Turf War",
+			artist: "GOMA",
+			artist_url: "https://x.com/GOMA_yammy",
+			desc: "A commission of Lucina and Morgan as inkling-octoling hybrids (since I hc Robin as an octoling and Chrom as an inkling). Their outfits are based on in-game clothing, with a bit of color adjustments to match their palettes better. I also gave them the Inkbrush and Dualie Squelchers because those were my main weapons in the game.",
+			date_str: "May 2023",
+			tags: ["Fire Emblem", "Lucina", "Male Morgan", "Splatoon"],
+			hidden: false
+		},			
+		{
+			src: ["https://cdn.imgchest.com/files/ac65b8eec4bb.png"],
 			thumbnail: "https://cdn.imgchest.com/files/099d1ae61657.png",
 			title: "Limited Durability Falchion...?",
 			artist: "Ivan Shinoda",
