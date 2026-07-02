@@ -401,7 +401,7 @@ var data = {
 			title: "Modern Owain and Cynthia",
 			artist: "Shugo",
 			artist_url: "https://x.com/hiomaika",
-			desc: "A joint commission with Lamprey of Owain and Cynthia practicing for their upcoming play. You know that these two had to be drama club kids, of course. They can get a little too enthuastic with those wooden swords, though.",
+			desc: "A joint commission with Lamprey of Owain and Cynthia practicing for their upcoming play. You know that these two had to be drama club kids, of course. They can get a little too enthusiastic with those wooden swords, though.",
 			date_str: "September 2024",
 			tags: ["Fire Emblem", "Owain", "Cynthia", "Owanthia", "Modern AU", "Collab"],
 			hidden: false
@@ -412,11 +412,11 @@ var data = {
 			title: "Modern Severa and Marc",
 			artist: "Shugo",
 			artist_url: "https://x.com/hiomaika",
-			desc: "A joint commission with Lamprey of Severa and Marc at their school's sports festival. Severa is in the middle of the borrowing race, and it seems that whatever item she has to retrieve has something to do with Marc. But what ever could it be...? And as a fun bonus, the book that Marc is reading is the Ribald Tales of the Faith Wars.",
+			desc: "A joint commission with Lamprey of Severa and Marc at their school's sports festival. Severa is in the middle of the borrowing race, and it seems that whatever item she has to retrieve has something to do with Marc. But what ever could it be? And as a fun bonus, the book that Marc is reading is the Ribald Tales of the Faith Wars.",
 			date_str: "September 2024",
-			tags: ["Fire Emblem", "Male Morgan", "Severa", "Sevimorgan" "Modern AU", "Collab"],
+			tags: ["Fire Emblem", "Male Morgan", "Severa", "Sevimorgan", "Modern AU", "Collab"],
 			hidden: false
-		},		
+		},			
 		{
 			src: ["https://cdn.imgchest.com/files/eef0f471d87e.png"],
 			thumbnail: "https://cdn.imgchest.com/files/20aaad3dd15b.png",
