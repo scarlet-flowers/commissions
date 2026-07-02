@@ -383,7 +383,51 @@ var data = {
 			date_str: "October 2024",
 			tags: ["Fire Emblem", "Chrom", "Female Robin", "Ike", "Soren", "Chrobin", "Ikesoren"],
 			hidden: false
+		},			
+		{
+			src: ["https://cdn.imgchest.com/files/908c4bfca181.png"],
+			thumbnail: "https://cdn.imgchest.com/files/c75c5bd0e550.png",
+			title: "Modern Gerome and Morgan",
+			artist: "Shugo",
+			artist_url: "https://x.com/hiomaika",
+			desc: "A joint commission with Lamprey of Gerome and Morgan on the train ride home. Morgan is never one to miss an opportunity for a bit of mischief, especially if it involves finally getting a cutesy picture with Mr. Grumpypants. That photo was one of her most liked posts to date, much to Gerome's chagrin.",
+			date_str: "September 2024",
+			tags: ["Fire Emblem", "Gerome", "Female Morgan", "Geromorgan", "Modern AU", "Collab"],
+			hidden: false
 		},					
+		{
+			src: ["https://cdn.imgchest.com/files/5136f9fa04c8.png"],
+			thumbnail: "https://cdn.imgchest.com/files/85dbe179a42e.png",
+			title: "Modern Owain and Cynthia",
+			artist: "Shugo",
+			artist_url: "https://x.com/hiomaika",
+			desc: "A joint commission with Lamprey of Owain and Cynthia practicing for their upcoming play. You know that these two had to be drama club kids, of course. They can get a little too enthuastic with those wooden swords, though.",
+			date_str: "September 2024",
+			tags: ["Fire Emblem", "Owain", "Cynthia", "Owanthia", "Modern AU", "Collab"],
+			hidden: false
+		},					
+		{
+			src: ["https://cdn.imgchest.com/files/a4ddb8591be7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/db376770b2b5.png",
+			title: "Modern Severa and Marc",
+			artist: "Shugo",
+			artist_url: "https://x.com/hiomaika",
+			desc: "A joint commission with Lamprey of Severa and Marc at their school's sports festival. Severa is in the middle of the borrowing race, and it seems that whatever item she has to retrieve has something to do with Marc. But what ever could it be...? And as a fun bonus, the book that Marc is reading is the 'Ribald Tales of the Faith Wars.'",
+			date_str: "September 2024",
+			tags: ["Fire Emblem", "Male Morgan", "Severa", "Sevimorgan" "Modern AU", "Collab"],
+			hidden: false
+		},						
+		{
+			src: ["https://cdn.imgchest.com/files/eef0f471d87e.png"],
+			thumbnail: "https://cdn.imgchest.com/files/20aaad3dd15b.png",
+			title: "Modern Lucina and Inigo",
+			artist: "Shugo",
+			artist_url: "https://x.com/hiomaika",
+			desc: "A joint commission with Lamprey of Student President Lucina and Vice President Inigo. Lucina is hard at work, as always, but Inigo is there to provide her with a nice tea break. As a fun bonus, one of the posters in the background is of Shadow Dragon, the 'play' that the drama club will be putting on. The other one is my own reference sheet for their school uniforms.",
+			date_str: "September 2024",
+			tags: ["Fire Emblem", "Inigo", "Lucina", "Lucinigo", "Modern AU", "Collab"],
+			hidden: false
+		},			
 		{
 			src: ["https://cdn.imgchest.com/files/c0e20a9fd19a.png", "https://cdn.imgchest.com/files/27737ba1d95b.png"],
 			thumbnail: "https://cdn.imgchest.com/files/9e527ba23990.png",
