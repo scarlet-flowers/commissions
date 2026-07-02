@@ -254,6 +254,17 @@ var data = {
 			hidden: false
 		},			
 		{
+			src: ["https://cdn.imgchest.com/files/568b90649fe9.png"],
+			thumbnail: "https://cdn.imgchest.com/files/17f59def1e0c.png",
+			title: "A Rainy Day",
+			artist: "Shugo",
+			artist_url: "https://x.com/hiomaika",
+			desc: "This one is actually not my commission but Lamprey's (who gave me permission to post here on my website). A cute piece of Marc and Severa walking home together in the rain. I especially love the little Marth and Caeda charms that they two have hanging off their bags.",
+			date_str: "March 2025",
+			tags: ["Fire Emblem", "Male Morgan", "Severa", "Sevimorgan", "Modern AU", "Collab"],
+			hidden: false
+		},							
+		{
 			src: ["https://cdn.imgchest.com/files/3d701a2d3cbc.png"],
 			thumbnail: "https://cdn.imgchest.com/files/9abe232f7f2a.png",
 			title: "Down Boy!",
@@ -371,6 +382,50 @@ var data = {
 			desc: "A birthday gift for my friend, Silent, but secretly it was also a gift for myself, teehee. The Muspell lords and their Hel tacticians have taken a trip to Hel and are sampling the 'local cuisine' there. While Chrom seems a little skeptical of this bear meat, Robin and Ike are digging in with gusto. As for Soren? He's had worse.",
 			date_str: "October 2024",
 			tags: ["Fire Emblem", "Chrom", "Female Robin", "Ike", "Soren", "Chrobin", "Ikesoren"],
+			hidden: false
+		},	
+		{
+			src: ["https://cdn.imgchest.com/files/908c4bfca181.png"],
+			thumbnail: "https://cdn.imgchest.com/files/c75c5bd0e550.png",
+			title: "Modern Gerome and Morgan",
+			artist: "Shugo",
+			artist_url: "https://x.com/hiomaika",
+			desc: "A joint commission with Lamprey of Gerome and Morgan on the train ride home. Morgan is never one to miss an opportunity for a bit of mischief, especially if it involves finally getting a cutesy picture with Mr. Grumpypants. That photo was one of her most liked posts to date, much to Gerome's chagrin.",
+			date_str: "September 2024",
+			tags: ["Fire Emblem", "Gerome", "Female Morgan", "Geromorgan", "Modern AU", "Collab"],
+			hidden: false
+		},					
+		{
+			src: ["https://cdn.imgchest.com/files/5136f9fa04c8.png"],
+			thumbnail: "https://cdn.imgchest.com/files/85dbe179a42e.png",
+			title: "Modern Owain and Cynthia",
+			artist: "Shugo",
+			artist_url: "https://x.com/hiomaika",
+			desc: "A joint commission with Lamprey of Owain and Cynthia practicing for their upcoming play. You know that these two had to be drama club kids, of course.",
+			date_str: "September 2024",
+			tags: ["Fire Emblem", "Owain", "Cynthia", "Owanthia", "Modern AU", "Collab"],
+			hidden: false
+		},					
+		{
+			src: ["https://cdn.imgchest.com/files/a4ddb8591be7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/db376770b2b5.png",
+			title: "Modern Severa and Marc",
+			artist: "Shugo",
+			artist_url: "https://x.com/hiomaika",
+			desc: "A joint commission with Lamprey of Severa and Marc at their school's sports festival. Severa is in the middle of the borrowing race, and it seems that whatever item she has to retrieve has something to do with Marc. But what ever could it be...? And as a fun bonus, the book that Marc is reading is the 'Ribald Tales of the Faith Wars.'",
+			date_str: "September 2024",
+			tags: ["Fire Emblem", "Male Morgan", "Severa", "Sevimorgan" "Modern AU", "Collab"],
+			hidden: false
+		},						
+		{
+			src: ["https://cdn.imgchest.com/files/eef0f471d87e.png"],
+			thumbnail: "https://cdn.imgchest.com/files/20aaad3dd15b.png",
+			title: "Modern Lucina and Inigo",
+			artist: "Shugo",
+			artist_url: "https://x.com/hiomaika",
+			desc: "A joint commission with Lamprey of Student President Lucina and Vice President Inigo. Lucina is hard at work, as always, but Inigo is there to provide her with a nice tea break. As a fun bonus, one of the posters in the background is of Shadow Dragon, the 'play' that the drama club will be putting on. The other one is my own reference sheet for their school uniforms.",
+			date_str: "September 2024",
+			tags: ["Fire Emblem", "Inigo", "Lucina", "Lucinigo", "Modern AU", "Collab"],
 			hidden: false
 		},					
 		{
@@ -1231,6 +1286,17 @@ var data = {
 			tags: ["Fire Emblem", "Severa", "Male Morgan", "Sevimorgan"],
 			hidden: false
 		},		
+		{
+			src: ["https://cdn.imgchest.com/files/ec75c17b9b30.png"],
+			thumbnail: "https://cdn.imgchest.com/files/3a5df7c841d1.png",
+			title: "Summer Robin and Spring Chrom Request",
+			artist: "KnightofIris",
+			artist_url: "https://www.tumblr.com/knightofiris",
+			desc: "A request I had made on Tumblr for cute art of Summer Robin and Spring Chrom. Figured I might as well include it here for the sake of completion.",
+			date_str: "July 2017",
+			tags: ["Fire Emblem", "Chrom", "Female Robin", "Chrobin", "Request"],
+			hidden: false
+		},				
 		{
 			src: ["https://cdn.imgchest.com/files/80989f8549d0.png"],
 			thumbnail: "https://cdn.imgchest.com/files/aa2871bf95df.png",
