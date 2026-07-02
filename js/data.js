@@ -259,7 +259,7 @@ var data = {
 			title: "A Rainy Day",
 			artist: "Shugo",
 			artist_url: "https://x.com/hiomaika",
-			desc: "This one is actually not my commission but Lamprey's (who gave me permission to post here on my website). A cute piece of Marc and Severa walking home together in the rain. I especially love the little Marth and Caeda charms that they two have hanging off their bags.",
+			desc: "This one is actually not my commission but Lamprey's, who gave me permission to post here on my website. It shows Marc and Severa walking home together in the rain. I especially love the little Marth and Caeda charms that they two have hanging off their bags.",
 			date_str: "March 2025",
 			tags: ["Fire Emblem", "Male Morgan", "Severa", "Sevimorgan", "Modern AU", "Collab"],
 			hidden: false
