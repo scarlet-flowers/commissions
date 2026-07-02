@@ -1285,17 +1285,6 @@ var data = {
 			date_str: "August 2020",
 			tags: ["Fire Emblem", "Severa", "Male Morgan", "Sevimorgan"],
 			hidden: false
-		},		
-		{
-			src: ["https://cdn.imgchest.com/files/ec75c17b9b30.png"],
-			thumbnail: "https://cdn.imgchest.com/files/3a5df7c841d1.png",
-			title: "Summer Robin and Spring Chrom Request",
-			artist: "KnightofIris",
-			artist_url: "https://www.tumblr.com/knightofiris",
-			desc: "A request I had made on Tumblr for cute art of Summer Robin and Spring Chrom. Figured I might as well include it here for the sake of completion.",
-			date_str: "July 2017",
-			tags: ["Fire Emblem", "Chrom", "Female Robin", "Chrobin", "Request"],
-			hidden: false
 		},				
 		{
 			src: ["https://cdn.imgchest.com/files/80989f8549d0.png"],
