@@ -528,6 +528,28 @@ var data = {
 			hidden: false
 		},		
 		{
+			src: ["https://cdn.imgchest.com/files/4e9f62abef5b.png"],
+			thumbnail: "https://cdn.imgchest.com/files/78d263f60554.png",
+			title: "The Sword at my Side",
+			artist: "Stupjam",
+			artist_url: "https://x.com/stupjam",
+			desc: "I've always loved the parallels between the Chrobin S Support and the Lucinigo S Support, so I wanted to draw attention to it with this commission!",
+			date_str: "November 2023",
+			tags: ["Fire Emblem", "Lucina", "Inigo", "Lucinigo"],
+			hidden: false
+		},	
+		{
+			src: ["https://cdn.imgchest.com/files/af57a90f388f.png"],
+			thumbnail: "https://cdn.imgchest.com/files/c24c21fcf85b.png",
+			title: "Hoshidian Trio",
+			artist: "Korna",
+			artist_url: "https://x.com/K0rnaQ",
+			desc: "A what-if scenario in which Cynthia, Lucina, and Morgan are also whisked away to Fateslandia. Naturally, they would be in Hoshido instead of Nohr. I assigned Cynthia as a Sky Knight, Lucina as a Spear Fighter, and Morgan as a Diviner.",
+			date_str: "September 2023",
+			tags: ["Fire Emblem", "Owain", "Inigo", "Severa", "Cynthia", "Lucina", "Male Morgan", "Owainthia", "Lucinigo", "Sevimorgan"],
+			hidden: false
+		},				
+		{
 			src: ["https://cdn.imgchest.com/files/595ff336bd4c.png"],
 			thumbnail: "https://cdn.imgchest.com/files/551f203b141d.png",
 			title: "Sunny Side Up",
