@@ -517,6 +517,39 @@ var data = {
 			hidden: false
 		},		
 		{
+			src: ["https://cdn.imgchest.com/files/595ff336bd4c.png"],
+			thumbnail: "https://cdn.imgchest.com/files/551f203b141d.png",
+			title: "Sunny Side Up",
+			artist: "Wwitchii",
+			artist_url: "https://x.com/wwitchii_",
+			desc: "Like father, like son. From using Falchion as an apple slicer to using the Fire Emblem as a frying pan, no sacred relics are safe from their 'innovative' usage.",
+			date_str: "August 2023",
+			tags: ["Fire Emblem", "Chrom", "Male Morgan", "Exalt Family"],
+			hidden: false
+		},			
+		{
+			src: ["https://cdn.imgchest.com/files/02e123da4884.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/7693668d71ce.png",
+			title: "Life and Death",
+			artist: "Katarina_Neko",
+			artist_url: "https://x.com/katarina_neko",
+			desc: "Resplendent designs that I came up for Grima and RKC. I chose Nifl for Chrom since I thought it would be a fun parallel to Muspell Chrom (and lo and behold, we ended up getting Nifl E!Chrom), and my favorite detail for this design was translating the lightning in his wounds into ice crystals. As for Grima, I thought it would be a fun bit of irony to give her a resplendent based on Ymir, the realm of life. Although we'll never get a Ymir resplendent, I did enjoy making this design.",
+			date_str: "August 2023",
+			tags: ["Fire Emblem", "Chrom", "Female Robin", "Grima", "Chrobin"],
+			hidden: false
+		},						
+		{
+			src: ["https://cdn.imgchest.com/files/3a6be11cb499.png"],
+			thumbnail: "https://cdn.imgchest.com/files/c7772ec6a64e.png",
+			title: "Laundry and Taxes",
+			artist: "Sseunbean",
+			artist_url: "https://x.com/sseunbean",
+			desc: "I saw a lot of Lucina and Inigo in Evelyn and Waymond, so naturally I had to commission a redraw of best scene in the movie. Soleil as Joy and Severa as Deirdre would be a lot of fun too (Chrom isn't exactly Gong material but I'm sure it could work).",
+			date_str: "July 2023",
+			tags: ["Fire Emblem", "Lucina", "Inigo", "Lucinigo", "Everything Everywhere All At Once"],
+			hidden: false
+		},				
+		{
 			src: ["https://cdn.imgchest.com/files/d68c7241f45f.png"],
 			thumbnail: "https://cdn.imgchest.com/files/fc2aab658211.png",
 			title: "Turf War",
