@@ -219,7 +219,18 @@ var data = {
 			date_str: "December 2025",
 			tags: ["Fire Emblem", "Chrom", "Robin", "Chrobin", "Roleswap AU"],
 			hidden: false
-		},						
+		},				
+		{
+			src: ["https://cdn.imgchest.com/files/77f333eb9a05.png"],
+			thumbnail: "https://cdn.imgchest.com/files/f43f294c61a1.png",
+			title: "Askr's Heroes",
+			artist: "Ango_Aleman",
+			artist_url: "https://x.com/ango_aleman",
+			desc: "A collab with Lamprey to celebrate Soleil's new resplendent. She's very thrilled that her new clothes match her mom's!",
+			date_str: "July 2025",
+			tags: ["Fire Emblem", "Lucina", "Soleil", "Lucinigo", "Collab"],
+			hidden: false
+		},			
 		{
 			src: ["https://cdn.imgchest.com/files/5648e5cc306b.png"],
 			thumbnail: "https://cdn.imgchest.com/files/1ee84b4e5be6.png",
