@@ -462,14 +462,34 @@ var data = {
 			hidden: false
 		},			
 		{
+			src: ["https://cdn.imgchest.com/files/2ddedce73c1c.png"],
+			thumbnail: "https://cdn.imgchest.com/files/687154c2c9ab.png",
+			title: "Chrom's Gift to Robin",
+			artist: "Endra",
+			artist_url: "https://x.com/villagers_C",
+			desc: "A birthday piece for Robin, which I decided would be June 9. Robin is delighted that Chrom managed to get his hands on a Snapshot Tome, especially considering how closely Anna guards it. It'll be good to study, and even better to make everlasting memories with.",
+			date_str: "June 2024",
+			tags: ["Fire Emblem", "Chrom", "Female Robin", "Chrobin"],
+			hidden: false
+		},			
+		{
+			src: ["https://cdn.imgchest.com/files/665a619e9111.png"],
+			thumbnail: "https://cdn.imgchest.com/files/ea3b89644bfa.png",
+			title: "Morgan's Gift to Chrom",
+			artist: "Endra",
+			artist_url: "https://x.com/villagers_C",
+			desc: "A birthday piece for Chrom! Chrom should find this sword sharper than his last one. Morgan hopes that he will make good use of it, in the name of Master Grima.",
+			date_str: "May 2024",
+			tags: ["Fire Emblem", "Chrom", "Male Morgan", "Exalt Family"],
+			hidden: false
+		},				
+		{
 			src: ["https://cdn.imgchest.com/files/d7a86e5a5555.png"],
 			thumbnail: "https://cdn.imgchest.com/files/a16f7fc21c10.png",
 			title: "Lucina's Gift to Morgan",
 			artist: "Endra",
 			artist_url: "https://x.com/villagers_C",
-			desc: "A birthday piece for Morgan!
-				'Alright, how do I look? Pretty cool, right?'
-				'Very. Just make sure to not get it dirty by digging any more of those pitfalls.'",
+			desc: "A birthday piece for Morgan! After overhearing Morgan and Kiran's conversation, Lucina managed to convince the summoner to actually swap robes with Morgan for his birthday. Hopefully, it won't return to Kiran covered in dirt from pitfall digging.",
 			date_str: "May 2024",
 			tags: ["Fire Emblem", "Lucina", "Male Morgan", "Exalt Family"],
 			hidden: false
@@ -480,9 +500,7 @@ var data = {
 			title: "Robin's Gift to Lucina",
 			artist: "Endra",
 			artist_url: "https://x.com/villagers_C",
-			desc: "A birthday piece for Lucina! 
-				'What a delightful gift, Mother! Is this the new style in Ylisse?' 
-				'Wait, Lucina, that’s not supposed to go on your head!'",
+			desc: "A birthday piece for Lucina! Robin just wanted to show Lucina the cool critter she found on the beach, but it seems Lucina has mistaken it for a hat. Well, surely nothing bad can happen... right?",
 			date_str: "April 2024",
 			tags: ["Fire Emblem", "Female Robin", "Lucina", "Exalt Family"],
 			hidden: false
