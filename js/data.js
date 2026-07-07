@@ -383,7 +383,18 @@ var data = {
 			date_str: "October 2024",
 			tags: ["Fire Emblem", "Female Robin", "Grima", "Male Morgan", "Exalt Family"],
 			hidden: false
-		},						
+		},										
+		{
+			src: ["https://cdn.imgchest.com/files/484cd0991760.png"],
+			thumbnail: "https://cdn.imgchest.com/files/afef4b344f39.png",
+			title: "Building Relations",
+			artist: "ArayaEjiri",
+			artist_url: "https://x.com/ArayaEjiri",
+			desc: "A collab with Lamprey of Auntie Aversa coming to visit her newborn nephew! This is also the first instance of our Ylissean Queen Robin design, which also did get refined a bit later down the line.",
+			date_str: "October 2024",
+			tags: ["Fire Emblem", "Lucina", "Male Morgan", "Lucina", "Aversa", "Collab"],
+			hidden: false
+		},					
 		{
 			src: ["https://cdn.imgchest.com/files/cef265640b1b.png"],
 			thumbnail: "https://cdn.imgchest.com/files/f4b1d95457cc.png",
@@ -526,7 +537,18 @@ var data = {
 			date_str: "June 2023",
 			tags: ["Fire Emblem", "Male Morgan"],
 			hidden: false
-		},		
+		},				
+		{
+			src: ["https://cdn.imgchest.com/files/11dc3fa33c55.png"],
+			thumbnail: "https://cdn.imgchest.com/files/2e48bdde22b6.png",
+			title: "The Mentalist",
+			artist: "GrimaisBestWaifu",
+			artist_url: "https://x.com/GrimaIBW",
+			desc: "Gen's clothes and overall color scheme work so well with Robin that it was hard to pass up on this crossover! Re-imagining Gen's petrification mark as the Mark of Grima was also a nice way to give the outfit swap a personal touch.",
+			date_str: "February 2024",
+			tags: ["Fire Emblem", "Female Robin", "Dr. Stone"],
+			hidden: false
+		},				
 		{
 			src: ["https://cdn.imgchest.com/files/4e9f62abef5b.png"],
 			thumbnail: "https://cdn.imgchest.com/files/78d263f60554.png",
