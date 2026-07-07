@@ -460,6 +460,43 @@ var data = {
 			date_str: "August 2024",
 			tags: ["Fire Emblem", "Female Robin", "Roleswap AU"],
 			hidden: false
+		},			
+		{
+			src: ["https://cdn.imgchest.com/files/d7a86e5a5555.png"],
+			thumbnail: "https://cdn.imgchest.com/files/a16f7fc21c10.png",
+			title: "Lucina's Gift to Morgan",
+			artist: "Endra",
+			artist_url: "https://x.com/villagers_C",
+			desc: "A birthday piece for Morgan!
+				'Alright, how do I look? Pretty cool, right?'
+				'Very. Just make sure to not get it dirty by digging any more of those pitfalls.'",
+			date_str: "May 2024",
+			tags: ["Fire Emblem", "Lucina", "Male Morgan", "Exalt Family"],
+			hidden: false
+		},			
+		{
+			src: ["https://cdn.imgchest.com/files/68fa7b59d967.png"],
+			thumbnail: "https://cdn.imgchest.com/files/9f8111a76c2e.png",
+			title: "Robin's Gift to Lucina",
+			artist: "Endra",
+			artist_url: "https://x.com/villagers_C",
+			desc: "A birthday piece for Lucina! 
+				'What a delightful gift, Mother! Is this the new style in Ylisse?' 
+				'Wait, Lucina, that’s not supposed to go on your head!'",
+			date_str: "April 2024",
+			tags: ["Fire Emblem", "Female Robin", "Lucina", "Exalt Family"],
+			hidden: false
+		},						
+		{
+			src: ["https://cdn.imgchest.com/files/9ca8e180a7c5.png"],
+			thumbnail: "https://cdn.imgchest.com/files/8a771217ae1a.png",
+			title: "Chrobin as IchiSae",
+			artist: "nekko_donburi",
+			artist_url: null,
+			desc: "When I saw that goofy ending between Ichiban and Saeko, I knew I had to commission it with Chrom and Robin, haha. I would wear that shirt proudly.",
+			date_str: "March 2024",
+			tags: ["Fire Emblem", "Chrom", "Female Robin", "Chrobin", "Yakuza"],
+			hidden: false
 		},				
 		{
 			src: ["https://cdn.imgchest.com/files/8d2ccac787a8.png"],
