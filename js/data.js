@@ -407,6 +407,17 @@ var data = {
 			hidden: false
 		},			
 		{
+			src: ["https://cdn.imgchest.com/files/a30efc6212db.png", "https://cdn.imgchest.com/files/e89a744009c4.png", "https://cdn.imgchest.com/files/458c61af429c.png", "https://cdn.imgchest.com/files/19bd81a6b0b5.png"],
+			thumbnail: "https://cdn.imgchest.com/files/01429b244bd5.png",
+			title: "Six Same Faces",
+			artist: "Chika_Nyanco",
+			artist_url: "https://x.com/chika_nyanco",
+			desc: "A commission of the Grimas, Robins, and Morgans as the shitty sextuplets. It was a lot of fun mapping them onto the Matsuno brothers. Alt expressions were also kindly included by Chika.",
+			date_str: "October 2024",
+			tags: ["Fire Emblem", "Grima", "Female Robin", "Male Robin", "Male Morgan", "Female Morgan", "Osomatsu-san"],
+			hidden: false
+		},				
+		{
 			src: ["https://cdn.imgchest.com/files/908c4bfca181.png"],
 			thumbnail: "https://cdn.imgchest.com/files/c75c5bd0e550.png",
 			title: "Modern Gerome and Morgan",
@@ -460,7 +471,18 @@ var data = {
 			date_str: "August 2024",
 			tags: ["Fire Emblem", "Female Robin", "Roleswap AU"],
 			hidden: false
-		},						
+		},				
+		{
+			src: ["https://cdn.imgchest.com/files/c3d6628327fc.png"],
+			thumbnail: "https://cdn.imgchest.com/files/db8aa70180e7.png",
+			title: "A Rare Opportunity",
+			artist: "OniKagura",
+			artist_url: "https://x.com/OniKagura_art",
+			desc: "A collab with Lamprey of Lucina and Morgan encountering young versions of their parents in Askr. Not one to miss out on a rare opportunity, Lucina eagerly instructs Morgan to take as many photos as possible.",
+			date_str: "June 2024",
+			tags: ["Fire Emblem", "Chrom", "Female Robin", "Lucina", "Male Morgan", "Exalt Family", "Collab"],
+			hidden: false
+		},				
 		{
 			src: ["https://cdn.imgchest.com/files/ebb37adcd7ab.png", "https://cdn.imgchest.com/files/525ec130759b.png"],
 			thumbnail: "https://cdn.imgchest.com/files/f29dd540bf14.png",
@@ -478,7 +500,7 @@ var data = {
 			title: "Chrom's Gift to Robin",
 			artist: "Endra",
 			artist_url: "https://x.com/villagers_C",
-			desc: "A birthday piece for Robin, which I decided would be June 9. Robin is delighted that Chrom managed to get his hands on a Snapshot Tome, especially considering how closely Anna guards it. It'll be good to study, and even better to make everlasting memories with.",
+			desc: "A birthday piece for Robin, which I decided would be June 9. Robin is delighted that Chrom managed to get his hands on a Snapshot Tome, especially considering how closely Anna guards it. It'll be good to study, and even better to make everlasting memories with. As an aside, the design for this Snapshot tome was first made for a shitpost comic I had in mind with the help of my friend, Miso.",
 			date_str: "June 2024",
 			tags: ["Fire Emblem", "Chrom", "Female Robin", "Chrobin"],
 			hidden: false
