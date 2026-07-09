@@ -460,6 +460,17 @@ var data = {
 			date_str: "August 2024",
 			tags: ["Fire Emblem", "Female Robin", "Roleswap AU"],
 			hidden: false
+		},						
+		{
+			src: ["https://cdn.imgchest.com/files/ebb37adcd7ab.png", "https://cdn.imgchest.com/files/525ec130759b.png"],
+			thumbnail: "https://cdn.imgchest.com/files/f29dd540bf14.png",
+			title: "Young Chrobin's Final Smash",
+			artist: "Faithom",
+			artist_url: "https://x.com/faith0m",
+			desc: "A standee commission of young Robin and Chrom in a pose that references Robin's final smash. This is probably one of the most expensive pieces that I've ever gotten, both because of the commission itself but also because I got Lauren Landa and Matt Mercer to sign my standee! Definitely going to be a family heirloom, haha.",
+			date_str: "May 2024",
+			tags: ["Fire Emblem", "Chrom", "Female Robin", "Chrobin"],
+			hidden: false
 		},			
 		{
 			src: ["https://cdn.imgchest.com/files/2ddedce73c1c.png"],
