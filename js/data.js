@@ -473,6 +473,17 @@ var data = {
 			hidden: false
 		},				
 		{
+			src: ["https://cdn.imgchest.com/files/e9573e2029b5.jpg", "https://cdn.imgchest.com/files/d3e31c020655.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/e7597526050c.png",
+			title: "Xtra Wave",
+			artist: "Eili Enie",
+			artist_url: "https://x.com/eili_enie",
+			desc: "A commission of Lucina and Morgan fighting against Grima-boros. I added in the background, which was done by electro on Newgrounds and also made a few slight edits to the art. Lucina and Morgan also have the same octo-inkling hybrid designs from my previous commission.",
+			date_str: "July 2024",
+			tags: ["Fire Emblem", "Lucina", "Male Morgan", "Exalt Family", "Splatoon"],
+			hidden: false
+		},				
+		{
 			src: ["https://cdn.imgchest.com/files/c3d6628327fc.png"],
 			thumbnail: "https://cdn.imgchest.com/files/db8aa70180e7.png",
 			title: "A Rare Opportunity",
