@@ -252,7 +252,7 @@ var data = {
 			date_str: "May 2025",
 			tags: ["Fire Emblem", "Male Morgan", "Sumia", "Cynthia", "Female Morgan", "Owain", "Gerome", "Ophelia", "Damien", "Violet Family", "Owanthia", "Geromorgan"],
 			hidden: false
-		},			
+		},					
 		{
 			src: ["https://cdn.imgchest.com/files/1625ec55b1dc.jpeg"],
 			thumbnail: "https://cdn.imgchest.com/files/db3d26e726ed.png",
@@ -339,7 +339,29 @@ var data = {
 			date_str: "January 2025",
 			tags: ["Fire Emblem", "Chrom", "Female Robin", "Naga", "Chrobin", "Roleswap AU"],
 			hidden: false
-		},				
+		},						
+		{
+			src: ["https://cdn.imgchest.com/files/0af273102906.png"],
+			thumbnail: "https://cdn.imgchest.com/files/a5b1e6aa66df.png",
+			title: "Enthusiastic Curiosity",
+			artist: "Misa Fullmetal",
+			artist_url: "https://x.com/misa_fullmetal",
+			desc: "A joint commission with Lamprey! When it comes to enthusiatic curiosity, who else should come to mind but Robin? Loving the Chrobin crumbs being given to us by FEH.",
+			date_str: "January 2025",
+			tags: ["Fire Emblem", "Chrom", "Lucina", "Female Robin", "Exalt Family"],
+			hidden: false
+		},			
+		{
+			src: ["https://cdn.imgchest.com/files/b6aec78d7548.png"],
+			thumbnail: "https://cdn.imgchest.com/files/a18d463d1ece.png",
+			title: "Exalt Family Christmas",
+			artist: "ArayaEjiri",
+			artist_url: "https://x.com/ArayaEjiri",
+			desc: "A scene of the Exalt family enjoying their Christmas eve. Done in collaboration with Lamprey.",
+			date_str: "December 2024",
+			tags: ["Fire Emblem", "Chrom", "Female Robin", "Lucina", "Inigo", "Male Morgan", "Severa", "Caeldori", "Soleil", "Exalt Family", "Lucinigo", "Sevimorgan", "Collab"],
+			hidden: false
+		},			
 		{
 			src: ["https://cdn.imgchest.com/files/cdaf656a19a2.png"],
 			thumbnail: "https://cdn.imgchest.com/files/0bca019e1ab0.png",
@@ -352,17 +374,6 @@ var data = {
 			hidden: false
 		},				
 		{
-			src: ["https://cdn.imgchest.com/files/b6aec78d7548.png"],
-			thumbnail: "https://cdn.imgchest.com/files/a18d463d1ece.png",
-			title: "Exalt Family Christmas",
-			artist: "ArayaEjiri",
-			artist_url: "https://x.com/ArayaEjiri",
-			desc: "A scene of the Exalt family enjoying their Christmas eve. Done in collaboration with Lamprey.",
-			date_str: "December 2024",
-			tags: ["Fire Emblem", "Chrom", "Female Robin", "Lucina", "Inigo", "Male Morgan", "Severa", "Caeldori", "Soleil", "Exalt Family", "Lucinigo", "Sevimorgan", "Collab"],
-			hidden: false
-		},				
-		{
 			src: ["https://cdn.imgchest.com/files/314e9550226a.png"],
 			thumbnail: "https://cdn.imgchest.com/files/6d943cd22192.png",
 			title: "A Game of Chess",
@@ -372,7 +383,18 @@ var data = {
 			date_str: "December 2024",
 			tags: ["Fire Emblem", "Chrom", "Female Robin", "Grima", "Naga", "Chrobin", "Roleswap AU"],
 			hidden: false
-		},			
+		},						
+		{
+			src: ["https://cdn.imgchest.com/files/550268dd61b1.jpg", "https://cdn.imgchest.com/files/f12ef46b737f.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/e53c1e86b0cb.png",
+			title: "Keeping Warm",
+			artist: "SilverCandyGum",
+			artist_url: "https://x.com/SilverCandyGum",
+			desc: "Robin's a bit chilly after setting down her ice veins. Luckily, Chrom is here to keep her warm, especially since his new outfit is built for the cold.",
+			date_str: "November 2024",
+			tags: ["Fire Emblem", "Chrom", "Female Robin", "Chrobin"],
+			hidden: false
+		},				
 		{
 			src: ["https://cdn.imgchest.com/files/8f7bef716d15.jpg", "https://cdn.imgchest.com/files/8f7bef716d15.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/b0d848444969.png",
