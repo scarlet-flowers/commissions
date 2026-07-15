@@ -243,6 +243,28 @@ var data = {
 			hidden: false
 		},					
 		{
+			src: ["https://cdn.imgchest.com/files/bc0ba7aedc26.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/514f282ded2b.png",
+			title: "Hanfu Chrobin",
+			artist: "Sumustard",
+			artist_url: "https://x.com/sumustard",
+			desc: "A gorgeous piece of Chrom and Robin in hanfu. I love putting my favorite characters in my cultural clothing.",
+			date_str: "June 2025",
+			tags: ["Fire Emblem", "Chrom", "Female Robin", "Chrobin"],
+			hidden: false
+		},			
+		{
+			src: ["https://cdn.imgchest.com/files/1119692930d8.png"],
+			thumbnail: "https://cdn.imgchest.com/files/51ff1ada5a85.png",
+			title: "Asriel and the Sword Magician",
+			artist: "MotoiWork",
+			artist_url: "https://x.com/motoiwork",
+			desc: "A fiery sword magician girl, who else could that be but Robin? Asriel is goated for maining her.",
+			date_str: "June 2025",
+			tags: ["Fire Emblem", "Female Robin", "Deltarune"],
+			hidden: false
+		},					
+		{
 			src: ["https://cdn.imgchest.com/files/e38f05d46308.png"],
 			thumbnail: "https://cdn.imgchest.com/files/87c7456b23c2.png",
 			title: "Violet Family Picnic",
@@ -263,7 +285,7 @@ var data = {
 			date_str: "April 2025",
 			tags: ["Fire Emblem", "Chrom", "Lucina", "Female Robin", "Exalt Family"],
 			hidden: false
-		},	
+		},		
 		{
 			src: ["https://cdn.imgchest.com/files/568b90649fe9.png"],
 			thumbnail: "https://cdn.imgchest.com/files/17f59def1e0c.png",
@@ -274,7 +296,7 @@ var data = {
 			date_str: "March 2025",
 			tags: ["Fire Emblem", "Male Morgan", "Severa", "Sevimorgan", "Modern AU", "Collab"],
 			hidden: false
-		},			
+		},	
 		{
 			src: ["https://cdn.imgchest.com/files/3d701a2d3cbc.png"],
 			thumbnail: "https://cdn.imgchest.com/files/9abe232f7f2a.png",
@@ -285,7 +307,7 @@ var data = {
 			date_str: "March 2025",
 			tags: ["Fire Emblem", "Chrom", "Female Robin", "Chrobin"],
 			hidden: false
-		},	
+		},					
 		{
 			src: ["https://cdn.imgchest.com/files/2ab2cf5c7cf5.png"],
 			thumbnail: "https://cdn.imgchest.com/files/a9cf34a05661.png",
