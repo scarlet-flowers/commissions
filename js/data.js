@@ -285,7 +285,29 @@ var data = {
 			date_str: "March 2025",
 			tags: ["Fire Emblem", "Chrom", "Female Robin", "Chrobin"],
 			hidden: false
-		},						
+		},	
+		{
+			src: ["https://cdn.imgchest.com/files/2ab2cf5c7cf5.png"],
+			thumbnail: "https://cdn.imgchest.com/files/a9cf34a05661.png",
+			title: "Eepies",
+			artist: "RotomDocs",
+			artist_url: "https://x.com/RotomDocs",
+			desc: "A joint commission with Lamprey. He got Severa and I got Morgan. Managing to snag a RotomDocs slot was more stressful than trying to snag the right classes for the semester, lmao.",
+			date_str: "March 2025",
+			tags: ["Fire Emblem", "Male Morgan", "Severa", "Sevimorgan"],
+			hidden: false
+		},				
+		{
+			src: ["https://cdn.imgchest.com/files/915c29de0ba1.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/a82dba0e2933.png",
+			title: "The Demon Pill and Spirit Pearl",
+			artist: "Miyukiko",
+			artist_url: "https://x.com/Miyukiko",
+			desc: "Go watch Ne Zha 2, the top 5 highest grossing movie of all time. You can thank me later.",
+			date_str: "March 2025",
+			tags: ["Fire Emblem", "Chrom", "Female Robin", "Chrobin", "Ne Zha"],
+			hidden: false
+		},				
 		{
 			src: ["https://cdn.imgchest.com/files/f63d6e0f9e71.png"],
 			thumbnail: "https://cdn.imgchest.com/files/5a6575547854.png",
