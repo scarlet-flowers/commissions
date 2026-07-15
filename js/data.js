@@ -310,7 +310,7 @@ var data = {
 		},				
 		{
 			src: ["https://cdn.imgchest.com/files/bbae7722c56f.png"],
-			thumbnail: "",
+			thumbnail: "https://cdn.imgchest.com/files/9dc7834c5fcf.png",
 			title: "A Dangerous Development",
 			artist: "A-Caroline",
 			artist_url: "https://x.com/Leitz_ACaroline",
