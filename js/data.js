@@ -296,7 +296,40 @@ var data = {
 			date_str: "March 2025",
 			tags: ["Fire Emblem", "Male Morgan", "Female Morgan"],
 			hidden: false
+		},				
+		{
+			src: ["https://cdn.imgchest.com/files/31222c589d53.png"],
+			thumbnail: "https://cdn.imgchest.com/files/d93a97482ac3.png",
+			title: "The Benefits of Time Travel",
+			artist: "Chipupuni",
+			artist_url: "https://x.com/chipupuni",
+			desc: "Most fanarts depict the Gen1 Awakening characters being shocked about being grandparents already, so I wanted to subvert that joke a bit by having one of them being actually quite pleased to meet their grandchildren early, haha. And who better to pick for that role than Virion?",
+			date_str: "March 2025",
+			tags: ["Fire Emblem", "Inigo", "Virion", "Olivia", "Virolivia", "Lucinigo", "Comic"],
+			hidden: false
+		},				
+		{
+			src: ["https://cdn.imgchest.com/files/bbae7722c56f.png"],
+			thumbnail: "",
+			title: "A Dangerous Development",
+			artist: "A-Caroline",
+			artist_url: "https://x.com/Leitz_ACaroline",
+			desc: "A FEH-styled comic commissioned in collaboration with Lamprey! My favorite panel is the first one, especially since we snuck in two of our other favorite couples in there, hehe.",
+			date_str: "March 2025",
+			tags: ["Fire Emblem", "Inigo", "Lucina", "Male Morgan", "Severa", "Alfonse", "Veronica", "Chrom", "Lucinigo", "Sevimorgan", "Alfvero", "Comic"],
+			hidden: false
 		},					
+		{
+			src: ["https://cdn.imgchest.com/files/6a9df76e6272.png", "https://cdn.imgchest.com/files/255abcb8a988.png", "https://cdn.imgchest.com/files/448c18f7bcf4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/f6a75ecd9112.png",
+			title: "Dive Armor Chrobin",
+			artist: "TomycaseM",
+			artist_url: "https://x.com/TomycaseM",
+			desc: "While I usually do the designs myself... this was one that I couldn't even begin to tackle since Megaman armor is so complicated. I had a few notes on the design, such as Chrom being helmetless or the color palettes, but otherwise I left most of it up to the artist. I'm pleased to report that I'm very happy with the results! Their poses are based on Dive Armor X and Zero, and the background that I added in was done by Vile3D.",
+			date_str: "February 2025",
+			tags: ["Fire Emblem", "Chrom", "Female Robin", "Chrobin", "Megaman X"],
+			hidden: false
+		},			
 		{
 			src: ["https://cdn.imgchest.com/files/2474215042bf.png"],
 			thumbnail: "https://cdn.imgchest.com/files/6c9baa459ebc.png",
