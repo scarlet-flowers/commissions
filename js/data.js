@@ -226,7 +226,7 @@ var data = {
 			title: "Morgan Portrait",
 			artist: "Meziosaur",
 			artist_url: "https://x.com/meziosaur",
-			desc: "A collab with Lamprey and Gnarly. The purple irises symbolize wisdom and hope, while the white delphinium symbolize positivity, youth, and renewal. We also received many alt coat and hair color combinations, but I'll only include this one though since it'd be way too many to upload them all.",
+			desc: "A collab with Lamprey and Gnarly. The purple irises symbolize wisdom and hope, while the white delphinium symbolize positivity, youth, and renewal. Morgan looking at the butterfly is also a subtle reference to Lucina. We also received many alt coat and hair color combinations, but I'll only include this one though since it'd be way too many to upload them all.",
 			date_str: "October 2025",
 			tags: ["Fire Emblem", "Male Morgan"],
 			hidden: false
