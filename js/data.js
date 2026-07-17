@@ -221,6 +221,28 @@ var data = {
 			hidden: false
 		},							
 		{
+			src: ["https://cdn.imgchest.com/files/349916cd0ec6.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/e3ab1d4c0d57.png",
+			title: "Morgan Portrait",
+			artist: "Meziosaur",
+			artist_url: "https://x.com/meziosaur",
+			desc: "A collab with Lamprey and Gnarly. The purple irises symbolize wisdom and hope, while the white delphinium symbolize positivity, youth, and renewal. We also received many alt coat and hair color combinations, but I'll only include this one though since it'd be way too many to upload them all.",
+			date_str: "October 2025",
+			tags: ["Fire Emblem", "Male Morgan"],
+			hidden: false
+		},				
+		{
+			src: ["https://cdn.imgchest.com/files/292d1bd55b7d.png"],
+			thumbnail: "https://cdn.imgchest.com/files/33d1c7606eca.png",
+			title: "Chrobin as Askrembla",
+			artist: "Mason",
+			artist_url: "https://bsky.app/profile/misokatsuhaumai.bsky.social",
+			desc: "New Years Askr&Embla are one of my favorite units ever. I truly adore the outfit design so I wanted to see Chrom and Robin in it too. This is the second time I've had a crossover between Chrobin and Askrembla too, lol. It's too good to resist!",
+			date_str: "October 2025",
+			tags: ["Fire Emblem", "Chrom", "Female Robin", "Chrobin"],
+			hidden: false
+		},			
+		{
 			src: ["https://cdn.imgchest.com/files/77f333eb9a05.png"],
 			thumbnail: "https://cdn.imgchest.com/files/f43f294c61a1.png",
 			title: "Askr's Heroes",
