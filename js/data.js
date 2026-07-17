@@ -219,7 +219,7 @@ var data = {
 			date_str: "December 2025",
 			tags: ["Fire Emblem", "Chrom", "Robin", "Chrobin", "Roleswap AU"],
 			hidden: false
-		},				
+		},							
 		{
 			src: ["https://cdn.imgchest.com/files/77f333eb9a05.png"],
 			thumbnail: "https://cdn.imgchest.com/files/f43f294c61a1.png",
@@ -1582,7 +1582,18 @@ var data = {
 			date_str: "July 2017",
 			tags: ["Fire Emblem", "Chrom", "Female Robin", "Chrobin", "Request"],
 			hidden: false
-		},				
+		},			
+		{
+			src: ["https://cdn.imgchest.com/files/1f6ac7445d39.png"],
+			thumbnail: "https://cdn.imgchest.com/files/d168cacebaa1.png",
+			title: "Go For It, Kaito!",
+			artist: "Kannawataame",
+			artist_url: "https://x.com/kannawataame",
+			desc: "A commission based on the shenanigans from Parallel Paaaarty!!!! It was so cute to see MMJ Len teach L/N Kaito how to give the audience a little fanservice.",
+			date_str: "June 2026",
+			tags: ["Vocaloid", "Kagamine Len", "KAITO", "Go for It Nakamura"],
+			hidden: false
+		},			
 		{
 			src: ["https://cdn.imgchest.com/files/80989f8549d0.png"],
 			thumbnail: "https://cdn.imgchest.com/files/aa2871bf95df.png",
