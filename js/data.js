@@ -144,6 +144,17 @@ var data = {
 			hidden: false
 		},				
 		{
+			src: ["https://cdn.imgchest.com/files/7e10f58c8452.png"],
+			thumbnail: "https://cdn.imgchest.com/files/d774038a563d.png",
+			title: "The Next Generation",
+			artist: "T0bey",
+			artist_url: "https://bsky.app/profile/t0bey-art.bsky.social",
+			desc: "A joint commission with Lamprey of Soleil, Caeldori, and Ophelia playing together. Reflected in the water are Lucina, Morgan, and Owain, which is a demonstration of how cyclic time can be.",
+			date_str: "February 2025",
+			tags: ["Fire Emblem", "Soleil", "Caeldori", "Ophelia", "Lucina", "Male Morgan", "Owain", "Lucinigo", "Sevimorgan", "Owanthia", "Collab"],
+			hidden: false
+		},				
+		{
 			src: ["https://cdn.imgchest.com/files/4bd09c88d804.png"],
 			thumbnail: "https://cdn.imgchest.com/files/35c1ee23e6d4.png",
 			title: "Kozaki-style Brave Robin",
@@ -228,7 +239,7 @@ var data = {
 			artist_url: "https://x.com/meziosaur",
 			desc: "A collab with Lamprey and Gnarly. The purple irises symbolize wisdom and hope, while the white delphinium symbolize positivity, youth, and renewal. Morgan looking at the butterfly is also a subtle reference to Lucina. We also received many alt coat and hair color combinations, but I'll only include this one though since it'd be way too many to upload them all.",
 			date_str: "October 2025",
-			tags: ["Fire Emblem", "Male Morgan"],
+			tags: ["Fire Emblem", "Male Morgan", "Collab"],
 			hidden: false
 		},				
 		{
@@ -338,7 +349,7 @@ var data = {
 			artist_url: "https://x.com/RotomDocs",
 			desc: "A joint commission with Lamprey. He got Severa and I got Morgan. Managing to snag a RotomDocs slot was more stressful than trying to snag the right classes for the semester, lmao.",
 			date_str: "March 2025",
-			tags: ["Fire Emblem", "Male Morgan", "Severa", "Sevimorgan"],
+			tags: ["Fire Emblem", "Male Morgan", "Severa", "Sevimorgan", "Collab"],
 			hidden: false
 		},				
 		{
@@ -382,7 +393,7 @@ var data = {
 			artist_url: "https://x.com/Leitz_ACaroline",
 			desc: "A FEH-styled comic commissioned in collaboration with Lamprey! My favorite panel is the first one, especially since we snuck in two of our other favorite couples in there, hehe.",
 			date_str: "March 2025",
-			tags: ["Fire Emblem", "Inigo", "Lucina", "Male Morgan", "Severa", "Alfonse", "Veronica", "Chrom", "Lucinigo", "Sevimorgan", "Alfvero", "Comic"],
+			tags: ["Fire Emblem", "Inigo", "Lucina", "Male Morgan", "Severa", "Alfonse", "Veronica", "Chrom", "Lucinigo", "Sevimorgan", "Alfvero", "Comic", "Collab"],
 			hidden: false
 		},					
 		{
@@ -447,7 +458,7 @@ var data = {
 			artist_url: "https://x.com/misa_fullmetal",
 			desc: "A joint commission with Lamprey! When it comes to enthusiatic curiosity, who else should come to mind but Robin? Loving the Chrobin crumbs being given to us by FEH.",
 			date_str: "January 2025",
-			tags: ["Fire Emblem", "Chrom", "Lucina", "Female Robin", "Exalt Family"],
+			tags: ["Fire Emblem", "Chrom", "Lucina", "Female Robin", "Exalt Family", "Collab"],
 			hidden: false
 		},			
 		{
