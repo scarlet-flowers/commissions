@@ -122,6 +122,17 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/4bd09c88d804.png"],
+			thumbnail: "https://cdn.imgchest.com/files/35c1ee23e6d4.png",
+			title: "Kozaki-style Brave Robin",
+			artist: "PeacefulandFlat",
+			artist_url: "https://x.com/peacefulandflat",
+			desc: "As much as I adore Wada Sachiko's art, I do wish we had gotten a full body female Robin art from Kozaki. Thus, I commissioned PeacefulandFlat to emulate Kozaki's style so we could get a peek at what could have been. Pose is a reference to Katarina's Awakening art.",
+			date_str: "February 2026",
+			tags: ["Fire Emblem", "Female Robin"],
+			hidden: false
+		},					
+		{
 			src: ["https://cdn.imgchest.com/files/bb64acdc290a.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/0d5f219c5f34.png",
 			title: "Coffee Order",
@@ -153,18 +164,7 @@ var data = {
 			date_str: "February 2025",
 			tags: ["Fire Emblem", "Soleil", "Caeldori", "Ophelia", "Lucina", "Male Morgan", "Owain", "Lucinigo", "Sevimorgan", "Owanthia", "Collab"],
 			hidden: false
-		},				
-		{
-			src: ["https://cdn.imgchest.com/files/4bd09c88d804.png"],
-			thumbnail: "https://cdn.imgchest.com/files/35c1ee23e6d4.png",
-			title: "Kozaki-style Brave Robin",
-			artist: "PeacefulandFlat",
-			artist_url: "https://x.com/peacefulandflat",
-			desc: "As much as I adore Wada Sachiko's art, I do wish we had gotten a full body female Robin art from Kozaki. Thus, I commissioned PeacefulandFlat to emulate Kozaki's style so we could get a peek at what could have been. Pose is a reference to Katarina's Awakening art.",
-			date_str: "February 2026",
-			tags: ["Fire Emblem", "Female Robin"],
-			hidden: false
-		},				
+		},					
 		{
 			src: ["https://cdn.imgchest.com/files/c2aee1225c27.png", "https://cdn.imgchest.com/files/8dfe02a18240.png"],
 			thumbnail: "https://cdn.imgchest.com/files/047e8bcbdb71.png",
