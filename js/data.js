@@ -21,6 +21,17 @@ var data = {
 			date_str: "",
 			tags: [""],
 			hidden: true
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/90f0d342ec3e.png"],
+			thumbnail: "https://cdn.imgchest.com/files/9a1a34b4f3c1.png",
+			title: "The Queen of Ylisse and Duke of Rosanne",
+			artist: "Riz",
+			artist_url: "https://x.com/rzzxrzz",
+			desc: "A commission of Ylissean Queen Lucina and Rosanne Duke Inigo. A lot of Inigo's design was inspired by TMS Virion's outfit, and expect to see more of him in the future!",
+			date_str: "May 2025",
+			tags: ["Fire Emblem", "Lucina", "Inigo", "Lucinigo"],
+			hidden: false
 		},			
 		{
 			src: ["https://cdn.imgchest.com/files/759631e10f42.png"],
@@ -109,6 +120,17 @@ var data = {
 			date_str: "April 2026",
 			tags: ["Fire Emblem", "Lucina", "Request"],
 			hidden: false
+		},		
+		{
+			src: ["https://cdn.imgchest.com/files/bb121a04003e.png"],
+			thumbnail: "https://cdn.imgchest.com/files/cacc42de1da4.png",
+			title: "A Taste for Twintails",
+			artist: "Chipupuni",
+			artist_url: "https://x.com/chipupuni",
+			desc: "A silly little comic pointing out one of the commonalities in the Awakening ships that Lamprey and I like, haha. Chrom's mom design was done by me.",
+			date_str: "May 2026",
+			tags: ["Fire Emblem", "Chrom", "Female Robin", "Lucina", "Male Morgan", "Severa", "Owain", "Cynthia", "Chrobin", "Sevimorgan", "Owanthia", "Exalt Family", "Collab"],
+			hidden: false
 		},			
 		{
 			src: ["https://cdn.imgchest.com/files/094484f68235.png"],
@@ -121,6 +143,17 @@ var data = {
 			tags: ["Fire Emblem", "Male Morgan", "Severa", "My Hero Academia"],
 			hidden: false
 		},
+		{
+			src: ["https://cdn.imgchest.com/files/0af4b4bcd7d0.png"],
+			thumbnail: "https://cdn.imgchest.com/files/9948a1b2f4e1.png",
+			title: "Leaked Harmonic Dialogue",
+			artist: "El Pan",
+			artist_url: "https://x.com/El_Pan_Frances",
+			desc: "I'm very excited for the upcoming harmonic units. Seliph and Chrom have the obvious Sigurd and Lucina parallels to talk about with each other, so I'm a little more curious to see what Bernadetta and Robin have to discuss. I do think they have a lot more going on with them than meets the eye, such as their dad problems or Bernie resembling Noire, so I really do hope they don't flop this lol.",
+			date_str: "March 2026",
+			tags: ["Fire Emblem", "Chrom", "Female Robin", "Seliph", "Bernadetta", "Lucina", "Male Morgan", "Exalt Family"],
+			hidden: false
+		},				
 		{
 			src: ["https://cdn.imgchest.com/files/4bd09c88d804.png"],
 			thumbnail: "https://cdn.imgchest.com/files/35c1ee23e6d4.png",
