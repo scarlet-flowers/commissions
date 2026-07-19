@@ -243,6 +243,17 @@ var data = {
 			hidden: false
 		},				
 		{
+			src: ["https://cdn.imgchest.com/files/c3ba951f52cb.png"],
+			thumbnail: "https://cdn.imgchest.com/files/9a4efb5c3645.png",
+			title: "The Final Blow",
+			artist: "Riri",
+			artist_url: "https://x.com/Riri_5364",
+			desc: "A joint commission with Lamprey! Background was based on the FEH battle background for the Legendary Grima battle. Definitely one of the most gorgeous pieces I've ever gotten.",
+			date_str: "October 2025",
+			tags: ["Fire Emblem", "Chrom", "Female Robin", "Grima", "Chrobin", "Collab"],
+			hidden: false
+		},					
+		{
 			src: ["https://cdn.imgchest.com/files/292d1bd55b7d.png"],
 			thumbnail: "https://cdn.imgchest.com/files/33d1c7606eca.png",
 			title: "Chrobin as Askrembla",
@@ -252,7 +263,18 @@ var data = {
 			date_str: "October 2025",
 			tags: ["Fire Emblem", "Chrom", "Female Robin", "Chrobin"],
 			hidden: false
-		},			
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/17866b317418.png"],
+			thumbnail: "https://cdn.imgchest.com/files/87d66c467f1e.png",
+			title: "Saint Lord Morgan",
+			artist: "Milo Monzon",
+			artist_url: "https://x.com/monmilo9",
+			desc: "A commission of Morgan as a Saint Lord, which is a custom class from the Thabes hack. Although I have some problems with the hack, I do think the classes they came up with were pretty fun and I especially like the new promoted ones for the Lords and Tacticians.",
+			date_str: "August 2025",
+			tags: ["Fire Emblem", "Male Morgan"],
+			hidden: false
+		},				
 		{
 			src: ["https://cdn.imgchest.com/files/77f333eb9a05.png"],
 			thumbnail: "https://cdn.imgchest.com/files/f43f294c61a1.png",
