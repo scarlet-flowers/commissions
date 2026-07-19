@@ -1043,7 +1043,18 @@ var data = {
 			date_str: "May 2022",
 			tags: ["Fire Emblem", "Owain", "Cynthia", "Male Morgan", "Lucina", "Gerome", "Inigo", "Severa", "Female Morgan", "Comic"],
 			hidden: false
-		},				
+		},			
+		{
+			src: ["https://cdn.imgchest.com/files/23a939d7771b.png"],
+			thumbnail: "https://cdn.imgchest.com/files/a9254631b4ac.png",
+			title: "Lucinigo Family as Inukag Family",
+			artist: "StaleStars",
+			artist_url: "https://ko-fi.com/stalestars",
+			desc: "A crossover between Lucina, Inigo, and Soleil with Inuyasha, Kagome, and Moroha. Considering my headcanon of Inigo as a bow knight and Lucina as Robin's daughter, I think they both slot into Kagome and Inuyasha quite nicely.",
+			date_str: "May 2022",
+			tags: ["Fire Emblem", "Lucina", "Inigo", "Soleil", "Lucinigo", "Inuyasha"],
+			hidden: false
+		},			
 		{
 			src: ["https://cdn.imgchest.com/files/ad0509ba447a.png"],
 			thumbnail: "https://cdn.imgchest.com/files/ef54e974bced.png",
