@@ -23,6 +23,28 @@ var data = {
 			hidden: true
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/0d7494ffb580.png", "https://cdn.imgchest.com/files/31cee7913e9b.png"],
+			thumbnail: "https://cdn.imgchest.com/files/2802b48986bf.png",
+			title: "Caeldori's Birth",
+			artist: "Shugo",
+			artist_url: "https://x.com/hiomaika",
+			desc: "A birthday gift for Lamprey based on his previous commission of Lucina and Inigo celebrating the birth of their daughter. A red-haired, red-eyed version was included since that's his preference.",
+			date_str: "August 2026",
+			tags: ["Fire Emblem", "Male Morgan", "Severa", "Caeldori", "Sevimorgan"],
+			hidden: false
+		},				
+		{
+			src: ["https://cdn.imgchest.com/files/7105c451e9d4.png", "https://cdn.imgchest.com/files/26374538ab57.png"],
+			thumbnail: "https://cdn.imgchest.com/files/eeb395cd9757.png",
+			title: "Soleil's Birth",
+			artist: "Shugo",
+			artist_url: "https://x.com/hiomaika",
+			desc: "This is actually Lamprey's commission, not mine, but he graciously gave me permission to include it here as it ties into the gift that I got for him!",
+			date_str: "September 2025",
+			tags: ["Fire Emblem", "Lucina", "Inigo", "Soleil", "Lucinigo"],
+			hidden: false
+		},		
+		{
 			src: ["https://cdn.imgchest.com/files/90f0d342ec3e.png"],
 			thumbnail: "https://cdn.imgchest.com/files/9a1a34b4f3c1.png",
 			title: "The Queen of Ylisse and Duke of Rosanne",
