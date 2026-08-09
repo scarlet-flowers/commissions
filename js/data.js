@@ -1683,6 +1683,28 @@ var data = {
 			hidden: false
 		},			
 		{
+			src: ["https://cdn.imgchest.com/files/894c0f241bbd.PNG"],
+			thumbnail: "https://cdn.imgchest.com/files/c92ab8faf2de.png",
+			title: "A Disastrous Triangle",
+			artist: "Niansue",
+			artist_url: "https://x.com/niansue",
+			desc: "Based on a redraw meme, but with some small tweaks to fit their personalities of course. Elected for their Gangsta AU versions since I'm super enamored with it.",
+			date_str: "August 2026",
+			tags: ["Hetalia", "America", "Russia", "England", "UKUS", "RusAme"],
+			hidden: false
+		},		
+		{
+			src: ["https://cdn.imgchest.com/files/c4cd0bbdf853.png"],
+			thumbnail: "https://cdn.imgchest.com/files/03cfad526617.png",
+			title: "Sorry to Keep You Waiting!",
+			artist: "FriloFrigo",
+			artist_url: "https://x.com/frilofrigo",
+			desc: "Flowery has wormed his way into my brain like a parasite. Naturally, I had to combine him with the other blond twink that has a vice grip on me. Since I can't picture Kaito being mean to Len, I chose Miku instead to represent Ralsei (since Lenku is my second favorite Vocaloid ship). I'm a sucker for ragebait x ragebaiter.",
+			date_str: "July 2026",
+			tags: ["Vocaloid", "Kagamine Len", "Hatsune Miku", "Lenku", "Deltarune"],
+			hidden: false
+		},		
+		{
 			src: ["https://cdn.imgchest.com/files/1f6ac7445d39.png"],
 			thumbnail: "https://cdn.imgchest.com/files/d168cacebaa1.png",
 			title: "Go For It, Kaito!",
