@@ -25,7 +25,7 @@ var data = {
 		{
 			src: ["https://cdn.imgchest.com/files/0d7494ffb580.png", "https://cdn.imgchest.com/files/31cee7913e9b.png"],
 			thumbnail: "https://cdn.imgchest.com/files/2802b48986bf.png",
-			title: "Caeldori's Birth",
+			title: "New Parents - Morgan and Severa Version",
 			artist: "Shugo",
 			artist_url: "https://x.com/hiomaika",
 			desc: "A birthday gift for Lamprey based on his previous commission of Lucina and Inigo celebrating the birth of their daughter. A red-haired, red-eyed version was included since that's his preference.",
@@ -36,7 +36,7 @@ var data = {
 		{
 			src: ["https://cdn.imgchest.com/files/7105c451e9d4.png", "https://cdn.imgchest.com/files/26374538ab57.png"],
 			thumbnail: "https://cdn.imgchest.com/files/eeb395cd9757.png",
-			title: "Soleil's Birth",
+			title: "New Parents - Lucina and Inigo Version",
 			artist: "Shugo",
 			artist_url: "https://x.com/hiomaika",
 			desc: "This is actually Lamprey's commission, not mine, but he graciously gave me permission to include it here as it ties into the gift that I got for him!",
