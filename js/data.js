@@ -23,6 +23,28 @@ var data = {
 			hidden: true
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/ac8ab9507c80.png"],
+			thumbnail: "https://cdn.imgchest.com/files/9be965bc1722.png",
+			title: "A Nighttime Dip",
+			artist: "Rinfu",
+			artist_url: "https://x.com/Rinfu1325",
+			desc: "I absolutely love the composition of this piece! Having Robin and Chrom show up in the reflection of the pool gives it such a beautiful and dreamy feel. It's absolutely breathtaking.",
+			date_str: "August 2026",
+			tags: ["Fire Emblem", "Chrom", "Female Robin", "Chrobin"],
+			hidden: false
+		},				
+		{
+			src: ["https://cdn.imgchest.com/files/7918bc02580f.png"],
+			thumbnail: "https://cdn.imgchest.com/files/96b9650db171.png",
+			title: "Staying Connected to You",
+			artist: "Anander",
+			artist_url: "https://x.com/Anander0",
+			desc: "A piece based on my own personal headcanon on why Severa changed her hair ties going from Awakening to Fates.",
+			date_str: "August 2026",
+			tags: ["Fire Emblem", "Severa", "Gaius", "Gaiusdelia"],
+			hidden: false
+		},		
+		{
 			src: ["https://cdn.imgchest.com/files/f7f44e123a7b.png"],
 			thumbnail: "https://cdn.imgchest.com/files/e0634555db07.png",
 			title: "Hot Springs Robin Request",
