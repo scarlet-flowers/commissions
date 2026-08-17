@@ -23,6 +23,28 @@ var data = {
 			hidden: true
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/f7f44e123a7b.png"],
+			thumbnail: "https://cdn.imgchest.com/files/e0634555db07.png",
+			title: "Hot Springs Robin Request",
+			artist: "SacredStarLordPi",
+			artist_url: "https://bsky.app/profile/sacredstarlordpi.bsky.social",
+			desc: "Done as a request for CYL10. The additional Marth and Caeda duckies are cute!",
+			date_str: "August 2026",
+			tags: ["Fire Emblem", "Female Robin", "Request"],
+			hidden: false
+		},				
+		{
+			src: ["https://cdn.imgchest.com/files/ed4df06ad12f.png", "https://cdn.imgchest.com/files/63849433792e.png"],
+			thumbnail: "https://cdn.imgchest.com/files/e08477e482e3.png",
+			title: "Hot Springs Chrobin",
+			artist: "Kazoo",
+			artist_url: "https://bsky.app/profile/ikazooks.bsky.social",
+			desc: "Done as a request for CYL10. I love how eepy she looks.",
+			date_str: "August 2026",
+			tags: ["Fire Emblem", "Chrom", "Female Robin", "Chrobin", "Request"],
+			hidden: false
+		},		
+		{
 			src: ["https://cdn.imgchest.com/files/0d7494ffb580.png", "https://cdn.imgchest.com/files/31cee7913e9b.png"],
 			thumbnail: "https://cdn.imgchest.com/files/2802b48986bf.png",
 			title: "New Parents - Morgan and Severa Version",
