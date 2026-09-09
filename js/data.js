@@ -21,16 +21,38 @@ var data = {
 			date_str: "",
 			tags: [""],
 			hidden: true
-		},
+		},			
+		{
+			src: ["https://cdn.imgchest.com/files/ca577bdaea33.png"],
+			thumbnail: "https://cdn.imgchest.com/files/e30261ec0783.png",
+			title: "Quality Family Time",
+			artist: "Mason",
+			artist_url: "https://bsky.app/profile/misokatsuhaumai.bsky.social",
+			desc: "Morgan may not have gotten on the banner, but he gets to enjoy quality family time in his own way! So here he is, in his Muspell attire, warming up the water for them.",
+			date_str: "September 2026",
+			tags: ["Fire Emblem", "Chrom", "Female Robin", "Lucina", "Male Morgan", "Exalt Family"],
+			hidden: false
+		},		
+		{
+			src: ["https://cdn.imgchest.com/files/9e4ada8fca1f.png"],
+			thumbnail: "https://cdn.imgchest.com/files/c7b9d4429083.png",
+			title: "(Not) A Dragon",
+			artist: "t_misaomaru",
+			artist_url: "https://x.com/t_misaomaru",
+			desc: "A piece based on the Deco 27 and PinocchioP song '(Not) a Devil,' although Misaomaru clearly elevated the concept to much greater heights than I could have ever imagined! It's an absolutely stunning piece, and not to toot my own horn but I absolutely love the Grima!Robin and Naga!Chrom designs here. Nothing beats a good ol' yin yang dynamic.",
+			date_str: "August 2026",
+			tags: ["Fire Emblem", "Chrom", "Naga", "Female Robin", "Grima", "Roleswap AU"],
+			hidden: false
+		},			
 		{
 			src: ["https://cdn.imgchest.com/files/ac8ab9507c80.png"],
 			thumbnail: "https://cdn.imgchest.com/files/9be965bc1722.png",
 			title: "A Nighttime Dip",
 			artist: "Rinfu",
 			artist_url: "https://x.com/Rinfu1325",
-			desc: "I absolutely love the composition of this piece! Having Robin and Chrom show up in the reflection of the pool gives it such a beautiful and dreamy feel. It's absolutely breathtaking.",
+			desc: "I absolutely love the composition of this piece! Having Robin and Chrom show up in the reflection of the pool gives it such a beautiful and dreamy feel. It's absolutely breathtaking, and I'm glad to have another banger collab with Lamprey.",
 			date_str: "August 2026",
-			tags: ["Fire Emblem", "Chrom", "Female Robin", "Chrobin"],
+			tags: ["Fire Emblem", "Chrom", "Female Robin", "Chrobin", "Collab"],
 			hidden: false
 		},				
 		{
