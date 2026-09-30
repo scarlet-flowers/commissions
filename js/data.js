@@ -1956,7 +1956,29 @@ var data = {
 			date_str: "September 2021",
 			tags: ["Fire Emblem 3H", "Dorothea", "Lorenz", "Dororenz"],
 			hidden: false
-		},
+		},	
+		{
+			src: ["https://cdn.imgchest.com/files/36acf5e170ad.png"],
+			thumbnail: "https://cdn.imgchest.com/files/b5176a2760ac.png",
+			title: "Summer Days",
+			artist: "Siren",
+			artist_url: "https://x.com/ladylawga",
+			desc: "A birthday gift from my friend, Silent, of the Exalt family enjoying a day at the beach. The comic is chock full of references to other things I love, like Amy Rose, Flowery, Trunks, Splatoon, and the Kagamines. It's truly amazing to have a friend who knows me so well.",
+			date_str: "September 2026",
+			tags: ["Fire Emblem", "Chrom", "Female Robin", "Lucina", "Male Morgan", "Exalt Family", "Gift"],
+			hidden: false
+		},	
+		{
+			src: ["https://cdn.imgchest.com/files/b7881b3ea6d0.png"],
+			thumbnail: "https://cdn.imgchest.com/files/5151963df43c.png",
+			title: "Lucinigo Family",
+			artist: "Anander",
+			artist_url: "https://x.com/Anander0",
+			desc: "A birthday gift from Lamprey of Valentine's Lucina and Dancer Inigo enjoying a day out in the field with Soleil. I love the flower crowns on Inigo and Soleil to match Lucina!",
+			date_str: "September 2026",
+			tags: ["Fire Emblem", "Lucina", "Inigo", "Soleil", "Lucinigo", "Gift"],
+			hidden: false
+		},			
 		{
 			src: ["https://cdn.imgchest.com/files/4c24d50ab133.png"],
 			thumbnail: "https://cdn.imgchest.com/files/23c61867cf2b.png",
