@@ -21,7 +21,29 @@ var data = {
 			date_str: "",
 			tags: [""],
 			hidden: true
-		},			
+		},		
+		{
+			src: ["https://cdn.imgchest.com/files/cf5face30a02.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/1e98d2a64ad7.png",
+			title: "Bug Lovers Unite",
+			artist: "Cold_Ohiya",
+			artist_url: "https://x.com/cold_ohiya",
+			desc: "A collab with my friend, Petra, which was funded by our other friend, Grade! It features her Leif x Nanna fankid, Fintan, who is also a little brother and bug lover much like Morgan! Naturally, I imagine they would be great friends.",
+			date_str: "September 2026",
+			tags: ["Fire Emblem", "Male Morgan", "Fintan", "Collab"],
+			hidden: false
+		},				
+		{
+			src: ["https://cdn.imgchest.com/files/94a0775ea836.png"],
+			thumbnail: "https://cdn.imgchest.com/files/2f07ed30e56a.png",
+			title: "Naga's Beloved Puppet",
+			artist: "Arcavyn",
+			artist_url: "https://x.com/_arcavyn",
+			desc: "I was long overdue to get a piece with just roleswap Chrom and Robin proper, so I'm delighted to finally have this checked off my list. I love how you can see the strings actually tied around Robin's neck and wrists, and the way Arcavyn drew her Exalt headpiece crumbling away. It's a truly breathtaking piece.",
+			date_str: "September 2026",
+			tags: ["Fire Emblem", "Chrom", "Female Robin", "Chrobin", "Roleswap AU"],
+			hidden: false
+		},						
 		{
 			src: ["https://cdn.imgchest.com/files/ca577bdaea33.png"],
 			thumbnail: "https://cdn.imgchest.com/files/e30261ec0783.png",
